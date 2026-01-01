@@ -1,6 +1,6 @@
 # The Bee’s Journey
 
-**The Bee’s Journey** (**TBJ**) is an add-on campaign for [Battle for Wesnoth][https://www.wesnoth.org].
+**The Bee’s Journey** (**TBJ**) is an add-on campaign for [Battle for Wesnoth](https://www.wesnoth.org).
 
 ## Description
 
