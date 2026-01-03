@@ -1,0 +1,1476 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
+"POT-Creation-Date: 2026-01-03 02:02 UTC\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. [campaign]: id=The_Bees_Journey
+#: The_Bees_Journey/_main.cfg:25
+msgid "TBJ"
+msgstr ""
+
+#. [campaign]: id=The_Bees_Journey
+#: The_Bees_Journey/_main.cfg:26
+msgid "The Bee’s Journey"
+msgstr ""
+
+#. [campaign]: id=The_Bees_Journey
+#: The_Bees_Journey/_main.cfg:31
+msgid "That summer, the Kingdom of Bees was destroyed under the hornet invasion. You, the lone surviving princess, must lead the bees on their journey to rebuild the homeland."
+msgstr ""
+
+#. [campaign]: id=The_Bees_Journey
+#: The_Bees_Journey/_main.cfg:33
+msgid "(Intermediate level, 12 scenarios.)"
+msgstr ""
+
+#. [campaign]: id=The_Bees_Journey
+#: The_Bees_Journey/_main.cfg:37
+msgid "Princess"
+msgstr ""
+
+#. [campaign]: id=The_Bees_Journey
+#: The_Bees_Journey/_main.cfg:37
+msgid "Easy"
+msgstr ""
+
+#. [campaign]: id=The_Bees_Journey
+#: The_Bees_Journey/_main.cfg:38
+msgid "New Queen"
+msgstr ""
+
+#. [campaign]: id=The_Bees_Journey
+#: The_Bees_Journey/_main.cfg:38
+msgid "Normal"
+msgstr ""
+
+#. [campaign]: id=The_Bees_Journey
+#: The_Bees_Journey/_main.cfg:39
+msgid "Queen"
+msgstr ""
+
+#. [campaign]: id=The_Bees_Journey
+#: The_Bees_Journey/_main.cfg:39
+msgid "Hard"
+msgstr ""
+
+#. [about]
+#: The_Bees_Journey/_main.cfg:44
+msgid "Campaign Design"
+msgstr ""
+
+#. [about]
+#: The_Bees_Journey/_main.cfg:50
+msgid "Campaign Maintenance"
+msgstr ""
+
+#. [about]
+#: The_Bees_Journey/_main.cfg:56
+msgid "Story Assistance"
+msgstr ""
+
+#. [about]
+#: The_Bees_Journey/_main.cfg:62
+msgid "Artwork and Graphics Design"
+msgstr ""
+
+#. [about]
+#: The_Bees_Journey/_main.cfg:73
+msgid "Additional thanks to"
+msgstr ""
+
+#. [entry]
+#: The_Bees_Journey/_main.cfg:85
+msgid "You, for playing this campaign"
+msgstr ""
+
+#. [scenario]: id=01_Wrathful_Morning
+#: The_Bees_Journey/scenarios/01_Wrathful_Morning.cfg:5
+msgid "Wrathful Morning"
+msgstr ""
+
+#. [part]
+#: The_Bees_Journey/scenarios/01_Wrathful_Morning.cfg:22
+msgid "The story begins on an island floating at the edge of the Great Ocean. On the island, the Kingdom of Bees had developed and flourished. The bees collected honey, guarded the hive, and lived with their family in harmony."
+msgstr ""
+
+#. [part]
+#: The_Bees_Journey/scenarios/01_Wrathful_Morning.cfg:27
+msgid "Princess Marie grew up under the reign of the great Queen Melissa. From an early age, she was bright and possessed the qualities of a commander, and especially on the battlefield, she showed her exceptional talent."
+msgstr ""
+
+#. [part]
+#: The_Bees_Journey/scenarios/01_Wrathful_Morning.cfg:30
+msgid "In truth, the Kingdom of Bees had not always been peaceful. It was frequently under attack by insects from neighboring islands coveting its abundant resources. Marie and Melissa were pondering how to put an end to this situation."
+msgstr ""
+
+#. [part]
+#: The_Bees_Journey/scenarios/01_Wrathful_Morning.cfg:34
+msgid "That fateful morning, Marie was roused from her deep sleep by the clamorous sound of wings. She could not have known that this was merely the prelude to the long and arduous journey the bees faced..."
+msgstr ""
+
+#. [side]: type=Princess Bee, id=Marie
+#: The_Bees_Journey/scenarios/01_Wrathful_Morning.cfg:43
+#: The_Bees_Journey/scenarios/02_Skirmish_at_Sea.cfg:58
+#: The_Bees_Journey/scenarios/03_Honey_Meets_Darkness.cfg:34
+#: The_Bees_Journey/scenarios/04_To_the_Voyage.cfg:23
+msgid "team_name^Marie"
+msgstr ""
+
+#. [side]: type=Princess Bee, id=Marie
+#: The_Bees_Journey/scenarios/01_Wrathful_Morning.cfg:47
+#: The_Bees_Journey/scenarios/02_Skirmish_at_Sea.cfg:62
+#: The_Bees_Journey/scenarios/03_Honey_Meets_Darkness.cfg:38
+#: The_Bees_Journey/scenarios/04_To_the_Voyage.cfg:27
+msgid "Marie"
+msgstr ""
+
+#. [unit]: type=Elder Bee, id=Noaille
+#: The_Bees_Journey/scenarios/01_Wrathful_Morning.cfg:60
+msgid "Noaille"
+msgstr ""
+
+#. [side]: type=Great Hornet, id=Veraly
+#. [side]
+#: The_Bees_Journey/scenarios/01_Wrathful_Morning.cfg:75
+#: The_Bees_Journey/scenarios/01_Wrathful_Morning.cfg:169
+#: The_Bees_Journey/scenarios/01_Wrathful_Morning.cfg:189
+msgid "team_name^Hornets"
+msgstr ""
+
+#. [side]: type=Great Hornet, id=Veraly
+#: The_Bees_Journey/scenarios/01_Wrathful_Morning.cfg:79
+msgid "Veraly"
+msgstr ""
+
+#. [side]: type=Queen Bee, id=Melissa
+#: The_Bees_Journey/scenarios/01_Wrathful_Morning.cfg:113
+msgid "team_name^Bees"
+msgstr ""
+
+#. [side]: type=Queen Bee, id=Melissa
+#: The_Bees_Journey/scenarios/01_Wrathful_Morning.cfg:117
+msgid "Melissa"
+msgstr ""
+
+#. [objective]: condition=win
+#: The_Bees_Journey/scenarios/01_Wrathful_Morning.cfg:213
+msgid "Defeat the enemy leader"
+msgstr ""
+
+#. [objective]: condition=lose
+#: The_Bees_Journey/scenarios/01_Wrathful_Morning.cfg:218
+#: The_Bees_Journey/scenarios/01_Wrathful_Morning.cfg:467
+#: The_Bees_Journey/scenarios/02_Skirmish_at_Sea.cfg:128
+#: The_Bees_Journey/scenarios/02_Skirmish_at_Sea.cfg:239
+#: The_Bees_Journey/scenarios/03_Honey_Meets_Darkness.cfg:145
+#: The_Bees_Journey/scenarios/04_To_the_Voyage.cfg:120
+msgid "Death of Marie"
+msgstr ""
+
+#. [objective]: condition=lose
+#: The_Bees_Journey/scenarios/01_Wrathful_Morning.cfg:222
+#: The_Bees_Journey/scenarios/01_Wrathful_Morning.cfg:471
+#: The_Bees_Journey/scenarios/02_Skirmish_at_Sea.cfg:132
+#: The_Bees_Journey/scenarios/02_Skirmish_at_Sea.cfg:243
+#: The_Bees_Journey/scenarios/03_Honey_Meets_Darkness.cfg:149
+#: The_Bees_Journey/scenarios/04_To_the_Voyage.cfg:124
+msgid "Death of Noaille"
+msgstr ""
+
+#. [objective]: condition=lose
+#: The_Bees_Journey/scenarios/01_Wrathful_Morning.cfg:226
+#: The_Bees_Journey/scenarios/01_Wrathful_Morning.cfg:475
+msgid "Death of Melissa"
+msgstr ""
+
+#. [message]: speaker=Marie
+#: The_Bees_Journey/scenarios/01_Wrathful_Morning.cfg:253
+msgid "What? What’s going on right now?"
+msgstr ""
+
+#. [message]: speaker=Noaille
+#: The_Bees_Journey/scenarios/01_Wrathful_Morning.cfg:257
+msgid "Dear Marie, this is no time to sleep! Look to the north. We are under enemy attack!"
+msgstr ""
+
+#. [message]: speaker=Melissa
+#: The_Bees_Journey/scenarios/01_Wrathful_Morning.cfg:270
+msgid "We must fight them off this island. Marie, can you take charge?"
+msgstr ""
+
+#. [message]: speaker=Marie
+#: The_Bees_Journey/scenarios/01_Wrathful_Morning.cfg:274
+msgid "Of course, mother!"
+msgstr ""
+
+#. [message]: speaker=Marie
+#: The_Bees_Journey/scenarios/01_Wrathful_Morning.cfg:316
+msgid "Never in my life have I seen so many hornets swarm like this... I have a bad feeling."
+msgstr ""
+
+#. [event]
+#: The_Bees_Journey/scenarios/01_Wrathful_Morning.cfg:319
+msgid "Marie, there’s no need for worry. You will soon see a lot more of my servants."
+msgstr ""
+
+#. [message]: speaker=Marie
+#: The_Bees_Journey/scenarios/01_Wrathful_Morning.cfg:327
+msgid "What was this voice?"
+msgstr ""
+
+#. [message]: speaker=unit
+#: The_Bees_Journey/scenarios/01_Wrathful_Morning.cfg:339
+msgid "Even if you kill me, your doom is imminent..."
+msgstr ""
+
+#. [event]
+#: The_Bees_Journey/scenarios/01_Wrathful_Morning.cfg:363
+msgid "The day has finally come. I made it in time."
+msgstr ""
+
+#. [unit]: type=Great Hornet, id=Zemir
+#: The_Bees_Journey/scenarios/01_Wrathful_Morning.cfg:368
+msgid "Zemir"
+msgstr ""
+
+#. [message]: speaker=Zemir
+#: The_Bees_Journey/scenarios/01_Wrathful_Morning.cfg:391
+msgid "Ah, this is the island we were after! Surround those damn bees, now!"
+msgstr ""
+
+#. [unit]: type=Great Hornet, id=Hinyl
+#: The_Bees_Journey/scenarios/01_Wrathful_Morning.cfg:397
+msgid "Hinyl"
+msgstr ""
+
+#. [message]: speaker=Marie
+#: The_Bees_Journey/scenarios/01_Wrathful_Morning.cfg:430
+msgid "Their reinforcements have arrived. If this goes on, they’ll kill us all!"
+msgstr ""
+
+#. [message]: speaker=Noaille
+#: The_Bees_Journey/scenarios/01_Wrathful_Morning.cfg:434
+msgid "There is no victory for us in this situation; the enemy is far too numerous to take on. We should retreat from here for now!"
+msgstr ""
+
+#. [message]: speaker=Melissa
+#: The_Bees_Journey/scenarios/01_Wrathful_Morning.cfg:438
+msgid "That would be the wise decision. Marie, you must leave the front lines with Noaille. I’ll remain here for a while and keep them occupied. Unfortunately, we have no other choice."
+msgstr ""
+
+#. [message]: speaker=Marie
+#: The_Bees_Journey/scenarios/01_Wrathful_Morning.cfg:442
+msgid "I can’t leave you behind and run away alone!"
+msgstr ""
+
+#. [message]: speaker=Melissa
+#: The_Bees_Journey/scenarios/01_Wrathful_Morning.cfg:446
+msgid "Don’t worry, I’ll surely reach you later. Until then, you’ll be the one to lead everyone. Marie, I believe in your strength — always have, always will."
+msgstr ""
+
+#. [message]: speaker=Melissa
+#. her refers to both Marie and Valois
+#: The_Bees_Journey/scenarios/01_Wrathful_Morning.cfg:451
+msgid "Noaille, I’m entrusting her to you. You know what I mean, right?"
+msgstr ""
+
+#. [message]: speaker=Noaille
+#: The_Bees_Journey/scenarios/01_Wrathful_Morning.cfg:455
+msgid "... Of course, my dear friend."
+msgstr ""
+
+#. [objective]: condition=win
+#: The_Bees_Journey/scenarios/01_Wrathful_Morning.cfg:462
+msgid "Escape Marie to the northwest"
+msgstr ""
+
+#. [message]: speaker=Hinyl
+#: The_Bees_Journey/scenarios/01_Wrathful_Morning.cfg:496
+msgid "This is a waste of time. Call for more reinforcements!"
+msgstr ""
+
+#. [message]: speaker=Marie
+#: The_Bees_Journey/scenarios/01_Wrathful_Morning.cfg:514
+msgid "Mom..."
+msgstr ""
+
+#. [message]: speaker=Marie
+#: The_Bees_Journey/scenarios/01_Wrathful_Morning.cfg:528
+msgid "Mom, I’m sorry. They caught up with me..."
+msgstr ""
+
+#. [unit]: type=Drake Flare, id=Nameless Drake
+#: The_Bees_Journey/scenarios/02_Skirmish_at_Sea.cfg:11
+msgid "Nameless Drake"
+msgstr ""
+
+#. [scenario]: id=02_Skirmish_at_Sea
+#: The_Bees_Journey/scenarios/02_Skirmish_at_Sea.cfg:30
+msgid "Skirmish at Sea"
+msgstr ""
+
+#. [part]
+#: The_Bees_Journey/scenarios/02_Skirmish_at_Sea.cfg:44
+msgid "Marie and the bees escaped, carrying deep concern for the Mother Queen. As their homeland gradually faded from view, Noaille remained silent, occasionally flashing a look of doubt."
+msgstr ""
+
+#. [part]
+#: The_Bees_Journey/scenarios/02_Skirmish_at_Sea.cfg:49
+msgid "<i>“Don’t worry, I’ll surely reach you later.”</i> Marie repeated her mother’s words over and over in her heart. <i>“Marie, I believe in your strength — always have, always will.”</i>"
+msgstr ""
+
+#. [side]: type=Naga Warrior, id=Griam
+#. [side]: type=Naga Ringcaster, id=Silas
+#: The_Bees_Journey/scenarios/02_Skirmish_at_Sea.cfg:77
+#: The_Bees_Journey/scenarios/02_Skirmish_at_Sea.cfg:95
+msgid "team_name^Nagas"
+msgstr ""
+
+#. [side]: type=Naga Warrior, id=Griam
+#: The_Bees_Journey/scenarios/02_Skirmish_at_Sea.cfg:81
+msgid "Griam"
+msgstr ""
+
+#. [side]: type=Naga Ringcaster, id=Silas
+#: The_Bees_Journey/scenarios/02_Skirmish_at_Sea.cfg:99
+msgid "Silas"
+msgstr ""
+
+#. [objective]: condition=win
+#: The_Bees_Journey/scenarios/02_Skirmish_at_Sea.cfg:121
+#: The_Bees_Journey/scenarios/02_Skirmish_at_Sea.cfg:232
+msgid "Resist until the end of turns"
+msgstr ""
+
+#. [objectives]
+#: The_Bees_Journey/scenarios/02_Skirmish_at_Sea.cfg:125
+#: The_Bees_Journey/scenarios/02_Skirmish_at_Sea.cfg:236
+msgid "Defeat both enemy leaders"
+msgstr ""
+
+#. [message]: speaker=Griam
+#: The_Bees_Journey/scenarios/02_Skirmish_at_Sea.cfg:156
+msgid "This is my territory! Get out of here!"
+msgstr ""
+
+#. [message]: speaker=Silas
+#: The_Bees_Journey/scenarios/02_Skirmish_at_Sea.cfg:160
+msgid "No, this is my territory! YOU get out!"
+msgstr ""
+
+#. [message]: speaker=Griam
+#: The_Bees_Journey/scenarios/02_Skirmish_at_Sea.cfg:164
+msgid "Shut up— ... No, wait a minute. What’s over there?"
+msgstr ""
+
+#. [message]: speaker=Noaille
+#: The_Bees_Journey/scenarios/02_Skirmish_at_Sea.cfg:168
+msgid "Hello, sea dwellers. We are sorry for intruding here without your permission. However, we are truly exhausted right now. Could we please rest here for a while?"
+msgstr ""
+
+#. [message]: speaker=Griam
+#: The_Bees_Journey/scenarios/02_Skirmish_at_Sea.cfg:172
+msgid "Whoa, these bees are speaking..."
+msgstr ""
+
+#. [message]: speaker=Silas
+#: The_Bees_Journey/scenarios/02_Skirmish_at_Sea.cfg:176
+msgid "How dare you challenge me! This is my territory! No mercy!"
+msgstr ""
+
+#. [message]: speaker=Griam
+#: The_Bees_Journey/scenarios/02_Skirmish_at_Sea.cfg:180
+msgid "No, this is my..."
+msgstr ""
+
+#. [message]: speaker=Griam
+#: The_Bees_Journey/scenarios/02_Skirmish_at_Sea.cfg:189
+msgid "Got it. It seems I need to get rid of these bugs first."
+msgstr ""
+
+#. [message]: speaker=Marie
+#: The_Bees_Journey/scenarios/02_Skirmish_at_Sea.cfg:193
+msgid "Well, I guess we can’t take a rest after all."
+msgstr ""
+
+#. [message]: speaker=unit
+#: The_Bees_Journey/scenarios/02_Skirmish_at_Sea.cfg:207
+msgid "Someone is trapped in this cage!"
+msgstr ""
+
+#. [message]: speaker=Nameless Drake
+#: The_Bees_Journey/scenarios/02_Skirmish_at_Sea.cfg:215
+msgid "Oh, I’m finally free! Did you help me?"
+msgstr ""
+
+#. [message]: speaker=Noaille
+#: The_Bees_Journey/scenarios/02_Skirmish_at_Sea.cfg:219
+msgid "Yes. We are bees, and she is our princess, Marie. You appear to be of the race known as drakes."
+msgstr ""
+
+#. [message]: speaker=Nameless Drake
+#: The_Bees_Journey/scenarios/02_Skirmish_at_Sea.cfg:223
+msgid "Wow, how fascinating. I’d like to introduce myself, but right now it’s better to focus on taking down these pirates. I’m joining you!"
+msgstr ""
+
+#. [message]: speaker=Marie
+#: The_Bees_Journey/scenarios/02_Skirmish_at_Sea.cfg:227
+msgid "That would be a great help!"
+msgstr ""
+
+#. [objective]: condition=lose
+#: The_Bees_Journey/scenarios/02_Skirmish_at_Sea.cfg:247
+msgid "Death of Nameless Drake"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: The_Bees_Journey/scenarios/02_Skirmish_at_Sea.cfg:271
+msgid "You retrieve 75 pieces of gold!"
+msgstr ""
+
+#. [message]: speaker=Noaille
+#: The_Bees_Journey/scenarios/02_Skirmish_at_Sea.cfg:303
+msgid "They have begun retreating from here. It seems we have overcome this difficulty."
+msgstr ""
+
+#. [message]: speaker=Nameless Drake
+#: The_Bees_Journey/scenarios/02_Skirmish_at_Sea.cfg:313
+msgid "Serves you right, damn nagas!"
+msgstr ""
+
+#. [message]: speaker=Nameless Drake
+#: The_Bees_Journey/scenarios/02_Skirmish_at_Sea.cfg:322
+msgid "Oh, I’m finally free! Did you defeat these pirates? Thanks to you, I got a chance to escape the cage."
+msgstr ""
+
+#. [message]: speaker=Noaille
+#: The_Bees_Journey/scenarios/02_Skirmish_at_Sea.cfg:326
+msgid "Who are you? We are bees, and she is our princess, Marie."
+msgstr ""
+
+#. [message]: speaker=Nameless Drake
+#: The_Bees_Journey/scenarios/02_Skirmish_at_Sea.cfg:337
+msgid "I’m a prisoner of these pirate nagas. They’ve held me captive for quite a long time now, and if you hadn’t come, I would have remained miserable forever. Thank you truly for your help."
+msgstr ""
+
+#. [message]: speaker=Nameless Drake
+#: The_Bees_Journey/scenarios/02_Skirmish_at_Sea.cfg:341
+msgid "Are you bees on a journey? If so, might I join you? Even if I remember the way, I don’t think I can make it back home on my own anymore. I have nowhere else to go."
+msgstr ""
+
+#. [message]: speaker=Marie
+#: The_Bees_Journey/scenarios/02_Skirmish_at_Sea.cfg:345
+msgid "Of course, you’re welcome to join us! We are searching for a way to rescue the kingdom... By the way, your name is?"
+msgstr ""
+
+#. [message]: speaker=Nameless Drake
+#: The_Bees_Journey/scenarios/02_Skirmish_at_Sea.cfg:349
+msgid "I am... I am... I can’t remember my own name?"
+msgstr ""
+
+#. [message]: speaker=Marie
+#: The_Bees_Journey/scenarios/02_Skirmish_at_Sea.cfg:353
+msgid "... Is forgetting your name, not similar to forgetting your own identity?"
+msgstr ""
+
+#. [message]: speaker=Nameless Drake
+#: The_Bees_Journey/scenarios/02_Skirmish_at_Sea.cfg:362
+msgid "<i><big>ROAR!!!</big></i>"
+msgstr ""
+
+#. [message]: speaker=Noaille
+#: The_Bees_Journey/scenarios/02_Skirmish_at_Sea.cfg:366
+msgid "Marie! That does not help the situation; dragons are often very egotistical!"
+msgstr ""
+
+#. [message]: speaker=Marie
+#: The_Bees_Journey/scenarios/02_Skirmish_at_Sea.cfg:370
+msgid "I’m sorry! I am really sorry! Maybe you could get... a new name?"
+msgstr ""
+
+#. [message]: speaker=Nameless Drake
+#: The_Bees_Journey/scenarios/02_Skirmish_at_Sea.cfg:374
+msgid "A new... name?"
+msgstr ""
+
+#. [message]: speaker=Marie
+#: The_Bees_Journey/scenarios/02_Skirmish_at_Sea.cfg:378
+msgid "Yes, a new name. Like one sign of changing your life. <i>Mister Dragon</i> is slightly long, so how about <i>Drago-chan</i>?"
+msgstr ""
+
+#. [modify_unit]: id=Dragochan
+#: The_Bees_Journey/scenarios/02_Skirmish_at_Sea.cfg:387
+msgid "Dragochan"
+msgstr ""
+
+#. [message]: speaker=Dragochan
+#: The_Bees_Journey/scenarios/02_Skirmish_at_Sea.cfg:392
+msgid "Hmm, Drago... chan... Yes, I will accept that. As proof of my release from imprisonment and new life with the kind princess and gentle people of the Kingdom of Bees, I shall henceforth be called Lord Dragon."
+msgstr ""
+
+#. [message]: speaker=Marie
+#: The_Bees_Journey/scenarios/02_Skirmish_at_Sea.cfg:396
+msgid "<small>Wow, that last part was very formal...</small> So what should we do now? We can’t stay here forever."
+msgstr ""
+
+#. [message]: speaker=Noaille
+#: The_Bees_Journey/scenarios/02_Skirmish_at_Sea.cfg:400
+msgid "We should head for Lagos Island. It should be possible to secure our safety for the time being."
+msgstr ""
+
+#. [scenario]: id=03_Honey_Meets_Darkness
+#: The_Bees_Journey/scenarios/03_Honey_Meets_Darkness.cfg:5
+msgid "Honey Meets Darkness"
+msgstr ""
+
+#. [part]
+#: The_Bees_Journey/scenarios/03_Honey_Meets_Darkness.cfg:21
+msgid "On Lagos Island, the Kingdom of Ants had flourished, sharing a centuries-long friendship with the bees. Noaille believed securing their help is the first step to overcoming the crisis. Following her advice, the party set off for Lagos Island."
+msgstr ""
+
+#. [part]
+#: The_Bees_Journey/scenarios/03_Honey_Meets_Darkness.cfg:25
+msgid "However, they had no map and soon lost their way. Dragochan spotted an island beyond the horizon, and they decided to rest there for a while..."
+msgstr ""
+
+#. [side]: type=Lich, id=Mal Kaldyn
+#. [side]: type=Banebow, id=Guardian
+#. [side]: type=Death Knight, id=Ordin
+#: The_Bees_Journey/scenarios/03_Honey_Meets_Darkness.cfg:67
+#: The_Bees_Journey/scenarios/03_Honey_Meets_Darkness.cfg:88
+#: The_Bees_Journey/scenarios/04_To_the_Voyage.cfg:42
+msgid "team_name^Undead"
+msgstr ""
+
+#. [side]: type=Lich, id=Mal Kaldyn
+#: The_Bees_Journey/scenarios/03_Honey_Meets_Darkness.cfg:71
+msgid "Mal Kaldyn"
+msgstr ""
+
+#. [side]: type=Banebow, id=Guardian
+#. [modify_unit]
+#. [unit]: type=Bone Shooter, id=Guardian
+#: The_Bees_Journey/scenarios/03_Honey_Meets_Darkness.cfg:92
+#: The_Bees_Journey/scenarios/03_Honey_Meets_Darkness.cfg:182
+#: The_Bees_Journey/scenarios/04_To_the_Voyage.cfg:147
+msgid "Guardian"
+msgstr ""
+
+#. [side]
+#: The_Bees_Journey/scenarios/03_Honey_Meets_Darkness.cfg:112
+msgid "team_name^Merfolk"
+msgstr ""
+
+#. [objective]: condition=win
+#: The_Bees_Journey/scenarios/03_Honey_Meets_Darkness.cfg:140
+msgid "Defeat Mal Kaldyn"
+msgstr ""
+
+#. [objective]: condition=lose
+#: The_Bees_Journey/scenarios/03_Honey_Meets_Darkness.cfg:153
+#: The_Bees_Journey/scenarios/04_To_the_Voyage.cfg:128
+msgid "Death of Dragochan"
+msgstr ""
+
+#. [message]: speaker=Dragochan
+#: The_Bees_Journey/scenarios/03_Honey_Meets_Darkness.cfg:203
+msgid "Umm, what a disgusting swamp this is. I finally found a place to rest, yet it’s filled with strange smells and utterly unpleasant—"
+msgstr ""
+
+#. [message]: speaker=Dragochan
+#: The_Bees_Journey/scenarios/03_Honey_Meets_Darkness.cfg:207
+msgid "ARGH! Mosquitoes! There are a ton of mosquitoes here!"
+msgstr ""
+
+#. [message]: speaker=Noaille
+#: The_Bees_Journey/scenarios/03_Honey_Meets_Darkness.cfg:212
+msgid "I can’t warm up to such a bad-taste environment."
+msgstr ""
+
+#. [message]: speaker=Guardian
+#: The_Bees_Journey/scenarios/03_Honey_Meets_Darkness.cfg:216
+msgid "Hey, I can hear you, intruders! Who the hell are you?"
+msgstr ""
+
+#. [message]: speaker=Dragochan
+#: The_Bees_Journey/scenarios/03_Honey_Meets_Darkness.cfg:220
+msgid "Did you hear me? You’ve got sharp ears despite being a skeleton..."
+msgstr ""
+
+#. [message]: speaker=Mal Kaldyn
+#: The_Bees_Journey/scenarios/03_Honey_Meets_Darkness.cfg:224
+msgid "Bees! I can’t stand if they sting me, someone call an exterminator!"
+msgstr ""
+
+#. [message]: speaker=Marie
+#: The_Bees_Journey/scenarios/03_Honey_Meets_Darkness.cfg:228
+msgid "Don’t call an exterminator! I’ll give you some delicious honey!"
+msgstr ""
+
+#. [message]: speaker=Mal Kaldyn
+#: The_Bees_Journey/scenarios/03_Honey_Meets_Darkness.cfg:232
+msgid "Well, there’s no need to call an exterminator. My servants should be enough to clean them up."
+msgstr ""
+
+#. [message]: speaker=Dragochan
+#: The_Bees_Journey/scenarios/03_Honey_Meets_Darkness.cfg:236
+msgid "He’s not listening at all. What should we do?"
+msgstr ""
+
+#. [message]: speaker=Noaille
+#: The_Bees_Journey/scenarios/03_Honey_Meets_Darkness.cfg:240
+msgid "Let us act to protect ourselves. If we can defeat that necromancer, the threat plaguing this land should be gone."
+msgstr ""
+
+#. [unit]: type=Merman Entangler, id=Gekko
+#: The_Bees_Journey/scenarios/03_Honey_Meets_Darkness.cfg:252
+msgid "Gekko"
+msgstr ""
+
+#. [message]: speaker=Gekko
+#: The_Bees_Journey/scenarios/03_Honey_Meets_Darkness.cfg:275
+msgid "Look! He is the source of the evil that has defiled this swamp! We merfolk must reclaim this land."
+msgstr ""
+
+#. [message]: speaker=Mal Kaldyn
+#: The_Bees_Journey/scenarios/03_Honey_Meets_Darkness.cfg:279
+msgid "You stubborn lot, if I could go anywhere else, I wouldn’t have any attachment to this island either. How many times do you want me to explain the same thing?"
+msgstr ""
+
+#. [message]: speaker=Gekko
+#: The_Bees_Journey/scenarios/03_Honey_Meets_Darkness.cfg:283
+msgid "Shut up! No race other than merfolk is needed on this island! Soldiers, kill them all!"
+msgstr ""
+
+#. [message]: speaker=second_unit
+#: The_Bees_Journey/scenarios/03_Honey_Meets_Darkness.cfg:307
+msgid "Hold on, we have no intention of opposing you guys..."
+msgstr ""
+
+#. [message]: speaker=unit
+#: The_Bees_Journey/scenarios/03_Honey_Meets_Darkness.cfg:311
+msgid "Get lost, you annoying bug!"
+msgstr ""
+
+#. [message]: speaker=Marie
+#: The_Bees_Journey/scenarios/03_Honey_Meets_Darkness.cfg:324
+msgid "I had a little hope for an alliance with them, but it seems impossible."
+msgstr ""
+
+#. [message]: speaker=unit
+#: The_Bees_Journey/scenarios/03_Honey_Meets_Darkness.cfg:338
+msgid "No way! There’s no way I, a great leader, could lose..."
+msgstr ""
+
+#. [message]: speaker=Mal Kaldyn
+#: The_Bees_Journey/scenarios/03_Honey_Meets_Darkness.cfg:353
+msgid "Did those bees take him down? How strange..."
+msgstr ""
+
+#. [scenario]: id=03_Honey_Meets_Darkness
+#: The_Bees_Journey/scenarios/03_Honey_Meets_Darkness.cfg:366
+msgid "Equipping this mysterious bow grants them a new ranged attack and increased swiftness. Should $unit.name use it?"
+msgstr ""
+
+#. [scenario]: id=03_Honey_Meets_Darkness
+#: The_Bees_Journey/scenarios/03_Honey_Meets_Darkness.cfg:367
+msgid "elven bow^Take it"
+msgstr ""
+
+#. [scenario]: id=03_Honey_Meets_Darkness
+#: The_Bees_Journey/scenarios/03_Honey_Meets_Darkness.cfg:368
+msgid "elven bow^Leave it"
+msgstr ""
+
+#. [scenario]: id=03_Honey_Meets_Darkness
+#: The_Bees_Journey/scenarios/03_Honey_Meets_Darkness.cfg:369
+msgid "$unit.name cannot use this bow! Let a bee except a drone or Dragochan have it."
+msgstr ""
+
+#. [object]
+#: The_Bees_Journey/scenarios/03_Honey_Meets_Darkness.cfg:371
+msgid "Elven Bow"
+msgstr ""
+
+#. [object]
+#: The_Bees_Journey/scenarios/03_Honey_Meets_Darkness.cfg:374
+msgid "This bow’s new attack is always powerful and accurate. It also enhances the wearer’s movement."
+msgstr ""
+
+#. [effect]: type=pierce
+#: The_Bees_Journey/scenarios/03_Honey_Meets_Darkness.cfg:378
+msgid "elven bow"
+msgstr ""
+
+#. [message]: speaker=Dragochan
+#: The_Bees_Journey/scenarios/03_Honey_Meets_Darkness.cfg:414
+msgid "Wow, this is an elven-magic bow. Was there an elf on this island?"
+msgstr ""
+
+#. [message]: speaker=unit
+#: The_Bees_Journey/scenarios/03_Honey_Meets_Darkness.cfg:445
+msgid "No way! How could bees... defeat me..."
+msgstr ""
+
+#. [message]: speaker=Dragochan
+#: The_Bees_Journey/scenarios/03_Honey_Meets_Darkness.cfg:449
+msgid "Are you ready to go to hell? I’ll burn you now."
+msgstr ""
+
+#. [message]: speaker=unit
+#: The_Bees_Journey/scenarios/03_Honey_Meets_Darkness.cfg:453
+msgid "Wait! REALLY! I’ll do anything, so spare me! I’ll give you this land too!"
+msgstr ""
+
+#. [message]: speaker=Dragochan
+#: The_Bees_Journey/scenarios/03_Honey_Meets_Darkness.cfg:457
+msgid "What a shameful man. We have no use for such a swamp."
+msgstr ""
+
+#. [message]: speaker=Noaille
+#: The_Bees_Journey/scenarios/03_Honey_Meets_Darkness.cfg:461
+msgid "Dragochan, wait a minute. Listen lich, if you surrender to us and renounce your evil acts, we may consider sparing your life. Your long experience might prove useful to us. However, this is on the premise that you never again perform the evil of raising the dead."
+msgstr ""
+
+#. [message]: speaker=Dragochan
+#: The_Bees_Journey/scenarios/03_Honey_Meets_Darkness.cfg:465
+msgid "You plan to let him join your journey? You must be joking. I’ve seen many detestable races in my time, but the undead are the worst of them all! Especially those who still possess their own will."
+msgstr ""
+
+#. [message]: speaker=Noaille
+#: The_Bees_Journey/scenarios/03_Honey_Meets_Darkness.cfg:469
+msgid "Of course, I understand how dangerous the undead are. They once carved an incurable wound into my heart. Queen Melissa felt the same. I have never forgotten my hatred for that evil."
+msgstr ""
+
+#. [message]: speaker=Noaille
+#: The_Bees_Journey/scenarios/03_Honey_Meets_Darkness.cfg:473
+msgid "But now the situation is far too dire. We need any help we can get. There’s even a saying: fight fire with fire."
+msgstr ""
+
+#. [message]: speaker=Dragochan
+#: The_Bees_Journey/scenarios/03_Honey_Meets_Darkness.cfg:477
+msgid "I’m against it! He’ll only make the situation you said worse. Marie, you agree with me, right?"
+msgstr ""
+
+#. [message]: speaker=unit
+#: The_Bees_Journey/scenarios/03_Honey_Meets_Darkness.cfg:481
+msgid "... I’ll do anything..."
+msgstr ""
+
+#. [message]: speaker=Marie
+#: The_Bees_Journey/scenarios/03_Honey_Meets_Darkness.cfg:485
+msgid "We’d like to go to Lagos Island, but we got lost because we have no map. Could you show us the way?"
+msgstr ""
+
+#. [message]: speaker=unit
+#: The_Bees_Journey/scenarios/03_Honey_Meets_Darkness.cfg:489
+msgid "If my memory serves, Lagos Island is near this island. I’ve never ventured there willingly, but I can guide you. I’ve grown utterly weary of spending time in this swamp anyway."
+msgstr ""
+
+#. [message]: speaker=Dragochan
+#: The_Bees_Journey/scenarios/03_Honey_Meets_Darkness.cfg:493
+msgid "Alas, Dragon God... My bad feeling is coming true... Hey, shameful man, swear absolute loyalty to this savior of your life. And you must never be a necromancer anymore. ANSWER?"
+msgstr ""
+
+#. [modify_unit]
+#: The_Bees_Journey/scenarios/03_Honey_Meets_Darkness.cfg:500
+msgid "Kaldyn"
+msgstr ""
+
+#. [message]: speaker=unit
+#: The_Bees_Journey/scenarios/03_Honey_Meets_Darkness.cfg:508
+msgid "Sure. From today, I, Kaldyn, will serve you people."
+msgstr ""
+
+#. [scenario]: id=04_To_the_Voyage, id=Kaldyn
+#: The_Bees_Journey/scenarios/04_To_the_Voyage.cfg:5
+msgid "To the Voyage"
+msgstr ""
+
+#. [side]: type=Death Knight, id=Ordin
+#: The_Bees_Journey/scenarios/04_To_the_Voyage.cfg:46
+msgid "Ordin"
+msgstr ""
+
+#. [side]: type=Elder Wose, id=Tantondernintan
+#: The_Bees_Journey/scenarios/04_To_the_Voyage.cfg:72
+msgid "team_name^Wose"
+msgstr ""
+
+#. [side]: type=Elder Wose, id=Tantondernintan
+#: The_Bees_Journey/scenarios/04_To_the_Voyage.cfg:76
+msgid "Tantondernintan"
+msgstr ""
+
+#. [scenario]: id=04_To_the_Voyage, id=Kaldyn
+#: The_Bees_Journey/scenarios/04_To_the_Voyage.cfg:109
+msgid "The Great Lake"
+msgstr ""
+
+#. [objective]: condition=win
+#: The_Bees_Journey/scenarios/04_To_the_Voyage.cfg:115
+msgid "Move Kaldyn to the pier in the north"
+msgstr ""
+
+#. [objective]: condition=lose
+#: The_Bees_Journey/scenarios/04_To_the_Voyage.cfg:132
+msgid "Destruction of Kaldyn"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: The_Bees_Journey/scenarios/04_To_the_Voyage.cfg:218
+msgid "The party reached the port on the island."
+msgstr ""
+
+#. [message]: speaker=Kaldyn
+#: The_Bees_Journey/scenarios/04_To_the_Voyage.cfg:223
+msgid "Heading northeast from here will take you to Lagos Island."
+msgstr ""
+
+#. [message]: speaker=Noaille
+#: The_Bees_Journey/scenarios/04_To_the_Voyage.cfg:227
+msgid "Very well, then we must leave from here in haste. We have no time to spare."
+msgstr ""
+
+#. [message]: speaker=Kaldyn
+#: The_Bees_Journey/scenarios/04_To_the_Voyage.cfg:231
+msgid "Wait! You might be able to fly, but I can’t. So how am I supposed to cross the sea?"
+msgstr ""
+
+#. [message]: speaker=Dragochan
+#: The_Bees_Journey/scenarios/04_To_the_Voyage.cfg:235
+msgid "Why don’t you swim?"
+msgstr ""
+
+#. [message]: speaker=Kaldyn
+#: The_Bees_Journey/scenarios/04_To_the_Voyage.cfg:239
+msgid "No way. But you could carry—"
+msgstr ""
+
+#. [message]: speaker=Dragochan
+#: The_Bees_Journey/scenarios/04_To_the_Voyage.cfg:243
+msgid "(<i>death stare</i>) ..."
+msgstr ""
+
+#. [message]: speaker=Kaldyn
+#: The_Bees_Journey/scenarios/04_To_the_Voyage.cfg:247
+msgid "I’d like to go by ship. YES! I’d love to ride in the boat! I mean, that is why we came to this port. Haha... gulp."
+msgstr ""
+
+#. [message]: speaker=Marie
+#: The_Bees_Journey/scenarios/04_To_the_Voyage.cfg:251
+msgid "Be quiet for a moment. There seems to be some commotion over there."
+msgstr ""
+
+#. [message]: speaker=Tantondernintan
+#: The_Bees_Journey/scenarios/04_To_the_Voyage.cfg:255
+msgid "Evil creatures ravaging our forest! This is your last day!"
+msgstr ""
+
+#. [message]: speaker=Ordin
+#: The_Bees_Journey/scenarios/04_To_the_Voyage.cfg:259
+msgid "You rotten piece of wood. If you can do it, do it."
+msgstr ""
+
+#. [message]: speaker=Kaldyn
+#: The_Bees_Journey/scenarios/04_To_the_Voyage.cfg:263
+msgid "What the hell is going on? Skeleton, explain."
+msgstr ""
+
+#. [message]: speaker=Ordin
+#: The_Bees_Journey/scenarios/04_To_the_Voyage.cfg:267
+msgid "Whoa, are you my former master? Dear Kaldyn, I refuse to serve such a ridiculous fool who surrenders to insects smaller than yourself."
+msgstr ""
+
+#. [message]: speaker=Dragochan
+#: The_Bees_Journey/scenarios/04_To_the_Voyage.cfg:271
+msgid "Haha, it seems you’ve lost all respect. Or did he harbor resentment against you all along?"
+msgstr ""
+
+#. [message]: speaker=Kaldyn
+#: The_Bees_Journey/scenarios/04_To_the_Voyage.cfg:275
+msgid "Umm... Skeleton, we must head to Lagos Island via the port near you. If you can understand, don’t interfere."
+msgstr ""
+
+#. [message]: speaker=Ordin
+#: The_Bees_Journey/scenarios/04_To_the_Voyage.cfg:279
+msgid "How aggravating! You third-rate sorcerer, I’ll destroy you without a trace!"
+msgstr ""
+
+#. [message]: speaker=Tantondernintan
+#: The_Bees_Journey/scenarios/04_To_the_Voyage.cfg:283
+msgid "You too."
+msgstr ""
+
+#. [message]: speaker=Dragochan
+#: The_Bees_Journey/scenarios/04_To_the_Voyage.cfg:293
+msgid "<i>Marie... I still can’t shake my concern about that lich. I truly feel indebted to you and want to help you on your journey. His case, however, is simply that he wants to save himself.</i>"
+msgstr ""
+
+#. [message]: speaker=Marie
+#: The_Bees_Journey/scenarios/04_To_the_Voyage.cfg:297
+msgid "<i>That’s probably true right now... But I don’t see him as truly evil. He might be able to regain something he lost.</i>"
+msgstr ""
+
+#. [message]: speaker=Dragochan
+#: The_Bees_Journey/scenarios/04_To_the_Voyage.cfg:301
+msgid "<i>You are too gentle as one who shall become queen... But I see. I’ll keep an eye on him, but nothing more.</i>"
+msgstr ""
+
+#. [message]: speaker=Marie
+#: The_Bees_Journey/scenarios/04_To_the_Voyage.cfg:309
+msgid "<i>Come to think of it, Noaille, you mentioned something I didn’t know during the battle with Kaldyn; that the undead carved a wound into your heart. What exactly happened? Does my mother have anything to with it?</i>"
+msgstr ""
+
+#. [message]: speaker=Noaille
+#: The_Bees_Journey/scenarios/04_To_the_Voyage.cfg:313
+msgid "<i>It happened before you were born, and it’s no big deal. I have nothing worth telling.</i>"
+msgstr ""
+
+#. [message]: speaker=Marie
+#: The_Bees_Journey/scenarios/04_To_the_Voyage.cfg:317
+msgid "<i>Well, that’s fine then.</i>"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: The_Bees_Journey/scenarios/04_To_the_Voyage.cfg:331
+msgid "<i>To the Undead or Wose: <b>Go away.</b> There’s nothing for you here.</i>"
+msgstr ""
+
+#. [message]: speaker=unit
+#: The_Bees_Journey/scenarios/04_To_the_Voyage.cfg:345
+msgid "Who are you standing there?"
+msgstr ""
+
+#. [unit]: type=Elvish Lord, id=Clovis
+#: The_Bees_Journey/scenarios/04_To_the_Voyage.cfg:355
+msgid "Clovis"
+msgstr ""
+
+#. [dummy]: id=fire_master
+#: The_Bees_Journey/scenarios/04_To_the_Voyage.cfg:375
+msgid "fire master"
+msgstr ""
+
+#. [dummy]: id=fire_master
+#: The_Bees_Journey/scenarios/04_To_the_Voyage.cfg:376
+msgid "female^fire master"
+msgstr ""
+
+#. [dummy]: id=fire_master
+#. [message]: speaker=narrator
+#: The_Bees_Journey/scenarios/04_To_the_Voyage.cfg:377
+#: The_Bees_Journey/scenarios/04_To_the_Voyage.cfg:485
+msgid ""
+"Clovis is skilled in fire magic and can summon Fire Guardians anywhere without spending gold or upkeep. However, only two can be summoned on the map.\n"
+"\n"
+"Note that summoned Fire Guardians will not be added to your recall list."
+msgstr ""
+
+#. [set_menu_item]: id=fire_master
+#: The_Bees_Journey/scenarios/04_To_the_Voyage.cfg:398
+msgid "Summon a Fire Guardian"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: The_Bees_Journey/scenarios/04_To_the_Voyage.cfg:415
+msgid "You cannot summon more than two!"
+msgstr ""
+
+#. [message]: speaker=Clovis
+#: The_Bees_Journey/scenarios/04_To_the_Voyage.cfg:453
+msgid "This is surprising, a speech-wielding bee has come to visit me. I am Clovis, the only elf on this island, called the Fire Master."
+msgstr ""
+
+#. [message]: speaker=Dragochan
+#: The_Bees_Journey/scenarios/04_To_the_Voyage.cfg:457
+msgid "Finding an elf here is unexpected, but convenient. Those trees are allies of the elves, correct? Please tell them to cease their attacks against us."
+msgstr ""
+
+#. [message]: speaker=Clovis
+#: The_Bees_Journey/scenarios/04_To_the_Voyage.cfg:461
+msgid "No, they are my enemies. They treated me like a madman, and a few weeks ago, they even drove me out of the forest. How utterly rude! I merely used them in my experiments a little, in pursuit of truth..."
+msgstr ""
+
+#. [message]: speaker=Dragochan
+#: The_Bees_Journey/scenarios/04_To_the_Voyage.cfg:465
+msgid "I see. <small>I’d better not ask about the experiment details...</small>"
+msgstr ""
+
+#. [message]: speaker=Clovis
+#: The_Bees_Journey/scenarios/04_To_the_Voyage.cfg:469
+msgid "But are you bringing a necromancer? Those undead are a real nuisance. If you possess the wisdom to understand words, you should know that they are beings that should be destroyed."
+msgstr ""
+
+#. [message]: speaker=Noaille
+#: The_Bees_Journey/scenarios/04_To_the_Voyage.cfg:473
+msgid "He’s merely a guide. Of course, when he uses necromancy again, we’ll destroy him."
+msgstr ""
+
+#. [message]: speaker=Clovis
+#: The_Bees_Journey/scenarios/04_To_the_Voyage.cfg:477
+msgid "Well, that’s not for me to interfere in. By the way, I have a request: might I accompany you as well? I was just about to move away from here, and you people are truly interesting."
+msgstr ""
+
+#. [message]: speaker=Marie
+#: The_Bees_Journey/scenarios/04_To_the_Voyage.cfg:481
+msgid "You are welcome, but only on the condition that you do NOT use us as experimental materials..."
+msgstr ""
+
+#. [message]: speaker=Kaldyn
+#: The_Bees_Journey/scenarios/04_To_the_Voyage.cfg:505
+msgid "This lake..."
+msgstr ""
+
+#. [message]: speaker=Noaille
+#: The_Bees_Journey/scenarios/04_To_the_Voyage.cfg:509
+msgid "What a big lake. Do you know this?"
+msgstr ""
+
+#. [message]: speaker=Kaldyn
+#: The_Bees_Journey/scenarios/04_To_the_Voyage.cfg:513
+msgid "After I washed ashore on this island, I found this lake almost immediately. I remember feeling it was incredibly beautiful. But this will likely be the last time I ever see this lake."
+msgstr ""
+
+#. [message]: speaker=Noaille
+#: The_Bees_Journey/scenarios/04_To_the_Voyage.cfg:517
+msgid "... If you still have even a shred of lingering feelings, you can go there. You have that right."
+msgstr ""
+
+#. [message]: speaker=Kaldyn
+#: The_Bees_Journey/scenarios/04_To_the_Voyage.cfg:521
+msgid "..."
+msgstr ""
+
+#. [scenario]: id=04_To_the_Voyage, id=Kaldyn
+#: The_Bees_Journey/scenarios/04_To_the_Voyage.cfg:532
+msgid "This necklace grants healing magic. Should $unit.name take it?"
+msgstr ""
+
+#. [scenario]: id=04_To_the_Voyage, id=Kaldyn
+#: The_Bees_Journey/scenarios/04_To_the_Voyage.cfg:533
+msgid "necklace of life^Take it"
+msgstr ""
+
+#. [scenario]: id=04_To_the_Voyage, id=Kaldyn
+#: The_Bees_Journey/scenarios/04_To_the_Voyage.cfg:534
+msgid "necklace of life^Leave it"
+msgstr ""
+
+#. [scenario]: id=04_To_the_Voyage, id=Kaldyn
+#: The_Bees_Journey/scenarios/04_To_the_Voyage.cfg:535
+msgid "Only Kaldyn can take this item."
+msgstr ""
+
+#. [object]
+#: The_Bees_Journey/scenarios/04_To_the_Voyage.cfg:537
+msgid "Necklace of Life"
+msgstr ""
+
+#. [object]
+#: The_Bees_Journey/scenarios/04_To_the_Voyage.cfg:540
+msgid "The magic of this necklace allows the wearer to heal the wounds of other units and provides self-healing every turn."
+msgstr ""
+
+#. [message]: speaker=Kaldyn
+#: The_Bees_Journey/scenarios/04_To_the_Voyage.cfg:581
+msgid "... You truly treasured this necklace, my little sister."
+msgstr ""
+
+#. [message]: speaker=Kaldyn
+#: The_Bees_Journey/scenarios/04_To_the_Voyage.cfg:589
+msgid "How many centuries have passed since then? You and I were exiled from our home island and washed here. In truth, you were not to blame. It was I who dabbled in darkness, half out of curiosity. Yet you abandoned everything to go with me."
+msgstr ""
+
+#. [message]: speaker=Kaldyn
+#: The_Bees_Journey/scenarios/04_To_the_Voyage.cfg:593
+msgid "If you hadn’t been with me, you never would have been killed."
+msgstr ""
+
+#. [message]: speaker=Kaldyn
+#: The_Bees_Journey/scenarios/04_To_the_Voyage.cfg:597
+msgid "I cursed the islanders who killed you. But still, the one I hate most is myself. Had I not fallen into depravity, you would have lived a peaceful life."
+msgstr ""
+
+#. [message]: speaker=Kaldyn
+#: The_Bees_Journey/scenarios/04_To_the_Voyage.cfg:606
+msgid "I may soon be doomed. I have no idea what awaits me after leaving this hateful island. I must entrust myself to that mysterious bee named Marie."
+msgstr ""
+
+#. [message]: speaker=Kaldyn
+#: The_Bees_Journey/scenarios/04_To_the_Voyage.cfg:610
+msgid "Meeting you in the Land of the Dead would be terrifying beyond words. When that time comes, however, I will find some way to return this necklace to you. So please forgive me, Flora..."
+msgstr ""
+
+#. [message]: speaker=Noaille
+#: The_Bees_Journey/scenarios/04_To_the_Voyage.cfg:624
+msgid "Are you satisfied now?"
+msgstr ""
+
+#. [message]: speaker=Kaldyn
+#: The_Bees_Journey/scenarios/04_To_the_Voyage.cfg:628
+msgid "Sure, thank you. This lake is the only beautiful spot on this island."
+msgstr ""
+
+#. [message]: speaker=unit
+#: The_Bees_Journey/scenarios/04_To_the_Voyage.cfg:641
+msgid "Argh! In the end... I could not even surpass Kaldyn..."
+msgstr ""
+
+#. [message]: speaker=unit
+#: The_Bees_Journey/scenarios/04_To_the_Voyage.cfg:656
+msgid "What the hell are you who attacking us?"
+msgstr ""
+
+#. [message]: speaker=Marie
+#: The_Bees_Journey/scenarios/04_To_the_Voyage.cfg:660
+msgid "We are bees, creatures that love nature! We bear you no ill will. If you do not hinder us, we will do nothing to you."
+msgstr ""
+
+#. [message]: speaker=unit
+#: The_Bees_Journey/scenarios/04_To_the_Voyage.cfg:664
+msgid "... I’ll believe your words. Sorry for mistreating you as enemies without hearing your side. We’ll take a little rest."
+msgstr ""
+
+#. [message]: speaker=Clovis
+#: The_Bees_Journey/scenarios/04_To_the_Voyage.cfg:679
+msgid "They seem to have finally realized their mistake!"
+msgstr ""
+
+#. [message]: speaker=Dragochan
+#: The_Bees_Journey/scenarios/04_To_the_Voyage.cfg:683
+msgid "Hey elf, don’t show yourself to them; it’ll only make things more troublesome."
+msgstr ""
+
+#. [message]: speaker=Kaldyn
+#: The_Bees_Journey/scenarios/04_To_the_Voyage.cfg:699
+msgid "Now we can get on the boat. You might want to rest your wings during the voyage."
+msgstr ""
+
+#. [unit_type]: id=Bee, race=insect, gender=female
+#: The_Bees_Journey/units/bees/Bee.cfg:5
+msgid "Bee"
+msgstr ""
+
+#. [unit_type]: id=Bee, race=insect, gender=female
+#: The_Bees_Journey/units/bees/Bee.cfg:19
+msgid "Bees are gentle creatures who desire nothing more than to live peacefully with their family. Therefore, they generally act passively, but they will fight anyone who threatens their hive."
+msgstr ""
+
+#. [attack]: type=blade
+#: The_Bees_Journey/units/bees/Bee.cfg:24
+#: The_Bees_Journey/units/drones/Drone.cfg:30
+#: The_Bees_Journey/units/hornets/Great_Hornet.cfg:31
+#: The_Bees_Journey/units/hornets/Hornet.cfg:24
+#: The_Bees_Journey/units/hornets/Warrior_Hornet.cfg:30
+msgid "fangs"
+msgstr ""
+
+#. [attack]: type=pierce
+#: The_Bees_Journey/units/bees/Bee.cfg:33
+#: The_Bees_Journey/units/bees/Elder_Bee.cfg:39
+#: The_Bees_Journey/units/bees/Worker_Bee.cfg:38
+#: The_Bees_Journey/units/hornets/Great_Hornet.cfg:40
+#: The_Bees_Journey/units/hornets/Hornet.cfg:33
+#: The_Bees_Journey/units/hornets/Warrior_Hornet.cfg:39
+msgid "needle"
+msgstr ""
+
+#. [unit_type]: id=Elder Bee, race=insect, gender=female
+#: The_Bees_Journey/units/bees/Elder_Bee.cfg:5
+msgid "Elder Bee"
+msgstr ""
+
+#. [unit_type]: id=Elder Bee, race=insect, gender=female
+#: The_Bees_Journey/units/bees/Elder_Bee.cfg:20
+msgid "In the harsh natural world, bees that live long enough are a rare sight. These elder bees are recognized as contributors who have sustained the colony, and are even honored by the queen herself."
+msgstr ""
+
+#. [attack]: type=blade
+#: The_Bees_Journey/units/bees/Elder_Bee.cfg:30
+#: The_Bees_Journey/units/bees/New_Queen_Bee.cfg:32
+#: The_Bees_Journey/units/bees/Princess_Bee.cfg:24
+#: The_Bees_Journey/units/bees/Queen_Bee.cfg:33
+#: The_Bees_Journey/units/bees/Worker_Bee.cfg:29
+msgid "sword"
+msgstr ""
+
+#. [attack]: type=fire
+#: The_Bees_Journey/units/bees/Elder_Bee.cfg:52
+#: The_Bees_Journey/units/bees/Fire_Bee.cfg:36
+#: The_Bees_Journey/units/bees/Sunshine_Bee.cfg:37
+msgid "flame blast"
+msgstr ""
+
+#. [unit_type]: id=Fire Bee, race=insect, gender=female
+#: The_Bees_Journey/units/bees/Fire_Bee.cfg:5
+msgid "Fire Bee"
+msgstr ""
+
+#. [unit_type]: id=Fire Bee, race=insect, gender=female
+#: The_Bees_Journey/units/bees/Fire_Bee.cfg:19
+msgid "Bees are born with an affinity for fire, yet few develop this innate talent. Enchanted by the art of fire, they possess less vitality than ordinary worker bees, but remain formidable against enemies such as hornets. They also fly swiftly by surrendering themselves to the fire and winds."
+msgstr ""
+
+#. [attack]: type=fire
+#: The_Bees_Journey/units/bees/Fire_Bee.cfg:27
+#: The_Bees_Journey/units/bees/Sunshine_Bee.cfg:28
+msgid "touch"
+msgstr ""
+
+#. [unit_type]: id=New Queen Bee, race=insect, gender=female
+#: The_Bees_Journey/units/bees/New_Queen_Bee.cfg:5
+msgid "New Queen Bee"
+msgstr ""
+
+#. [unit_type]: id=New Queen Bee, race=insect, gender=female
+#. [unit_type]: id=Princess Bee, race=insect, gender=female
+#: The_Bees_Journey/units/bees/New_Queen_Bee.cfg:19
+#: The_Bees_Journey/units/bees/Princess_Bee.cfg:19
+msgid "A young queen bee, or princess bee, has newly emerged from her cocoon. She holds great potential as a queen of a new hive, but first she must gain sufficient strength and prepare herself. Without the charm of civility bestowed by her ability to speak, she would search out rivals and challenge them to fight brutally."
+msgstr ""
+
+#. [attack]: type=arcane
+#: The_Bees_Journey/units/bees/New_Queen_Bee.cfg:41
+#: The_Bees_Journey/units/bees/Princess_Bee.cfg:33
+#: The_Bees_Journey/units/bees/Queen_Bee.cfg:42
+msgid "faerie fire"
+msgstr ""
+
+#. [unit_type]: id=Princess Bee, race=insect, gender=female
+#: The_Bees_Journey/units/bees/Princess_Bee.cfg:5
+msgid "Princess Bee"
+msgstr ""
+
+#. [unit_type]: id=Queen Bee, race=insect, gender=female
+#: The_Bees_Journey/units/bees/Queen_Bee.cfg:5
+msgid "Queen Bee"
+msgstr ""
+
+#. [unit_type]: id=Queen Bee, race=insect, gender=female
+#: The_Bees_Journey/units/bees/Queen_Bee.cfg:20
+msgid "The young queen who has long led the colony eventually becomes a fully-fledged leader beloved by all the bees. Those still spoken of as legends among them are often the ones who steered their family through especially severe crisis."
+msgstr ""
+
+#. [unit_type]: id=Sunshine Bee, race=insect, gender=female
+#: The_Bees_Journey/units/bees/Sunshine_Bee.cfg:5
+msgid "Sunshine Bee"
+msgstr ""
+
+#. [unit_type]: id=Sunshine Bee, race=insect, gender=female
+#: The_Bees_Journey/units/bees/Sunshine_Bee.cfg:20
+msgid "These bees, having assimilated the fierce power of flames into their bodies, appear like suns streaking across the sky. While constantly feared by their enemies, they are reverently called the Bees of Sunshine by their friends."
+msgstr ""
+
+#. [unit_type]: id=Worker Bee, race=insect, gender=female
+#: The_Bees_Journey/units/bees/Worker_Bee.cfg:5
+msgid "Worker Bee"
+msgstr ""
+
+#. [unit_type]: id=Worker Bee, race=insect, gender=female
+#: The_Bees_Journey/units/bees/Worker_Bee.cfg:19
+msgid "Among bees, those with considerable experience serve as the foremost worker bees, dedicating themselves to the colony and setting an example for the immature bees. They enjoy strong trust from their family, yet pose a formidable barrier to enemies attacking the hive."
+msgstr ""
+
+#. [unit_type]: id=Drone, race=insect
+#: The_Bees_Journey/units/drones/Drone.cfg:5
+msgid "Drone"
+msgstr ""
+
+#. [unit_type]: id=Drone, race=insect
+#: The_Bees_Journey/units/drones/Drone.cfg:22
+msgid "A drone’s entire life is spent to preparing for the next generation of bees. However, these peculiar drones wield magic so similar to that of elves, as if they had been touched by a forest maiden’s enchantment."
+msgstr ""
+
+#. [attack]: type=impact
+#: The_Bees_Journey/units/drones/Drone.cfg:39
+msgid "entangle"
+msgstr ""
+
+#. [unit_type]: id=King Bee, race=insect
+#: The_Bees_Journey/units/drones/King_Bee.cfg:5
+msgid "King Bee"
+msgstr ""
+
+#. [unit_type]: id=King Bee, race=insect
+#. [unit_type]: id=Priest Bee, race=insect
+#. [unit_type]: id=Shadow Bee, race=insect
+#. [unit_type]: id=Wizard Bee, race=insect
+#: The_Bees_Journey/units/drones/King_Bee.cfg:23
+#: The_Bees_Journey/units/drones/Priest_Bee.cfg:22
+#: The_Bees_Journey/units/drones/Shadow_Bee.cfg:23
+#: The_Bees_Journey/units/drones/Wizard_Bee.cfg:22
+msgid "FIXME"
+msgstr ""
+
+#. [attack]: type=impact
+#: The_Bees_Journey/units/drones/King_Bee.cfg:31
+#: The_Bees_Journey/units/drones/Priest_Bee.cfg:30
+#: The_Bees_Journey/units/drones/Shadow_Bee.cfg:31
+#: The_Bees_Journey/units/drones/Wizard_Bee.cfg:30
+msgid "staff"
+msgstr ""
+
+#. [attack]: type=impact
+#: The_Bees_Journey/units/drones/King_Bee.cfg:40
+#: The_Bees_Journey/units/drones/Priest_Bee.cfg:39
+msgid "ensnare"
+msgstr ""
+
+#. [attack]: type=pierce
+#: The_Bees_Journey/units/drones/King_Bee.cfg:52
+#: The_Bees_Journey/units/drones/Priest_Bee.cfg:51
+msgid "thorns"
+msgstr ""
+
+#. [unit_type]: id=Priest Bee, race=insect
+#: The_Bees_Journey/units/drones/Priest_Bee.cfg:5
+msgid "Priest Bee"
+msgstr ""
+
+#. [unit_type]: id=Shadow Bee, race=insect
+#: The_Bees_Journey/units/drones/Shadow_Bee.cfg:5
+msgid "Shadow Bee"
+msgstr ""
+
+#. [heal_on_hit]: id=vitalize
+#: The_Bees_Journey/units/drones/Shadow_Bee.cfg:40
+msgid "vitalize"
+msgstr ""
+
+#. [heal_on_hit]: id=vitalize
+#: The_Bees_Journey/units/drones/Shadow_Bee.cfg:41
+msgid "This unit heals 2 HP every time this attack hits."
+msgstr ""
+
+#. [attack]: type=cold
+#: The_Bees_Journey/units/drones/Shadow_Bee.cfg:48
+#: The_Bees_Journey/units/drones/Wizard_Bee.cfg:39
+msgid "forest chill"
+msgstr ""
+
+#. [attack]: type=arcane
+#: The_Bees_Journey/units/drones/Shadow_Bee.cfg:60
+#: The_Bees_Journey/units/drones/Wizard_Bee.cfg:51
+msgid "arcane storm"
+msgstr ""
+
+#. [unit_type]: id=Wizard Bee, race=insect
+#: The_Bees_Journey/units/drones/Wizard_Bee.cfg:5
+msgid "Wizard Bee"
+msgstr ""
+
+#. [unit_type]: id=Assault Hornet, race=insect, gender=female
+#: The_Bees_Journey/units/hornets/Assault_Hornet.cfg:5
+msgid "Assault Hornet"
+msgstr ""
+
+#. [unit_type]: id=Assault Hornet, race=insect, gender=female
+#: The_Bees_Journey/units/hornets/Assault_Hornet.cfg:20
+msgid "Assault hornets, infused with black magic by an evil entity, become specter-like beings that live by draining life. While their raw physical strength is slightly inferior to that of ordinary hornets, their terrifying magic perfectly compensates for this weakness."
+msgstr ""
+
+#. [attack]: type=arcane
+#: The_Bees_Journey/units/hornets/Assault_Hornet.cfg:28
+msgid "baneblade"
+msgstr ""
+
+#. [attack]: type=cold
+#: The_Bees_Journey/units/hornets/Assault_Hornet.cfg:40
+msgid "chill wave"
+msgstr ""
+
+#. [unit_type]: id=Great Hornet, race=insect, gender=female
+#: The_Bees_Journey/units/hornets/Great_Hornet.cfg:5
+msgid "Great Hornet"
+msgstr ""
+
+#. [unit_type]: id=Great Hornet, race=insect, gender=female
+#. [unit_type]: id=Hornet, race=insect, gender=female
+#. [unit_type]: id=Warrior Hornet, race=insect, gender=female
+#: The_Bees_Journey/units/hornets/Great_Hornet.cfg:21
+#: The_Bees_Journey/units/hornets/Hornet.cfg:19
+#: The_Bees_Journey/units/hornets/Warrior_Hornet.cfg:20
+msgid "These hornets are formidable predators, and just a few can destroy an entire colony of bees. They are powerful and tough fighters, but they lack any ranged attack. Furthermore, they are vulnerable to the heat of flames, allowing the bees to cleverly exploit these weaknesses."
+msgstr ""
+
+#. [unit_type]: id=Hornet, race=insect, gender=female
+#: The_Bees_Journey/units/hornets/Hornet.cfg:5
+msgid "Hornet"
+msgstr ""
+
+#. [unit_type]: id=Warrior Hornet, race=insect, gender=female
+#: The_Bees_Journey/units/hornets/Warrior_Hornet.cfg:5
+msgid "Warrior Hornet"
+msgstr ""
+
+#. [race]: id=insect
+#: The_Bees_Journey/units/units.cfg:5
+msgid "race^Insect"
+msgstr ""
+
+#. [race]: id=insect
+#: The_Bees_Journey/units/units.cfg:6
+msgid "race+female^Insect"
+msgstr ""
+
+#. [race]: id=insect
+#: The_Bees_Journey/units/units.cfg:7
+msgid "race^Insects"
+msgstr ""
+
+#. [race]: id=insect
+#: The_Bees_Journey/units/units.cfg:9
+msgid ""
+"In the world known to humans, insects are the most familiar arthropods, dwelling in diverse habitats ranging from grasslands and forests to waters and deserts. They are often spoken of as creatures of poor intelligence, yet sometimes they astonish people with abilities and behaviors that defy common knowledge.\n"
+"\n"
+"Study of them remains far from mature, and much lies shrouded in mystery."
+msgstr ""
+
+#. [message]: speaker=unit
+#: The_Bees_Journey/utils/deaths.cfg:12
+msgid "Who on earth could rebuild the kingdom after I’m gone?"
+msgstr ""
+
+#. [message]: speaker=unit
+#: The_Bees_Journey/utils/deaths.cfg:27
+msgid "Forgive me, Marie, it seems I can no longer be by your side..."
+msgstr ""
+
+#. [message]: speaker=Marie
+#: The_Bees_Journey/utils/deaths.cfg:31
+msgid "Noaille, wait! NO!"
+msgstr ""
+
+#. [message]: speaker=unit
+#: The_Bees_Journey/utils/deaths.cfg:46
+msgid "I... can’t die yet! Marie..."
+msgstr ""
+
+#. [message]: speaker=unit
+#: The_Bees_Journey/utils/deaths.cfg:61
+msgid "No, I never wished for this kind of ending! I’d just met such interesting ones..."
+msgstr ""
+
+#. [message]: speaker=unit
+#: The_Bees_Journey/utils/deaths.cfg:77
+msgid "ARGH! Why do I feel so much pain!"
+msgstr ""
+
+#. [message]: speaker=unit
+#: The_Bees_Journey/utils/deaths.cfg:92
+msgid "Hmm... maybe following you was a mistake... But Marie, meeting you was truly interesting. Goodbye."
+msgstr ""
+
+#. [message]: speaker=narrator
+#: The_Bees_Journey/utils/macros.cfg:6
+msgid "Mysterious Voice"
+msgstr ""
+
