@@ -1,0 +1,35 @@
+name: CI
+
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+  workflow_dispatch:
+
+env:
+  WESNOTH_VERSION: master
+
+jobs:
+  CI:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v6
+      with:
+        path: add-ons
+
+    - name: Lint WML
+      uses: czyzby/wesnoth-wml-linter@v1
+      with:
+        wesnoth-version: ${{ env.WESNOTH_VERSION }}
+        spellcheck: true
+        lint-flags: -K
+
+    - name: Verify resources scope
+      uses: czyzby/wesnoth-wml-scope@v1
+      if: always()
+      with:
+        wesnoth-version: ${{ env.WESNOTH_VERSION }}
+        flags: -C
