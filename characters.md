@@ -74,6 +74,12 @@ FIXME
 
 FIXME
 
+### Imorin
+
+![shyde.png](https://github.com/wesnoth/wesnoth/blob/1.19.18/data/core/images/units/elves-wood/shyde.png)
+
+FIXME
+
 ### Yoshie
 
 ![nightblade.png](https://github.com/wesnoth/wesnoth/blob/1.19.18/data/core/images/units/orcs/nightblade.png)
