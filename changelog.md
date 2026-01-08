@@ -14,6 +14,9 @@ For version 2.0 and later.
 * S5 - Arrival at Lagos Island
   * Balancing related to changes to ant units.
 
+* S6 - The Winter
+  * New scenario.
+
 * S10 - Daydream Memories
   * New scenario.
 
