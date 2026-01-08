@@ -14,4 +14,8 @@ That summer, the Kingdom of Bees was destroyed under the hornet invasion. You, t
 
 Currently, I am reworking it as version 2.0. While the timing is still undetermined, I plan to release it for Wesnoth 1.20.x.
 
+### Installation
+
+You can now get it from the Wesnoth 1.19 add-ons server! Or clone from this repository. Feedback thread is [here](https://r.wesnoth.org/t60376).
+
 ![queen-younger.png](https://github.com/aloneTurtle/The_Bees_Journey/blob/main/images/portraits/queen-younger.png)
