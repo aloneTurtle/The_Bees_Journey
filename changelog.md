@@ -1,6 +1,6 @@
 # The Bee’s Journey - Changelog
 
-![bee.gif](https://github.com/aloneTurtle/The_Bees_Journey/blob/main/images/bee.gif)
+![bees.gif](https://github.com/aloneTurtle/The_Bees_Journey/blob/main/images/bees.gif)
 
 For version 2.0 and later.
 
