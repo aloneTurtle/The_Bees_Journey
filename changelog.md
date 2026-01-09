@@ -1,12 +1,14 @@
 # The Bee’s Journey - Changelog
 
+![bee.gif](https://github.com/aloneTurtle/The_Bees_Journey/blob/main/images/bee.gif)
+
 For version 2.0 and later.
 
 ## Version 1.99.1 (Beta 1)
 
 ### General
 
-* Create achievements and apply them to all scenarios.
+* Create achievements and apply them to all existing scenarios.
 * Create various macros for scenarios.
 
 ### Scenarios
