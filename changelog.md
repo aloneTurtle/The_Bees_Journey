@@ -17,7 +17,7 @@ For version 2.0 and later.
 * S6 - The Winter
   * New scenario.
 
-* S10 - Daydream Memories
+* S7 - Rescue the Ninjas
   * New scenario.
 
 ### Translations
@@ -26,7 +26,7 @@ For version 2.0 and later.
 
 ### Units
 
-* New units: TBJ Ant, TBJ Soldier Ant, TBJ Fire Ant, TBJ Queen Ant, Little Caterpillar, Cocoon, Butterfly Faerie
+* New units: TBJ Ant, TBJ Soldier Ant, TBJ Fire Ant, TBJ Queen Ant, Little Caterpillar, Cocoon, Butterfly Faerie, Young Ninja, Ninja, Red Ninja
 * Hide the ants from mainline.
 
 ## Version 1.99.0 (Alpha)
