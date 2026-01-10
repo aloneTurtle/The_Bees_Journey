@@ -8,6 +8,8 @@ For version 2.0 and later.
 
 ### General
 
+* Cleanup code and files generally.
+  * Deprecated directory: saves
 * Create achievements and apply them to all existing scenarios.
 * Create various macros for scenarios.
 
@@ -24,7 +26,7 @@ For version 2.0 and later.
 
 ### Translations
 
-* Update Japanese translation.
+* Update POT and Japanese translation.
 
 ### Units
 

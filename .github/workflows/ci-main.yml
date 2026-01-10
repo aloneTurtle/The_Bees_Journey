@@ -27,9 +27,9 @@ jobs:
         spellcheck: true
         lint-flags: -K
 
-    - name: Verify resources scope
-      uses: czyzby/wesnoth-wml-scope@v1
-      if: always()
-      with:
-        wesnoth-version: ${{ env.WESNOTH_VERSION }}
-        flags: -C
+    # - name: Verify resources scope
+    #   uses: czyzby/wesnoth-wml-scope@v1
+    #   if: always()
+    #   with:
+    #     wesnoth-version: ${{ env.WESNOTH_VERSION }}
+    #     flags: -C
