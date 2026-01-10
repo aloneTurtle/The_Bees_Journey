@@ -18,7 +18,7 @@ She is generally a cheerful character who tries to be friendly with everyone at 
 
 Later on, it is revealed that her real mother is Valois. Even so, Melissa remains her beloved family, and despite agonizing over the conflict within her, she resolves to kill Valois.
 
-Noaille is a special presence to Marie alongside Melissa, sharing a bond akin to parent and child. While Noaille interacts with Marie with a certain awareness of their master-servant relationship, Marie remains completely unaware.Marie holds different feelings for each of the two comrades she meets during her journey. She considers Dragochan a friend who shares both hardships and joys, speaking to him without any reservations whatsoever. However, she feels more sympathy towards Kaldyn, searching for a way to save his broken heart.
+Noaille is a special presence to Marie alongside Melissa, sharing a bond akin to parent and child. While Noaille interacts with Marie with a certain awareness of their master-servant relationship, Marie remains completely unaware. Marie holds different feelings for each of the two comrades she meets during her journey. She considers Dragochan a friend who shares both hardships and joys, speaking to him without any reservations whatsoever. However, she feels more sympathy towards Kaldyn, searching for a way to save his broken heart.
 
 Ultimately, she became the first queen of the new kingdom and authored The Bee’s Journey, chronicling her entire journey. In other words, she is the narrator of this campaign.
 
