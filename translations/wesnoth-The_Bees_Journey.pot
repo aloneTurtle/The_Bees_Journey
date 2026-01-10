@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2026-01-10 12:52 UTC\n"
+"POT-Creation-Date: 2026-01-10 19:06 UTC\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -63,37 +63,37 @@ msgid "Hard"
 msgstr ""
 
 #. [about]
-#: The_Bees_Journey/_main.cfg:61
+#: The_Bees_Journey/_main.cfg:60
 msgid "Campaign Design"
 msgstr ""
 
 #. [about]
-#: The_Bees_Journey/_main.cfg:68
+#: The_Bees_Journey/_main.cfg:67
 msgid "Campaign Maintenance"
 msgstr ""
 
 #. [about]
-#: The_Bees_Journey/_main.cfg:74
+#: The_Bees_Journey/_main.cfg:73
 msgid "General Design Assistance"
 msgstr ""
 
 #. [about]
-#: The_Bees_Journey/_main.cfg:81
+#: The_Bees_Journey/_main.cfg:80
 msgid "Artwork and Graphics Design"
 msgstr ""
 
 #. [about]
-#: The_Bees_Journey/_main.cfg:99
+#: The_Bees_Journey/_main.cfg:98
 msgid "Music"
 msgstr ""
 
 #. [about]
-#: The_Bees_Journey/_main.cfg:118
+#: The_Bees_Journey/_main.cfg:117
 msgid "Additional thanks to"
 msgstr ""
 
 #. [entry]
-#: The_Bees_Journey/_main.cfg:131
+#: The_Bees_Journey/_main.cfg:130
 msgid "You, for playing this campaign"
 msgstr ""
 
@@ -181,7 +181,7 @@ msgstr ""
 #: The_Bees_Journey/scenarios/05_Arrival_at_Lagos_Island.cfg:47
 #: The_Bees_Journey/scenarios/06_The_Winter.cfg:35
 #: The_Bees_Journey/scenarios/07_Rescue_the_Ninjas.cfg:47
-#: The_Bees_Journey/scenarios/08_Encounter_with_Truth.cfg:45
+#: The_Bees_Journey/scenarios/08_Encounter_with_Truth.cfg:46
 #: The_Bees_Journey/scenarios/10_Daydream_Memories.cfg:35
 msgid "team_name^Marie"
 msgstr ""
@@ -196,7 +196,7 @@ msgstr ""
 #: The_Bees_Journey/scenarios/05_Arrival_at_Lagos_Island.cfg:51
 #: The_Bees_Journey/scenarios/06_The_Winter.cfg:39
 #: The_Bees_Journey/scenarios/07_Rescue_the_Ninjas.cfg:51
-#: The_Bees_Journey/scenarios/08_Encounter_with_Truth.cfg:49
+#: The_Bees_Journey/scenarios/08_Encounter_with_Truth.cfg:50
 #: The_Bees_Journey/scenarios/10_Daydream_Memories.cfg:39
 #: The_Bees_Journey/scenarios/10_Daydream_Memories.cfg:686
 #: The_Bees_Journey/scenarios/10_Daydream_Memories.cfg:688
@@ -441,8 +441,8 @@ msgstr ""
 #. [message]: speaker=Marie
 #. [message]: speaker=Fake Valois
 #: The_Bees_Journey/scenarios/00_Childhood.cfg:665
-#: The_Bees_Journey/scenarios/04_To_the_Voyage.cfg:517
-#: The_Bees_Journey/scenarios/05_Arrival_at_Lagos_Island.cfg:673
+#: The_Bees_Journey/scenarios/04_To_the_Voyage.cfg:524
+#: The_Bees_Journey/scenarios/05_Arrival_at_Lagos_Island.cfg:677
 #: The_Bees_Journey/scenarios/10_Daydream_Memories.cfg:676
 #: The_Bees_Journey/scenarios/10_Daydream_Memories.cfg:748
 #: The_Bees_Journey/scenarios/10_Daydream_Memories.cfg:914
@@ -544,8 +544,8 @@ msgstr ""
 #: The_Bees_Journey/scenarios/01_Wrathful_Morning.cfg:201
 #: The_Bees_Journey/scenarios/05_Arrival_at_Lagos_Island.cfg:66
 #: The_Bees_Journey/scenarios/05_Arrival_at_Lagos_Island.cfg:135
-#: The_Bees_Journey/scenarios/08_Encounter_with_Truth.cfg:68
-#: The_Bees_Journey/scenarios/08_Encounter_with_Truth.cfg:129
+#: The_Bees_Journey/scenarios/08_Encounter_with_Truth.cfg:69
+#: The_Bees_Journey/scenarios/08_Encounter_with_Truth.cfg:141
 #: The_Bees_Journey/scenarios/10_Daydream_Memories.cfg:70
 #: The_Bees_Journey/scenarios/10_Daydream_Memories.cfg:90
 #: The_Bees_Journey/scenarios/10_Daydream_Memories.cfg:110
@@ -579,14 +579,14 @@ msgstr ""
 #: The_Bees_Journey/scenarios/01_Wrathful_Morning.cfg:520
 #: The_Bees_Journey/scenarios/02_Skirmish_at_Sea.cfg:130
 #: The_Bees_Journey/scenarios/02_Skirmish_at_Sea.cfg:244
-#: The_Bees_Journey/scenarios/03_Honey_Meets_Darkness.cfg:147
+#: The_Bees_Journey/scenarios/03_Honey_Meets_Darkness.cfg:146
 #: The_Bees_Journey/scenarios/04_To_the_Voyage.cfg:120
 #: The_Bees_Journey/scenarios/05_Arrival_at_Lagos_Island.cfg:182
 #: The_Bees_Journey/scenarios/06_The_Winter.cfg:146
-#: The_Bees_Journey/scenarios/06_The_Winter.cfg:430
+#: The_Bees_Journey/scenarios/06_The_Winter.cfg:434
 #: The_Bees_Journey/scenarios/07_Rescue_the_Ninjas.cfg:187
 #: The_Bees_Journey/scenarios/07_Rescue_the_Ninjas.cfg:629
-#: The_Bees_Journey/scenarios/08_Encounter_with_Truth.cfg:169
+#: The_Bees_Journey/scenarios/08_Encounter_with_Truth.cfg:185
 #: The_Bees_Journey/scenarios/10_Daydream_Memories.cfg:196
 #: The_Bees_Journey/scenarios/10_Daydream_Memories.cfg:547
 msgid "Death of Marie"
@@ -597,14 +597,14 @@ msgstr ""
 #: The_Bees_Journey/scenarios/01_Wrathful_Morning.cfg:524
 #: The_Bees_Journey/scenarios/02_Skirmish_at_Sea.cfg:134
 #: The_Bees_Journey/scenarios/02_Skirmish_at_Sea.cfg:248
-#: The_Bees_Journey/scenarios/03_Honey_Meets_Darkness.cfg:151
+#: The_Bees_Journey/scenarios/03_Honey_Meets_Darkness.cfg:150
 #: The_Bees_Journey/scenarios/04_To_the_Voyage.cfg:124
 #: The_Bees_Journey/scenarios/05_Arrival_at_Lagos_Island.cfg:186
 #: The_Bees_Journey/scenarios/06_The_Winter.cfg:150
-#: The_Bees_Journey/scenarios/06_The_Winter.cfg:434
+#: The_Bees_Journey/scenarios/06_The_Winter.cfg:438
 #: The_Bees_Journey/scenarios/07_Rescue_the_Ninjas.cfg:191
 #: The_Bees_Journey/scenarios/07_Rescue_the_Ninjas.cfg:633
-#: The_Bees_Journey/scenarios/08_Encounter_with_Truth.cfg:173
+#: The_Bees_Journey/scenarios/08_Encounter_with_Truth.cfg:189
 #: The_Bees_Journey/scenarios/10_Daydream_Memories.cfg:200
 #: The_Bees_Journey/scenarios/10_Daydream_Memories.cfg:551
 msgid "Death of Noaille"
@@ -822,7 +822,7 @@ msgstr ""
 #: The_Bees_Journey/scenarios/02_Skirmish_at_Sea.cfg:127
 #: The_Bees_Journey/scenarios/02_Skirmish_at_Sea.cfg:241
 #: The_Bees_Journey/scenarios/05_Arrival_at_Lagos_Island.cfg:177
-#: The_Bees_Journey/scenarios/08_Encounter_with_Truth.cfg:164
+#: The_Bees_Journey/scenarios/08_Encounter_with_Truth.cfg:180
 msgid "Defeat both enemy leaders"
 msgstr ""
 
@@ -1034,7 +1034,7 @@ msgstr ""
 #. [modify_unit]
 #. [unit]: type=Bone Shooter, id=Guardian
 #: The_Bees_Journey/scenarios/03_Honey_Meets_Darkness.cfg:94
-#: The_Bees_Journey/scenarios/03_Honey_Meets_Darkness.cfg:184
+#: The_Bees_Journey/scenarios/03_Honey_Meets_Darkness.cfg:183
 #: The_Bees_Journey/scenarios/04_To_the_Voyage.cfg:147
 msgid "Guardian"
 msgstr ""
@@ -1045,16 +1045,16 @@ msgid "team_name^Merfolk"
 msgstr ""
 
 #. [objective]: condition=win
-#: The_Bees_Journey/scenarios/03_Honey_Meets_Darkness.cfg:142
+#: The_Bees_Journey/scenarios/03_Honey_Meets_Darkness.cfg:141
 msgid "Defeat Mal Kaldyn"
 msgstr ""
 
 #. [objective]: condition=lose
-#: The_Bees_Journey/scenarios/03_Honey_Meets_Darkness.cfg:155
+#: The_Bees_Journey/scenarios/03_Honey_Meets_Darkness.cfg:154
 #: The_Bees_Journey/scenarios/04_To_the_Voyage.cfg:128
 #: The_Bees_Journey/scenarios/05_Arrival_at_Lagos_Island.cfg:190
 #: The_Bees_Journey/scenarios/06_The_Winter.cfg:154
-#: The_Bees_Journey/scenarios/06_The_Winter.cfg:438
+#: The_Bees_Journey/scenarios/06_The_Winter.cfg:442
 #: The_Bees_Journey/scenarios/07_Rescue_the_Ninjas.cfg:195
 #: The_Bees_Journey/scenarios/07_Rescue_the_Ninjas.cfg:637
 #: The_Bees_Journey/scenarios/10_Daydream_Memories.cfg:204
@@ -1063,208 +1063,208 @@ msgid "Death of Dragochan"
 msgstr ""
 
 #. [message]: speaker=Dragochan
-#: The_Bees_Journey/scenarios/03_Honey_Meets_Darkness.cfg:205
+#: The_Bees_Journey/scenarios/03_Honey_Meets_Darkness.cfg:204
 msgid "Umm, what a disgusting swamp this is. I finally found a place to rest, yet it’s filled with strange smells and utterly unpleasant—"
 msgstr ""
 
 #. [message]: speaker=Dragochan
-#: The_Bees_Journey/scenarios/03_Honey_Meets_Darkness.cfg:209
+#: The_Bees_Journey/scenarios/03_Honey_Meets_Darkness.cfg:208
 msgid "ARGH! Mosquitoes! There are a ton of mosquitoes here!"
 msgstr ""
 
 #. [message]: speaker=Noaille
-#: The_Bees_Journey/scenarios/03_Honey_Meets_Darkness.cfg:214
+#: The_Bees_Journey/scenarios/03_Honey_Meets_Darkness.cfg:213
 msgid "I can’t warm up to such a bad-taste environment."
 msgstr ""
 
 #. [message]: speaker=Guardian
-#: The_Bees_Journey/scenarios/03_Honey_Meets_Darkness.cfg:218
+#: The_Bees_Journey/scenarios/03_Honey_Meets_Darkness.cfg:217
 msgid "Hey, I can hear you, intruders! Who the hell are you?"
 msgstr ""
 
 #. [message]: speaker=Dragochan
-#: The_Bees_Journey/scenarios/03_Honey_Meets_Darkness.cfg:222
+#: The_Bees_Journey/scenarios/03_Honey_Meets_Darkness.cfg:221
 msgid "Did you hear me? You’ve got sharp ears despite being a skeleton..."
 msgstr ""
 
 #. [message]: speaker=Mal Kaldyn
-#: The_Bees_Journey/scenarios/03_Honey_Meets_Darkness.cfg:226
+#: The_Bees_Journey/scenarios/03_Honey_Meets_Darkness.cfg:225
 msgid "Bees! I can’t stand if they sting me, someone call an exterminator!"
 msgstr ""
 
 #. [message]: speaker=Marie
-#: The_Bees_Journey/scenarios/03_Honey_Meets_Darkness.cfg:230
+#: The_Bees_Journey/scenarios/03_Honey_Meets_Darkness.cfg:229
 msgid "Don’t call an exterminator! I’ll give you some delicious honey!"
 msgstr ""
 
 #. [message]: speaker=Mal Kaldyn
-#: The_Bees_Journey/scenarios/03_Honey_Meets_Darkness.cfg:234
+#: The_Bees_Journey/scenarios/03_Honey_Meets_Darkness.cfg:233
 msgid "Well, there’s no need to call an exterminator. My servants should be enough to clean them up."
 msgstr ""
 
 #. [message]: speaker=Dragochan
-#: The_Bees_Journey/scenarios/03_Honey_Meets_Darkness.cfg:238
+#: The_Bees_Journey/scenarios/03_Honey_Meets_Darkness.cfg:237
 msgid "He’s not listening at all. What should we do?"
 msgstr ""
 
 #. [message]: speaker=Noaille
-#: The_Bees_Journey/scenarios/03_Honey_Meets_Darkness.cfg:242
+#: The_Bees_Journey/scenarios/03_Honey_Meets_Darkness.cfg:241
 msgid "Let us act to protect ourselves. If we can defeat that necromancer, the threat plaguing this land should be gone."
 msgstr ""
 
 #. [unit]: type=Merman Entangler, id=Gekko
-#: The_Bees_Journey/scenarios/03_Honey_Meets_Darkness.cfg:254
+#: The_Bees_Journey/scenarios/03_Honey_Meets_Darkness.cfg:253
 msgid "Gekko"
 msgstr ""
 
 #. [message]: speaker=Gekko
-#: The_Bees_Journey/scenarios/03_Honey_Meets_Darkness.cfg:277
+#: The_Bees_Journey/scenarios/03_Honey_Meets_Darkness.cfg:276
 msgid "Look! He is the source of the evil that has defiled this swamp! We merfolk must reclaim this land."
 msgstr ""
 
 #. [message]: speaker=Mal Kaldyn
-#: The_Bees_Journey/scenarios/03_Honey_Meets_Darkness.cfg:281
+#: The_Bees_Journey/scenarios/03_Honey_Meets_Darkness.cfg:280
 msgid "You stubborn lot, if I could go anywhere else, I wouldn’t have any attachment to this island either. How many times do you want me to explain the same thing?"
 msgstr ""
 
 #. [message]: speaker=Gekko
-#: The_Bees_Journey/scenarios/03_Honey_Meets_Darkness.cfg:285
+#: The_Bees_Journey/scenarios/03_Honey_Meets_Darkness.cfg:284
 msgid "Shut up! No race other than merfolk is needed on this island! Soldiers, kill them all!"
 msgstr ""
 
 #. [message]: speaker=second_unit
-#: The_Bees_Journey/scenarios/03_Honey_Meets_Darkness.cfg:310
+#: The_Bees_Journey/scenarios/03_Honey_Meets_Darkness.cfg:309
 msgid "Hold on, we have no intention of opposing you guys..."
 msgstr ""
 
 #. [message]: speaker=unit
-#: The_Bees_Journey/scenarios/03_Honey_Meets_Darkness.cfg:314
+#: The_Bees_Journey/scenarios/03_Honey_Meets_Darkness.cfg:313
 msgid "Get lost, you annoying bug!"
 msgstr ""
 
 #. [message]: speaker=Marie
-#: The_Bees_Journey/scenarios/03_Honey_Meets_Darkness.cfg:327
+#: The_Bees_Journey/scenarios/03_Honey_Meets_Darkness.cfg:326
 msgid "I had a little hope for an alliance with them, but it seems impossible."
 msgstr ""
 
 #. [message]: speaker=unit
-#: The_Bees_Journey/scenarios/03_Honey_Meets_Darkness.cfg:341
+#: The_Bees_Journey/scenarios/03_Honey_Meets_Darkness.cfg:340
 msgid "No way! There’s no way I, a great leader, could lose..."
 msgstr ""
 
 #. [message]: speaker=Mal Kaldyn
-#: The_Bees_Journey/scenarios/03_Honey_Meets_Darkness.cfg:356
+#: The_Bees_Journey/scenarios/03_Honey_Meets_Darkness.cfg:355
 msgid "Did those bees take him down? How strange..."
 msgstr ""
 
 #. [scenario]: id=03_Honey_Meets_Darkness
-#: The_Bees_Journey/scenarios/03_Honey_Meets_Darkness.cfg:371
+#: The_Bees_Journey/scenarios/03_Honey_Meets_Darkness.cfg:370
 msgid "Equipping this mysterious bow grants them a new ranged attack and increased swiftness. Should $unit.name use it?"
 msgstr ""
 
 #. [scenario]: id=03_Honey_Meets_Darkness
-#: The_Bees_Journey/scenarios/03_Honey_Meets_Darkness.cfg:372
+#: The_Bees_Journey/scenarios/03_Honey_Meets_Darkness.cfg:371
 msgid "elven bow^Take it"
 msgstr ""
 
 #. [scenario]: id=03_Honey_Meets_Darkness
-#: The_Bees_Journey/scenarios/03_Honey_Meets_Darkness.cfg:373
+#: The_Bees_Journey/scenarios/03_Honey_Meets_Darkness.cfg:372
 msgid "elven bow^Leave it"
 msgstr ""
 
 #. [scenario]: id=03_Honey_Meets_Darkness
-#: The_Bees_Journey/scenarios/03_Honey_Meets_Darkness.cfg:374
+#: The_Bees_Journey/scenarios/03_Honey_Meets_Darkness.cfg:373
 msgid "$unit.name cannot use this bow! Let a bee except a drone or Dragochan have it."
 msgstr ""
 
 #. [object]
-#: The_Bees_Journey/scenarios/03_Honey_Meets_Darkness.cfg:376
+#: The_Bees_Journey/scenarios/03_Honey_Meets_Darkness.cfg:375
 msgid "Lmiol’s Bow"
 msgstr ""
 
 #. [object]
-#: The_Bees_Journey/scenarios/03_Honey_Meets_Darkness.cfg:379
+#: The_Bees_Journey/scenarios/03_Honey_Meets_Darkness.cfg:378
 msgid "This bow’s new attack is always powerful and accurate. It also enhances the wearer’s movement."
 msgstr ""
 
 #. [effect]: type=pierce
-#: The_Bees_Journey/scenarios/03_Honey_Meets_Darkness.cfg:383
+#: The_Bees_Journey/scenarios/03_Honey_Meets_Darkness.cfg:382
 msgid "longbow"
 msgstr ""
 
 #. [message]: speaker=Dragochan
-#: The_Bees_Journey/scenarios/03_Honey_Meets_Darkness.cfg:421
+#: The_Bees_Journey/scenarios/03_Honey_Meets_Darkness.cfg:420
 msgid "Wow, this is an elven-magic bow. Was there an elf on this island?"
 msgstr ""
 
 #. [message]: speaker=unit
-#: The_Bees_Journey/scenarios/03_Honey_Meets_Darkness.cfg:452
+#: The_Bees_Journey/scenarios/03_Honey_Meets_Darkness.cfg:451
 msgid "No way! How could bees... defeat me..."
 msgstr ""
 
 #. [message]: speaker=Dragochan
-#: The_Bees_Journey/scenarios/03_Honey_Meets_Darkness.cfg:456
+#: The_Bees_Journey/scenarios/03_Honey_Meets_Darkness.cfg:455
 msgid "Are you ready to go to hell? I’ll burn you now."
 msgstr ""
 
 #. [message]: speaker=unit
-#: The_Bees_Journey/scenarios/03_Honey_Meets_Darkness.cfg:460
+#: The_Bees_Journey/scenarios/03_Honey_Meets_Darkness.cfg:459
 msgid "Wait! REALLY! I’ll do anything, so spare me! I’ll give you this land too!"
 msgstr ""
 
 #. [message]: speaker=Dragochan
-#: The_Bees_Journey/scenarios/03_Honey_Meets_Darkness.cfg:464
+#: The_Bees_Journey/scenarios/03_Honey_Meets_Darkness.cfg:463
 msgid "What a shameful man. We have no use for such a swamp."
 msgstr ""
 
 #. [message]: speaker=Noaille
-#: The_Bees_Journey/scenarios/03_Honey_Meets_Darkness.cfg:468
+#: The_Bees_Journey/scenarios/03_Honey_Meets_Darkness.cfg:467
 msgid "Dragochan, wait a minute. Listen lich, if you surrender to us and renounce your evil acts, we may consider sparing your life. Your long experience might prove useful to us. However, this is on the premise that you never again perform the evil of raising the dead."
 msgstr ""
 
 #. [message]: speaker=Dragochan
-#: The_Bees_Journey/scenarios/03_Honey_Meets_Darkness.cfg:472
+#: The_Bees_Journey/scenarios/03_Honey_Meets_Darkness.cfg:471
 msgid "You plan to let him join your journey? You must be joking. I’ve seen many detestable races in my time, but the undead are the worst of them all! Especially those who still possess their own will."
 msgstr ""
 
 #. [message]: speaker=Noaille
-#: The_Bees_Journey/scenarios/03_Honey_Meets_Darkness.cfg:476
+#: The_Bees_Journey/scenarios/03_Honey_Meets_Darkness.cfg:475
 msgid "Of course, I understand how dangerous the undead are. They once carved an incurable wound into my heart. Queen Melissa felt the same. I have never forgotten my hatred for that evil."
 msgstr ""
 
 #. [message]: speaker=Noaille
-#: The_Bees_Journey/scenarios/03_Honey_Meets_Darkness.cfg:480
+#: The_Bees_Journey/scenarios/03_Honey_Meets_Darkness.cfg:479
 msgid "But now the situation is far too dire. We need any help we can get. There’s even a saying: fight fire with fire."
 msgstr ""
 
 #. [message]: speaker=Dragochan
-#: The_Bees_Journey/scenarios/03_Honey_Meets_Darkness.cfg:484
+#: The_Bees_Journey/scenarios/03_Honey_Meets_Darkness.cfg:483
 msgid "I’m against it! He’ll only make the situation you said worse. Marie, you agree with me, right?"
 msgstr ""
 
 #. [message]: speaker=unit
-#: The_Bees_Journey/scenarios/03_Honey_Meets_Darkness.cfg:488
+#: The_Bees_Journey/scenarios/03_Honey_Meets_Darkness.cfg:487
 msgid "... I’ll do anything..."
 msgstr ""
 
 #. [message]: speaker=Marie
-#: The_Bees_Journey/scenarios/03_Honey_Meets_Darkness.cfg:492
+#: The_Bees_Journey/scenarios/03_Honey_Meets_Darkness.cfg:491
 msgid "We’d like to go to Lagos Island, but we got lost because we have no map. Could you show us the way?"
 msgstr ""
 
 #. [message]: speaker=unit
-#: The_Bees_Journey/scenarios/03_Honey_Meets_Darkness.cfg:496
+#: The_Bees_Journey/scenarios/03_Honey_Meets_Darkness.cfg:495
 msgid "If my memory serves, Lagos Island is near this island. I’ve never ventured there willingly, but I can guide you. I’ve grown utterly weary of spending time in this swamp anyway."
 msgstr ""
 
 #. [message]: speaker=Dragochan
-#: The_Bees_Journey/scenarios/03_Honey_Meets_Darkness.cfg:500
+#: The_Bees_Journey/scenarios/03_Honey_Meets_Darkness.cfg:499
 msgid "Alas, Dragon God... My bad feeling is coming true... Hey, shameful man, swear absolute loyalty to this savior of your life. And you must never be a necromancer anymore. ANSWER?"
 msgstr ""
 
 #. [modify_unit]
 #. [event]
-#: The_Bees_Journey/scenarios/03_Honey_Meets_Darkness.cfg:507
+#: The_Bees_Journey/scenarios/03_Honey_Meets_Darkness.cfg:506
 #: The_Bees_Journey/scenarios/10_Daydream_Memories.cfg:669
 #: The_Bees_Journey/scenarios/10_Daydream_Memories.cfg:670
 #: The_Bees_Journey/scenarios/10_Daydream_Memories.cfg:676
@@ -1275,7 +1275,7 @@ msgid "Kaldyn"
 msgstr ""
 
 #. [message]: speaker=unit
-#: The_Bees_Journey/scenarios/03_Honey_Meets_Darkness.cfg:515
+#: The_Bees_Journey/scenarios/03_Honey_Meets_Darkness.cfg:514
 msgid "Sure. From today, I, Kaldyn, will serve you people."
 msgstr ""
 
@@ -1313,7 +1313,7 @@ msgstr ""
 #: The_Bees_Journey/scenarios/04_To_the_Voyage.cfg:132
 #: The_Bees_Journey/scenarios/05_Arrival_at_Lagos_Island.cfg:194
 #: The_Bees_Journey/scenarios/06_The_Winter.cfg:158
-#: The_Bees_Journey/scenarios/06_The_Winter.cfg:442
+#: The_Bees_Journey/scenarios/06_The_Winter.cfg:446
 #: The_Bees_Journey/scenarios/07_Rescue_the_Ninjas.cfg:199
 #: The_Bees_Journey/scenarios/07_Rescue_the_Ninjas.cfg:641
 #: The_Bees_Journey/scenarios/10_Daydream_Memories.cfg:208
@@ -1322,151 +1322,151 @@ msgid "Destruction of Kaldyn"
 msgstr ""
 
 #. [message]: speaker=narrator
-#: The_Bees_Journey/scenarios/04_To_the_Voyage.cfg:218
+#: The_Bees_Journey/scenarios/04_To_the_Voyage.cfg:225
 msgid "The party reached the port on the island."
 msgstr ""
 
 #. [message]: speaker=Kaldyn
-#: The_Bees_Journey/scenarios/04_To_the_Voyage.cfg:223
+#: The_Bees_Journey/scenarios/04_To_the_Voyage.cfg:230
 msgid "Heading northeast from here will take you to Lagos Island."
 msgstr ""
 
 #. [message]: speaker=Noaille
-#: The_Bees_Journey/scenarios/04_To_the_Voyage.cfg:227
+#: The_Bees_Journey/scenarios/04_To_the_Voyage.cfg:234
 msgid "Very well, then we must leave from here in haste. We have no time to spare."
 msgstr ""
 
 #. [message]: speaker=Kaldyn
-#: The_Bees_Journey/scenarios/04_To_the_Voyage.cfg:231
+#: The_Bees_Journey/scenarios/04_To_the_Voyage.cfg:238
 msgid "Wait! You might be able to fly, but I can’t. So how am I supposed to cross the sea?"
 msgstr ""
 
 #. [message]: speaker=Dragochan
-#: The_Bees_Journey/scenarios/04_To_the_Voyage.cfg:235
+#: The_Bees_Journey/scenarios/04_To_the_Voyage.cfg:242
 msgid "Why don’t you swim?"
 msgstr ""
 
 #. [message]: speaker=Kaldyn
-#: The_Bees_Journey/scenarios/04_To_the_Voyage.cfg:239
+#: The_Bees_Journey/scenarios/04_To_the_Voyage.cfg:246
 msgid "No way. But you could carry—"
 msgstr ""
 
 #. [message]: speaker=Dragochan
-#: The_Bees_Journey/scenarios/04_To_the_Voyage.cfg:243
+#: The_Bees_Journey/scenarios/04_To_the_Voyage.cfg:250
 msgid "(<i>death stare</i>) ..."
 msgstr ""
 
 #. [message]: speaker=Kaldyn
-#: The_Bees_Journey/scenarios/04_To_the_Voyage.cfg:247
+#: The_Bees_Journey/scenarios/04_To_the_Voyage.cfg:254
 msgid "I’d like to go by ship. YES! I’d love to ride in the boat! I mean, that is why we came to this port. Haha... gulp."
 msgstr ""
 
 #. [message]: speaker=Marie
-#: The_Bees_Journey/scenarios/04_To_the_Voyage.cfg:251
+#: The_Bees_Journey/scenarios/04_To_the_Voyage.cfg:258
 msgid "Be quiet for a moment. There seems to be some commotion over there."
 msgstr ""
 
 #. [message]: speaker=Tantondernintan
-#: The_Bees_Journey/scenarios/04_To_the_Voyage.cfg:255
+#: The_Bees_Journey/scenarios/04_To_the_Voyage.cfg:262
 msgid "Evil creatures ravaging our forest! This is your last day!"
 msgstr ""
 
 #. [message]: speaker=Ordin
-#: The_Bees_Journey/scenarios/04_To_the_Voyage.cfg:259
+#: The_Bees_Journey/scenarios/04_To_the_Voyage.cfg:266
 msgid "You rotten piece of wood. If you can do it, do it."
 msgstr ""
 
 #. [message]: speaker=Kaldyn
-#: The_Bees_Journey/scenarios/04_To_the_Voyage.cfg:263
+#: The_Bees_Journey/scenarios/04_To_the_Voyage.cfg:270
 msgid "What the hell is going on? Skeleton, explain."
 msgstr ""
 
 #. [message]: speaker=Ordin
-#: The_Bees_Journey/scenarios/04_To_the_Voyage.cfg:267
+#: The_Bees_Journey/scenarios/04_To_the_Voyage.cfg:274
 msgid "Whoa, are you my former master? Dear Kaldyn, I refuse to serve such a ridiculous fool who surrenders to insects smaller than yourself."
 msgstr ""
 
 #. [message]: speaker=Dragochan
-#: The_Bees_Journey/scenarios/04_To_the_Voyage.cfg:271
+#: The_Bees_Journey/scenarios/04_To_the_Voyage.cfg:278
 msgid "Haha, it seems you’ve lost all respect. Or did he harbor resentment against you all along?"
 msgstr ""
 
 #. [message]: speaker=Kaldyn
-#: The_Bees_Journey/scenarios/04_To_the_Voyage.cfg:275
+#: The_Bees_Journey/scenarios/04_To_the_Voyage.cfg:282
 msgid "Umm... Skeleton, we must head to Lagos Island via the port near you. If you can understand, don’t interfere."
 msgstr ""
 
 #. [message]: speaker=Ordin
-#: The_Bees_Journey/scenarios/04_To_the_Voyage.cfg:279
+#: The_Bees_Journey/scenarios/04_To_the_Voyage.cfg:286
 msgid "How aggravating! You third-rate sorcerer, I’ll destroy you without a trace!"
 msgstr ""
 
 #. [message]: speaker=Tantondernintan
-#: The_Bees_Journey/scenarios/04_To_the_Voyage.cfg:283
+#: The_Bees_Journey/scenarios/04_To_the_Voyage.cfg:290
 msgid "You too."
 msgstr ""
 
 #. [message]: speaker=Dragochan
-#: The_Bees_Journey/scenarios/04_To_the_Voyage.cfg:293
+#: The_Bees_Journey/scenarios/04_To_the_Voyage.cfg:300
 msgid "<i>Marie... I still can’t shake my concern about that lich. I truly feel indebted to you and want to help you on your journey. His case, however, is simply that he wants to save himself.</i>"
 msgstr ""
 
 #. [message]: speaker=Marie
-#: The_Bees_Journey/scenarios/04_To_the_Voyage.cfg:297
+#: The_Bees_Journey/scenarios/04_To_the_Voyage.cfg:304
 msgid "<i>That’s probably true right now... But I don’t see him as truly evil. He might be able to regain something he lost.</i>"
 msgstr ""
 
 #. [message]: speaker=Dragochan
-#: The_Bees_Journey/scenarios/04_To_the_Voyage.cfg:301
+#: The_Bees_Journey/scenarios/04_To_the_Voyage.cfg:308
 msgid "<i>You are too gentle as one who shall become queen... But I see. I’ll keep an eye on him, but nothing more.</i>"
 msgstr ""
 
 #. [message]: speaker=Marie
-#: The_Bees_Journey/scenarios/04_To_the_Voyage.cfg:309
+#: The_Bees_Journey/scenarios/04_To_the_Voyage.cfg:316
 msgid "<i>Come to think of it, Noaille, you mentioned something I didn’t know during the battle with Kaldyn; that the undead carved a wound into your heart. What exactly happened? Does my mother have anything to with it?</i>"
 msgstr ""
 
 #. [message]: speaker=Noaille
-#: The_Bees_Journey/scenarios/04_To_the_Voyage.cfg:313
+#: The_Bees_Journey/scenarios/04_To_the_Voyage.cfg:320
 msgid "<i>It happened before you were born, and it’s no big deal. I have nothing worth telling.</i>"
 msgstr ""
 
 #. [message]: speaker=Marie
-#: The_Bees_Journey/scenarios/04_To_the_Voyage.cfg:317
+#: The_Bees_Journey/scenarios/04_To_the_Voyage.cfg:324
 msgid "<i>Well, that’s fine then.</i>"
 msgstr ""
 
 #. [message]: speaker=narrator
-#: The_Bees_Journey/scenarios/04_To_the_Voyage.cfg:331
+#: The_Bees_Journey/scenarios/04_To_the_Voyage.cfg:338
 msgid "<i>To the Undead or Wose: <b>Go away.</b> There’s nothing for you here.</i>"
 msgstr ""
 
 #. [message]: speaker=unit
-#: The_Bees_Journey/scenarios/04_To_the_Voyage.cfg:345
+#: The_Bees_Journey/scenarios/04_To_the_Voyage.cfg:352
 msgid "Who are you standing there?"
 msgstr ""
 
 #. [unit]: type=Elvish Lord, id=Clovis
 #. [unit]: type=Elvish Lord, id=Young Clovis
-#: The_Bees_Journey/scenarios/04_To_the_Voyage.cfg:355
+#: The_Bees_Journey/scenarios/04_To_the_Voyage.cfg:362
 #: The_Bees_Journey/scenarios/10_Daydream_Memories.cfg:1104
 msgid "Clovis"
 msgstr ""
 
 #. [dummy]: id=fire_master
-#: The_Bees_Journey/scenarios/04_To_the_Voyage.cfg:375
+#: The_Bees_Journey/scenarios/04_To_the_Voyage.cfg:382
 msgid "fire master"
 msgstr ""
 
 #. [dummy]: id=fire_master
-#: The_Bees_Journey/scenarios/04_To_the_Voyage.cfg:376
+#: The_Bees_Journey/scenarios/04_To_the_Voyage.cfg:383
 msgid "female^fire master"
 msgstr ""
 
 #. [dummy]: id=fire_master
 #. [message]: speaker=narrator
-#: The_Bees_Journey/scenarios/04_To_the_Voyage.cfg:377
-#: The_Bees_Journey/scenarios/04_To_the_Voyage.cfg:479
+#: The_Bees_Journey/scenarios/04_To_the_Voyage.cfg:384
+#: The_Bees_Journey/scenarios/04_To_the_Voyage.cfg:486
 msgid ""
 "Clovis is skilled in fire magic and can summon Fire Guardians anywhere without spending gold or upkeep. However, only two can be summoned on the map.\n"
 "\n"
@@ -1474,177 +1474,177 @@ msgid ""
 msgstr ""
 
 #. [set_menu_item]: id=fire_master
-#: The_Bees_Journey/scenarios/04_To_the_Voyage.cfg:398
+#: The_Bees_Journey/scenarios/04_To_the_Voyage.cfg:405
 msgid "Summon a Fire Guardian"
 msgstr ""
 
 #. [message]: speaker=narrator
-#: The_Bees_Journey/scenarios/04_To_the_Voyage.cfg:415
+#: The_Bees_Journey/scenarios/04_To_the_Voyage.cfg:422
 msgid "You cannot summon more than two!"
 msgstr ""
 
 #. [message]: speaker=Clovis
-#: The_Bees_Journey/scenarios/04_To_the_Voyage.cfg:447
+#: The_Bees_Journey/scenarios/04_To_the_Voyage.cfg:454
 msgid "This is surprising, a speech-wielding bee has come to visit me. I am Clovis, the only elf on this island, called the Fire Master."
 msgstr ""
 
 #. [message]: speaker=Dragochan
-#: The_Bees_Journey/scenarios/04_To_the_Voyage.cfg:451
+#: The_Bees_Journey/scenarios/04_To_the_Voyage.cfg:458
 msgid "Finding an elf here is unexpected, but convenient. Those trees are allies of the elves, correct? Please tell them to cease their attacks against us."
 msgstr ""
 
 #. [message]: speaker=Clovis
-#: The_Bees_Journey/scenarios/04_To_the_Voyage.cfg:455
+#: The_Bees_Journey/scenarios/04_To_the_Voyage.cfg:462
 msgid "No, they are my enemies. They treated me like a madman, and a few weeks ago, they even drove me out of the forest. How utterly rude! I merely used them in my experiments a little, in pursuit of truth..."
 msgstr ""
 
 #. [message]: speaker=Dragochan
-#: The_Bees_Journey/scenarios/04_To_the_Voyage.cfg:459
+#: The_Bees_Journey/scenarios/04_To_the_Voyage.cfg:466
 msgid "I see. <small>I’d better not ask about the experiment details...</small>"
 msgstr ""
 
 #. [message]: speaker=Clovis
-#: The_Bees_Journey/scenarios/04_To_the_Voyage.cfg:463
+#: The_Bees_Journey/scenarios/04_To_the_Voyage.cfg:470
 msgid "But are you bringing a necromancer? Those undead are a real nuisance. If you possess the wisdom to understand words, you should know that they are beings that should be destroyed."
 msgstr ""
 
 #. [message]: speaker=Noaille
-#: The_Bees_Journey/scenarios/04_To_the_Voyage.cfg:467
+#: The_Bees_Journey/scenarios/04_To_the_Voyage.cfg:474
 msgid "He’s merely a guide. Of course, when he uses necromancy again, we’ll destroy him."
 msgstr ""
 
 #. [message]: speaker=Clovis
-#: The_Bees_Journey/scenarios/04_To_the_Voyage.cfg:471
+#: The_Bees_Journey/scenarios/04_To_the_Voyage.cfg:478
 msgid "Well, that’s not for me to interfere in. By the way, I have a request: might I accompany you as well? I was just about to move away from here, and you people are truly interesting."
 msgstr ""
 
 #. [message]: speaker=Marie
-#: The_Bees_Journey/scenarios/04_To_the_Voyage.cfg:475
+#: The_Bees_Journey/scenarios/04_To_the_Voyage.cfg:482
 msgid "You are welcome, but only on the condition that you do NOT use us as experimental materials..."
 msgstr ""
 
 #. [message]: speaker=Kaldyn
-#: The_Bees_Journey/scenarios/04_To_the_Voyage.cfg:501
+#: The_Bees_Journey/scenarios/04_To_the_Voyage.cfg:508
 msgid "This lake..."
 msgstr ""
 
 #. [message]: speaker=Noaille
-#: The_Bees_Journey/scenarios/04_To_the_Voyage.cfg:505
+#: The_Bees_Journey/scenarios/04_To_the_Voyage.cfg:512
 msgid "What a big lake. Do you know this?"
 msgstr ""
 
 #. [message]: speaker=Kaldyn
-#: The_Bees_Journey/scenarios/04_To_the_Voyage.cfg:509
+#: The_Bees_Journey/scenarios/04_To_the_Voyage.cfg:516
 msgid "After I washed ashore on this island, I found this lake almost immediately. I remember feeling it was incredibly beautiful. But this will likely be the last time I ever see this lake."
 msgstr ""
 
 #. [message]: speaker=Noaille
-#: The_Bees_Journey/scenarios/04_To_the_Voyage.cfg:513
+#: The_Bees_Journey/scenarios/04_To_the_Voyage.cfg:520
 msgid "... If you still have even a shred of lingering feelings, you can go there. You have that right."
 msgstr ""
 
 #. [scenario]: id=04_To_the_Voyage, id=Kaldyn
-#: The_Bees_Journey/scenarios/04_To_the_Voyage.cfg:528
+#: The_Bees_Journey/scenarios/04_To_the_Voyage.cfg:535
 msgid "This necklace grants healing magic. Should $unit.name take it?"
 msgstr ""
 
 #. [scenario]: id=04_To_the_Voyage, id=Kaldyn
-#: The_Bees_Journey/scenarios/04_To_the_Voyage.cfg:529
+#: The_Bees_Journey/scenarios/04_To_the_Voyage.cfg:536
 msgid "necklace of life^Take it"
 msgstr ""
 
 #. [scenario]: id=04_To_the_Voyage, id=Kaldyn
-#: The_Bees_Journey/scenarios/04_To_the_Voyage.cfg:530
+#: The_Bees_Journey/scenarios/04_To_the_Voyage.cfg:537
 msgid "necklace of life^Leave it"
 msgstr ""
 
 #. [scenario]: id=04_To_the_Voyage, id=Kaldyn
-#: The_Bees_Journey/scenarios/04_To_the_Voyage.cfg:531
+#: The_Bees_Journey/scenarios/04_To_the_Voyage.cfg:538
 msgid "Only Kaldyn can take this item."
 msgstr ""
 
 #. [object]
-#: The_Bees_Journey/scenarios/04_To_the_Voyage.cfg:533
+#: The_Bees_Journey/scenarios/04_To_the_Voyage.cfg:540
 msgid "Necklace of Life"
 msgstr ""
 
 #. [object]
-#: The_Bees_Journey/scenarios/04_To_the_Voyage.cfg:536
+#: The_Bees_Journey/scenarios/04_To_the_Voyage.cfg:543
 msgid "The magic of this necklace allows the wearer to heal the wounds of other units and provides self-healing every turn."
 msgstr ""
 
 #. [message]: speaker=Kaldyn
-#: The_Bees_Journey/scenarios/04_To_the_Voyage.cfg:577
+#: The_Bees_Journey/scenarios/04_To_the_Voyage.cfg:584
 msgid "... You truly treasured this necklace, my little sister."
 msgstr ""
 
 #. [message]: speaker=Kaldyn
-#: The_Bees_Journey/scenarios/04_To_the_Voyage.cfg:585
+#: The_Bees_Journey/scenarios/04_To_the_Voyage.cfg:592
 msgid "How many centuries have passed since then? You and I were exiled from our home island and washed here. In truth, you were not to blame. It was I who dabbled in darkness, half out of curiosity. Yet you abandoned everything to go with me."
 msgstr ""
 
 #. [message]: speaker=Kaldyn
-#: The_Bees_Journey/scenarios/04_To_the_Voyage.cfg:589
+#: The_Bees_Journey/scenarios/04_To_the_Voyage.cfg:596
 msgid "If you hadn’t been with me, you never would have been killed."
 msgstr ""
 
 #. [message]: speaker=Kaldyn
-#: The_Bees_Journey/scenarios/04_To_the_Voyage.cfg:593
+#: The_Bees_Journey/scenarios/04_To_the_Voyage.cfg:600
 msgid "I cursed the islanders who killed you. But still, the one I hate most is myself. Had I not fallen into depravity, you would have lived a peaceful life."
 msgstr ""
 
 #. [message]: speaker=Kaldyn
-#: The_Bees_Journey/scenarios/04_To_the_Voyage.cfg:600
+#: The_Bees_Journey/scenarios/04_To_the_Voyage.cfg:607
 msgid "I may soon be doomed. I have no idea what awaits me after leaving this hateful island. I must entrust myself to that mysterious bee named Marie."
 msgstr ""
 
 #. [message]: speaker=Kaldyn
-#: The_Bees_Journey/scenarios/04_To_the_Voyage.cfg:604
+#: The_Bees_Journey/scenarios/04_To_the_Voyage.cfg:611
 msgid "Meeting you in the Land of the Dead would be terrifying beyond words. When that time comes, however, I will find some way to return this necklace to you. So please forgive me, Flora..."
 msgstr ""
 
 #. [message]: speaker=Noaille
-#: The_Bees_Journey/scenarios/04_To_the_Voyage.cfg:616
+#: The_Bees_Journey/scenarios/04_To_the_Voyage.cfg:623
 msgid "Are you satisfied now?"
 msgstr ""
 
 #. [message]: speaker=Kaldyn
-#: The_Bees_Journey/scenarios/04_To_the_Voyage.cfg:620
+#: The_Bees_Journey/scenarios/04_To_the_Voyage.cfg:627
 msgid "Sure, thank you. This lake is the only beautiful spot on this island."
 msgstr ""
 
 #. [message]: speaker=unit
-#: The_Bees_Journey/scenarios/04_To_the_Voyage.cfg:633
+#: The_Bees_Journey/scenarios/04_To_the_Voyage.cfg:640
 msgid "Argh! In the end... I could not even surpass Kaldyn..."
 msgstr ""
 
 #. [message]: speaker=unit
-#: The_Bees_Journey/scenarios/04_To_the_Voyage.cfg:648
+#: The_Bees_Journey/scenarios/04_To_the_Voyage.cfg:655
 msgid "What the hell are you who attacking us?"
 msgstr ""
 
 #. [message]: speaker=Marie
-#: The_Bees_Journey/scenarios/04_To_the_Voyage.cfg:652
+#: The_Bees_Journey/scenarios/04_To_the_Voyage.cfg:659
 msgid "We are bees, creatures that love nature! We bear you no ill will. If you do not hinder us, we will do nothing to you."
 msgstr ""
 
 #. [message]: speaker=unit
-#: The_Bees_Journey/scenarios/04_To_the_Voyage.cfg:656
+#: The_Bees_Journey/scenarios/04_To_the_Voyage.cfg:663
 msgid "... I’ll believe your words. Sorry for mistreating you as enemies without hearing your side. We’ll take a little rest."
 msgstr ""
 
 #. [message]: speaker=Clovis
-#: The_Bees_Journey/scenarios/04_To_the_Voyage.cfg:671
+#: The_Bees_Journey/scenarios/04_To_the_Voyage.cfg:678
 msgid "They seem to have finally realized their mistake!"
 msgstr ""
 
 #. [message]: speaker=Dragochan
-#: The_Bees_Journey/scenarios/04_To_the_Voyage.cfg:675
+#: The_Bees_Journey/scenarios/04_To_the_Voyage.cfg:682
 msgid "Hey elf, don’t show yourself to them; it’ll only make things more troublesome."
 msgstr ""
 
 #. [message]: speaker=Kaldyn
-#: The_Bees_Journey/scenarios/04_To_the_Voyage.cfg:691
+#: The_Bees_Journey/scenarios/04_To_the_Voyage.cfg:698
 msgid "Now we can get on the boat. You might want to rest your wings during the voyage."
 msgstr ""
 
@@ -1693,319 +1693,319 @@ msgid "Let’s rescue the ants as quickly you can."
 msgstr ""
 
 #. [message]: speaker=Kaldyn
-#: The_Bees_Journey/scenarios/05_Arrival_at_Lagos_Island.cfg:285
+#: The_Bees_Journey/scenarios/05_Arrival_at_Lagos_Island.cfg:289
 msgid "We’ve finally arrived. This should be Lagos Island... But something seems off. What on earth is going on?"
 msgstr ""
 
 #. [message]: speaker=Marie
-#: The_Bees_Journey/scenarios/05_Arrival_at_Lagos_Island.cfg:289
+#: The_Bees_Journey/scenarios/05_Arrival_at_Lagos_Island.cfg:293
 msgid "Look! They are—"
 msgstr ""
 
 #. [message]: speaker=Noaille
-#: The_Bees_Journey/scenarios/05_Arrival_at_Lagos_Island.cfg:312
+#: The_Bees_Journey/scenarios/05_Arrival_at_Lagos_Island.cfg:316
 msgid "Queen Belania! What is this situation?!"
 msgstr ""
 
 #. [message]: speaker=Belania
-#: The_Bees_Journey/scenarios/05_Arrival_at_Lagos_Island.cfg:316
+#: The_Bees_Journey/scenarios/05_Arrival_at_Lagos_Island.cfg:320
 msgid "Ah, are those bees over there? We’ve been hit by a massive ambush of hornets. The capital is already on the verge of falling..."
 msgstr ""
 
 #. [message]: speaker=Marie
-#: The_Bees_Journey/scenarios/05_Arrival_at_Lagos_Island.cfg:320
+#: The_Bees_Journey/scenarios/05_Arrival_at_Lagos_Island.cfg:324
 msgid "What are those hornets thinking, targeting even the peaceful Kingdom of Ants? Queen, we shall join you in protecting this island!"
 msgstr ""
 
 #. [message]: speaker=Belania
-#: The_Bees_Journey/scenarios/05_Arrival_at_Lagos_Island.cfg:324
+#: The_Bees_Journey/scenarios/05_Arrival_at_Lagos_Island.cfg:328
 msgid "I appreciate you, bees."
 msgstr ""
 
 #. [message]: speaker=Dragochan
-#: The_Bees_Journey/scenarios/05_Arrival_at_Lagos_Island.cfg:328
+#: The_Bees_Journey/scenarios/05_Arrival_at_Lagos_Island.cfg:332
 msgid "I see, so they’re the enemies of you bees. They do have a scary gaze, indeed..."
 msgstr ""
 
 #. [message]: speaker=Clovis
-#: The_Bees_Journey/scenarios/05_Arrival_at_Lagos_Island.cfg:332
+#: The_Bees_Journey/scenarios/05_Arrival_at_Lagos_Island.cfg:336
 msgid "I heard from you that hornets are weak against fire, but let’s see if that’s true. Ever since I met you, it’s been nothing but interesting!"
 msgstr ""
 
 #. [message]: speaker=Hinyl
-#: The_Bees_Journey/scenarios/05_Arrival_at_Lagos_Island.cfg:341
+#: The_Bees_Journey/scenarios/05_Arrival_at_Lagos_Island.cfg:345
 msgid "Hey, could those bees be survivors from the island we stormed?"
 msgstr ""
 
 #. [message]: speaker=Zemir
-#: The_Bees_Journey/scenarios/05_Arrival_at_Lagos_Island.cfg:345
+#: The_Bees_Journey/scenarios/05_Arrival_at_Lagos_Island.cfg:349
 msgid "That’s probably true. What our lady sought was not found on that island. As long as there remains a possibility, we must capture them."
 msgstr ""
 
 #. [message]: speaker=Hinyl
-#: The_Bees_Journey/scenarios/05_Arrival_at_Lagos_Island.cfg:349
+#: The_Bees_Journey/scenarios/05_Arrival_at_Lagos_Island.cfg:353
 msgid "Capture? Isn’t that a mistake for ‘kill’? Well, no matter. Either way, our operation stays the same!"
 msgstr ""
 
 #. [message]: speaker=Marie
-#: The_Bees_Journey/scenarios/05_Arrival_at_Lagos_Island.cfg:358
+#: The_Bees_Journey/scenarios/05_Arrival_at_Lagos_Island.cfg:362
 msgid "They’re the same ones who attacked our island as reinforcements! Mom should have been fighting them... why..."
 msgstr ""
 
 #. [message]: speaker=Noaille
-#: The_Bees_Journey/scenarios/05_Arrival_at_Lagos_Island.cfg:362
+#: The_Bees_Journey/scenarios/05_Arrival_at_Lagos_Island.cfg:366
 msgid "Marie, there’s no way that great Queen Melissa could lose."
 msgstr ""
 
 #. [message]: speaker=Marie
-#: The_Bees_Journey/scenarios/05_Arrival_at_Lagos_Island.cfg:366
+#: The_Bees_Journey/scenarios/05_Arrival_at_Lagos_Island.cfg:370
 msgid "I want to believe so..."
 msgstr ""
 
 #. [message]: speaker=second_unit
-#: The_Bees_Journey/scenarios/05_Arrival_at_Lagos_Island.cfg:380
+#: The_Bees_Journey/scenarios/05_Arrival_at_Lagos_Island.cfg:384
 msgid "Ah, so they’re not very skilled with magic? Well then, my victory is practically assured!"
 msgstr ""
 
 #. [message]: speaker=second_unit
-#: The_Bees_Journey/scenarios/05_Arrival_at_Lagos_Island.cfg:392
+#: The_Bees_Journey/scenarios/05_Arrival_at_Lagos_Island.cfg:396
 msgid "Argh! These hornets wield the power of dark magic!"
 msgstr ""
 
 #. [message]: speaker=Marie
-#: The_Bees_Journey/scenarios/05_Arrival_at_Lagos_Island.cfg:406
+#: The_Bees_Journey/scenarios/05_Arrival_at_Lagos_Island.cfg:410
 msgid "Why are they so skilled, even though hornets are usually clumsy with magic?"
 msgstr ""
 
 #. [message]: speaker=unit
-#: The_Bees_Journey/scenarios/05_Arrival_at_Lagos_Island.cfg:421
+#: The_Bees_Journey/scenarios/05_Arrival_at_Lagos_Island.cfg:425
 msgid "I found the gold the hornets had been hoarding! At least a hundred pieces."
 msgstr ""
 
 #. [message]: speaker=narrator
-#: The_Bees_Journey/scenarios/05_Arrival_at_Lagos_Island.cfg:430
+#: The_Bees_Journey/scenarios/05_Arrival_at_Lagos_Island.cfg:434
 msgid "You retrieve 100 pieces of gold!"
 msgstr ""
 
 #. [message]: speaker=unit
-#: The_Bees_Journey/scenarios/05_Arrival_at_Lagos_Island.cfg:457
+#: The_Bees_Journey/scenarios/05_Arrival_at_Lagos_Island.cfg:461
 msgid "Guh... Long live the lady..."
 msgstr ""
 
 #. [message]: speaker=Marie
-#: The_Bees_Journey/scenarios/05_Arrival_at_Lagos_Island.cfg:469
+#: The_Bees_Journey/scenarios/05_Arrival_at_Lagos_Island.cfg:473
 msgid "I have something to ask you! Why are you attacking us? Where did my mother go?"
 msgstr ""
 
 #. [message]: speaker=unit
-#: The_Bees_Journey/scenarios/05_Arrival_at_Lagos_Island.cfg:473
+#: The_Bees_Journey/scenarios/05_Arrival_at_Lagos_Island.cfg:477
 msgid "AH! I’m NOT done killing! You damn bees..."
 msgstr ""
 
 #. [message]: speaker=Marie
 #. [event]
-#: The_Bees_Journey/scenarios/05_Arrival_at_Lagos_Island.cfg:477
+#: The_Bees_Journey/scenarios/05_Arrival_at_Lagos_Island.cfg:481
 #: The_Bees_Journey/scenarios/10_Daydream_Memories.cfg:1835
 msgid "... <b>Enough.</b>"
 msgstr ""
 
 #. [message]: speaker=Dragochan
-#: The_Bees_Journey/scenarios/05_Arrival_at_Lagos_Island.cfg:492
+#: The_Bees_Journey/scenarios/05_Arrival_at_Lagos_Island.cfg:496
 msgid "It seems the battle is over... I’ve never seen such savage hornets in my life."
 msgstr ""
 
 #. [message]: speaker=Belania
-#: The_Bees_Journey/scenarios/05_Arrival_at_Lagos_Island.cfg:513
+#: The_Bees_Journey/scenarios/05_Arrival_at_Lagos_Island.cfg:517
 msgid "I appreciate your aid. I wish to talk with you all, so come over here."
 msgstr ""
 
 #. [message]: speaker=Belania
-#: The_Bees_Journey/scenarios/05_Arrival_at_Lagos_Island.cfg:558
+#: The_Bees_Journey/scenarios/05_Arrival_at_Lagos_Island.cfg:562
 msgid "... It’s been a long time since we last met, my dear bees."
 msgstr ""
 
 #. [message]: speaker=Noaille
-#: The_Bees_Journey/scenarios/05_Arrival_at_Lagos_Island.cfg:562
+#: The_Bees_Journey/scenarios/05_Arrival_at_Lagos_Island.cfg:566
 msgid "True. However, I have never for a moment forgotten that we once lived together, struggled, and parted ways."
 msgstr ""
 
 #. [message]: speaker=Marie
-#: The_Bees_Journey/scenarios/05_Arrival_at_Lagos_Island.cfg:566
+#: The_Bees_Journey/scenarios/05_Arrival_at_Lagos_Island.cfg:570
 msgid "What do you mean, Noaille?"
 msgstr ""
 
 #. [message]: speaker=Noaille
-#: The_Bees_Journey/scenarios/05_Arrival_at_Lagos_Island.cfg:570
+#: The_Bees_Journey/scenarios/05_Arrival_at_Lagos_Island.cfg:574
 msgid "I hadn’t talked about this yet, Marie. Back when I was young, ants and bees lived on the same island, each running their own kingdom. The ants cleaned up the scraps left by other creatures, while the bees nurtured the abundance of plants on the land. We cooperated with each other."
 msgstr ""
 
 #. [message]: speaker=Noaille
-#: The_Bees_Journey/scenarios/05_Arrival_at_Lagos_Island.cfg:574
+#: The_Bees_Journey/scenarios/05_Arrival_at_Lagos_Island.cfg:578
 msgid "But a harsh winter is coming. It was especially bad that year, so cold that the ants nearly froze to death. There was nothing to fill the stomach. The starving ants attacked and plundered our kingdom. Many unnecessary sacrifices were made on both sides."
 msgstr ""
 
 #. [message]: speaker=Belania
-#: The_Bees_Journey/scenarios/05_Arrival_at_Lagos_Island.cfg:578
+#: The_Bees_Journey/scenarios/05_Arrival_at_Lagos_Island.cfg:582
 msgid "We decided to part ways in order to remain amicable to one another. We ants headed for the distant Lagos Island. Today, the two kingdoms remain loosely connected."
 msgstr ""
 
 #. [message]: speaker=Belania
-#: The_Bees_Journey/scenarios/05_Arrival_at_Lagos_Island.cfg:585
+#: The_Bees_Journey/scenarios/05_Arrival_at_Lagos_Island.cfg:589
 msgid "By the way, why did you suddenly come all the way to this island? I don’t want to believe, but were you also invaded by those hornets?"
 msgstr ""
 
 #. [message]: speaker=Noaille
-#: The_Bees_Journey/scenarios/05_Arrival_at_Lagos_Island.cfg:589
+#: The_Bees_Journey/scenarios/05_Arrival_at_Lagos_Island.cfg:593
 msgid "Sadly, your concern is well-founded. Our kingdom has been nearly destroyed by them. Queen Melissa ordered the heir to the throne to escape the island. And this is her — Princess Marie."
 msgstr ""
 
 #. [message]: speaker=Belania
-#: The_Bees_Journey/scenarios/05_Arrival_at_Lagos_Island.cfg:593
+#: The_Bees_Journey/scenarios/05_Arrival_at_Lagos_Island.cfg:597
 msgid "Oh... I’ve heard tales of you; that you are suitable to become a great queen. It is a pity our first meeting has taken such a situation."
 msgstr ""
 
 #. [message]: speaker=Marie
-#: The_Bees_Journey/scenarios/05_Arrival_at_Lagos_Island.cfg:597
+#: The_Bees_Journey/scenarios/05_Arrival_at_Lagos_Island.cfg:601
 msgid "I am honored to meet you, Queen Belania."
 msgstr ""
 
 #. [message]: speaker=Belania
-#: The_Bees_Journey/scenarios/05_Arrival_at_Lagos_Island.cfg:601
+#: The_Bees_Journey/scenarios/05_Arrival_at_Lagos_Island.cfg:605
 msgid "But... why are you acting alongside a necromancer? Normally, the lich standing there would never be allowed to set foot on this island..."
 msgstr ""
 
 #. [message]: speaker=Dragochan
-#: The_Bees_Journey/scenarios/05_Arrival_at_Lagos_Island.cfg:605
+#: The_Bees_Journey/scenarios/05_Arrival_at_Lagos_Island.cfg:609
 msgid "I warned her about him too! I wish to build bonds of friendship with the bees, but this guy is completely different."
 msgstr ""
 
 #. [message]: speaker=Marie
-#: The_Bees_Journey/scenarios/05_Arrival_at_Lagos_Island.cfg:609
+#: The_Bees_Journey/scenarios/05_Arrival_at_Lagos_Island.cfg:613
 msgid "He is... He is our guide who showed us the sea route and geography to Lagos Island. His presence here is only my responsibility."
 msgstr ""
 
 #. [message]: speaker=Dragochan
-#: The_Bees_Journey/scenarios/05_Arrival_at_Lagos_Island.cfg:613
+#: The_Bees_Journey/scenarios/05_Arrival_at_Lagos_Island.cfg:617
 msgid "But now we’ve arrived at Lagos Island, and we’ve met the ants here. He is NO longer necessary."
 msgstr ""
 
 #. [message]: speaker=Kaldyn
-#: The_Bees_Journey/scenarios/05_Arrival_at_Lagos_Island.cfg:617
+#: The_Bees_Journey/scenarios/05_Arrival_at_Lagos_Island.cfg:621
 msgid "What do you plan to do against me? Will you burn me with your flames?"
 msgstr ""
 
 #. [message]: speaker=Dragochan
-#: The_Bees_Journey/scenarios/05_Arrival_at_Lagos_Island.cfg:621
+#: The_Bees_Journey/scenarios/05_Arrival_at_Lagos_Island.cfg:625
 msgid "If possible."
 msgstr ""
 
 #. [message]: speaker=Clovis
-#: The_Bees_Journey/scenarios/05_Arrival_at_Lagos_Island.cfg:625
+#: The_Bees_Journey/scenarios/05_Arrival_at_Lagos_Island.cfg:629
 msgid "Ha! That’s a pretty good idea. Should I lend you my fire puppets too?"
 msgstr ""
 
 #. [message]: speaker=Kaldyn
-#: The_Bees_Journey/scenarios/05_Arrival_at_Lagos_Island.cfg:629
+#: The_Bees_Journey/scenarios/05_Arrival_at_Lagos_Island.cfg:633
 msgid "... That’s not what we agreed on!"
 msgstr ""
 
 #. [message]: speaker=Marie
-#: The_Bees_Journey/scenarios/05_Arrival_at_Lagos_Island.cfg:633
+#: The_Bees_Journey/scenarios/05_Arrival_at_Lagos_Island.cfg:637
 msgid "Dragochan, no! He worked very, very hard for us. He has done nothing bad since he joined our journey. No doubt about that, right? Besides, now is not the time to be discussing those things!"
 msgstr ""
 
 #. [message]: speaker=Dragochan
-#: The_Bees_Journey/scenarios/05_Arrival_at_Lagos_Island.cfg:637
+#: The_Bees_Journey/scenarios/05_Arrival_at_Lagos_Island.cfg:641
 msgid "Mmmm..."
 msgstr ""
 
 #. [message]: speaker=Noaille
-#: The_Bees_Journey/scenarios/05_Arrival_at_Lagos_Island.cfg:641
+#: The_Bees_Journey/scenarios/05_Arrival_at_Lagos_Island.cfg:645
 msgid "Queen, may we let Marie decide how to handle him?"
 msgstr ""
 
 #. [message]: speaker=Belania
-#: The_Bees_Journey/scenarios/05_Arrival_at_Lagos_Island.cfg:645
+#: The_Bees_Journey/scenarios/05_Arrival_at_Lagos_Island.cfg:649
 msgid "If it makes things better, fine. You, who should know the dangers of the undead better than anyone, say so much — it’s not for me to meddle then. It is those hornets that should be the problem. We have never had an invasion this big before. However, we ants feel there is a place where some magic is emanating."
 msgstr ""
 
 #. [message]: speaker=Noaille
-#: The_Bees_Journey/scenarios/05_Arrival_at_Lagos_Island.cfg:649
+#: The_Bees_Journey/scenarios/05_Arrival_at_Lagos_Island.cfg:653
 msgid "What do you mean?"
 msgstr ""
 
 #. [message]: speaker=Belania
-#: The_Bees_Journey/scenarios/05_Arrival_at_Lagos_Island.cfg:653
+#: The_Bees_Journey/scenarios/05_Arrival_at_Lagos_Island.cfg:657
 msgid "The island to the northwest of here is said to have once thrived on the insect magic. Since a few months ago, our mages began to observe mighty magical powers from that direction..."
 msgstr ""
 
 #. [message]: speaker=Marie
-#: The_Bees_Journey/scenarios/05_Arrival_at_Lagos_Island.cfg:657
+#: The_Bees_Journey/scenarios/05_Arrival_at_Lagos_Island.cfg:661
 msgid "We need to investigate the root of that magic. We are not so selfless as to stand still in this crisis now. Queen, could you please help us with our journey?"
 msgstr ""
 
 #. [message]: speaker=Belania
-#: The_Bees_Journey/scenarios/05_Arrival_at_Lagos_Island.cfg:661
+#: The_Bees_Journey/scenarios/05_Arrival_at_Lagos_Island.cfg:665
 msgid "Unfortunately, it’s not possible. We are too old and too weak to be able to leave... If you wish, however, we will give you a moment’s rest and supplies. Of course, we will also provide you with a map of the area."
 msgstr ""
 
 #. [message]: speaker=Marie
-#: The_Bees_Journey/scenarios/05_Arrival_at_Lagos_Island.cfg:665
+#: The_Bees_Journey/scenarios/05_Arrival_at_Lagos_Island.cfg:669
 msgid "Thank you very much."
 msgstr ""
 
 #. [message]: speaker=Noaille
-#: The_Bees_Journey/scenarios/05_Arrival_at_Lagos_Island.cfg:669
+#: The_Bees_Journey/scenarios/05_Arrival_at_Lagos_Island.cfg:673
 msgid "After all, I’m glad we could come here. I give thanks to the Sunshine Gods."
 msgstr ""
 
 #. [message]: speaker=Dragochan
-#: The_Bees_Journey/scenarios/05_Arrival_at_Lagos_Island.cfg:693
+#: The_Bees_Journey/scenarios/05_Arrival_at_Lagos_Island.cfg:697
 msgid "Hey Marie, I’m not done talking yet. We cannot let Kaldyn remain free after all. You’ll keep fighting those hornets, right? You’re already heading into danger as is... you mustn’t pile on more sources of trouble."
 msgstr ""
 
 #. [message]: speaker=Marie
-#: The_Bees_Journey/scenarios/05_Arrival_at_Lagos_Island.cfg:697
+#: The_Bees_Journey/scenarios/05_Arrival_at_Lagos_Island.cfg:701
 msgid "No, he is not evil. If he has fallen into darkness right now, we need only bring him back. Do you remember, he told us to rest our wings on the boat too. He cared for us so naturally. He will surely reclaim his goodness."
 msgstr ""
 
 #. [message]: speaker=Marie
-#: The_Bees_Journey/scenarios/05_Arrival_at_Lagos_Island.cfg:701
+#: The_Bees_Journey/scenarios/05_Arrival_at_Lagos_Island.cfg:705
 msgid "... Also, there’s something I’d like to ask of you."
 msgstr ""
 
 #. [message]: speaker=Dragochan
-#: The_Bees_Journey/scenarios/05_Arrival_at_Lagos_Island.cfg:705
+#: The_Bees_Journey/scenarios/05_Arrival_at_Lagos_Island.cfg:709
 msgid "Me?"
 msgstr ""
 
 #. [message]: speaker=Marie
-#: The_Bees_Journey/scenarios/05_Arrival_at_Lagos_Island.cfg:709
+#: The_Bees_Journey/scenarios/05_Arrival_at_Lagos_Island.cfg:713
 msgid "I want you to make sure that Kaldyn is set up for an honest existence again. I want you to pay close attention to the way you treat him."
 msgstr ""
 
 #. [message]: speaker=Dragochan
-#: The_Bees_Journey/scenarios/05_Arrival_at_Lagos_Island.cfg:713
+#: The_Bees_Journey/scenarios/05_Arrival_at_Lagos_Island.cfg:717
 msgid "Wh-what? Why the hell should I have to look after him?! That is not Lord Dragon’s job..."
 msgstr ""
 
 #. [message]: speaker=Marie
-#: The_Bees_Journey/scenarios/05_Arrival_at_Lagos_Island.cfg:717
+#: The_Bees_Journey/scenarios/05_Arrival_at_Lagos_Island.cfg:721
 msgid "I know I’m asking for the impossible... but..."
 msgstr ""
 
 #. [message]: speaker=Dragochan
-#: The_Bees_Journey/scenarios/05_Arrival_at_Lagos_Island.cfg:721
+#: The_Bees_Journey/scenarios/05_Arrival_at_Lagos_Island.cfg:725
 msgid "Ah, don’t make that sad face, princess! Since you asked me, I’ll try to figure something out."
 msgstr ""
 
 #. [message]: speaker=Marie
-#: The_Bees_Journey/scenarios/05_Arrival_at_Lagos_Island.cfg:725
+#: The_Bees_Journey/scenarios/05_Arrival_at_Lagos_Island.cfg:729
 msgid "... Really?"
 msgstr ""
 
 #. [message]: speaker=Dragochan
-#: The_Bees_Journey/scenarios/05_Arrival_at_Lagos_Island.cfg:729
+#: The_Bees_Journey/scenarios/05_Arrival_at_Lagos_Island.cfg:733
 msgid "Well, just don’t get your hopes up too high, however."
 msgstr ""
 
@@ -2062,267 +2062,267 @@ msgid "Explore and find someone"
 msgstr ""
 
 #. [event]
-#: The_Bees_Journey/scenarios/06_The_Winter.cfg:203
+#: The_Bees_Journey/scenarios/06_The_Winter.cfg:207
 msgid "Kegrid"
 msgstr ""
 
 #. [event]
-#: The_Bees_Journey/scenarios/06_The_Winter.cfg:204
+#: The_Bees_Journey/scenarios/06_The_Winter.cfg:208
 msgid "Egar"
 msgstr ""
 
 #. [event]
-#: The_Bees_Journey/scenarios/06_The_Winter.cfg:205
+#: The_Bees_Journey/scenarios/06_The_Winter.cfg:209
 msgid "Veralon"
 msgstr ""
 
 #. [message]: speaker=Marie
-#: The_Bees_Journey/scenarios/06_The_Winter.cfg:253
+#: The_Bees_Journey/scenarios/06_The_Winter.cfg:257
 msgid "Pure white snow! I hadn’t even noticed, but winter had already settled in."
 msgstr ""
 
 #. [message]: speaker=Kaldyn
-#: The_Bees_Journey/scenarios/06_The_Winter.cfg:257
+#: The_Bees_Journey/scenarios/06_The_Winter.cfg:261
 msgid "Is it really safe to choose this island as a place to rest? I’m scared I’ll freeze to death in this cold."
 msgstr ""
 
 #. [message]: speaker=Dragochan
-#: The_Bees_Journey/scenarios/06_The_Winter.cfg:261
+#: The_Bees_Journey/scenarios/06_The_Winter.cfg:265
 msgid "You’re already dead, aren’t you?"
 msgstr ""
 
 #. [message]: speaker=Kaldyn
-#: The_Bees_Journey/scenarios/06_The_Winter.cfg:265
+#: The_Bees_Journey/scenarios/06_The_Winter.cfg:269
 msgid "But that doesn’t change that I dislike the cold—"
 msgstr ""
 
 #. [message]: speaker=Kaldyn
-#: The_Bees_Journey/scenarios/06_The_Winter.cfg:272
+#: The_Bees_Journey/scenarios/06_The_Winter.cfg:276
 msgid "<i>ARGH?!</i>"
 msgstr ""
 
 #. [message]: speaker=Marie
-#: The_Bees_Journey/scenarios/06_The_Winter.cfg:276
+#: The_Bees_Journey/scenarios/06_The_Winter.cfg:280
 msgid "Dragochan!"
 msgstr ""
 
 #. [message]: speaker=Dragochan
-#: The_Bees_Journey/scenarios/06_The_Winter.cfg:280
+#: The_Bees_Journey/scenarios/06_The_Winter.cfg:284
 msgid "I didn’t burn him. See, he says he’s warm now."
 msgstr ""
 
 #. [message]: speaker=Kaldyn
-#: The_Bees_Journey/scenarios/06_The_Winter.cfg:284
+#: The_Bees_Journey/scenarios/06_The_Winter.cfg:288
 msgid "Umm... Maybe so."
 msgstr ""
 
 #. [message]: speaker=Marie
-#: The_Bees_Journey/scenarios/06_The_Winter.cfg:288
+#: The_Bees_Journey/scenarios/06_The_Winter.cfg:292
 msgid "But yes, camping out here all the time is pretty cold. Let’s explore the island and see if we can find somewhere a little warmer. Maybe there are islanders who could help us."
 msgstr ""
 
 #. [message]: speaker=Noaille
-#: The_Bees_Journey/scenarios/06_The_Winter.cfg:292
+#: The_Bees_Journey/scenarios/06_The_Winter.cfg:296
 msgid "I understand, Marie ― our New Queen."
 msgstr ""
 
 #. [message]: speaker=Kaldyn
-#: The_Bees_Journey/scenarios/06_The_Winter.cfg:300
+#: The_Bees_Journey/scenarios/06_The_Winter.cfg:304
 msgid "<i>However... how much longer must I endure this forced voyage with these bees?</i>"
 msgstr ""
 
 #. [message]: speaker=Dragochan
-#: The_Bees_Journey/scenarios/06_The_Winter.cfg:304
+#: The_Bees_Journey/scenarios/06_The_Winter.cfg:308
 msgid "<i>Hey Kaldyn, I can hear you.</i>"
 msgstr ""
 
 #. [message]: speaker=Dragochan
-#: The_Bees_Journey/scenarios/06_The_Winter.cfg:311
+#: The_Bees_Journey/scenarios/06_The_Winter.cfg:315
 msgid "<i>Listen, if you have even the slightest desire to understand Marie’s grief at losing her family, you should keep quiet and obey her.</i>"
 msgstr ""
 
 #. [message]: speaker=Kaldyn
-#: The_Bees_Journey/scenarios/06_The_Winter.cfg:315
+#: The_Bees_Journey/scenarios/06_The_Winter.cfg:319
 msgid "<i>... My emotions are none of your business...</i>"
 msgstr ""
 
 #. [message]: speaker=Clovis
-#: The_Bees_Journey/scenarios/06_The_Winter.cfg:341
+#: The_Bees_Journey/scenarios/06_The_Winter.cfg:345
 msgid "Orcs! I never expected to encounter them on such an island."
 msgstr ""
 
 #. [message]: speaker=Marie
-#: The_Bees_Journey/scenarios/06_The_Winter.cfg:345
+#: The_Bees_Journey/scenarios/06_The_Winter.cfg:349
 msgid "What on earth are they?"
 msgstr ""
 
 #. [message]: speaker=Dragochan
-#: The_Bees_Journey/scenarios/06_The_Winter.cfg:349
+#: The_Bees_Journey/scenarios/06_The_Winter.cfg:353
 msgid "They are called orcs, a race that, like drakes, forms a clan and acts as together. However, most of them are violent, and I’ve never met one who could be talked to properly."
 msgstr ""
 
 #. [message]: speaker=Noaille
-#: The_Bees_Journey/scenarios/06_The_Winter.cfg:353
+#: The_Bees_Journey/scenarios/06_The_Winter.cfg:357
 msgid "If they attack us, we should defend ourselves, I guess."
 msgstr ""
 
 #. [message]: speaker=Noaille
-#: The_Bees_Journey/scenarios/06_The_Winter.cfg:382
+#: The_Bees_Journey/scenarios/06_The_Winter.cfg:386
 msgid "Who are you people? You seem to be of the same race as Dragochan."
 msgstr ""
 
 #. [message]: speaker=Dilan
-#: The_Bees_Journey/scenarios/06_The_Winter.cfg:396
+#: The_Bees_Journey/scenarios/06_The_Winter.cfg:400
 msgid "We are the drakes of this island, defending against invaders even now! If you have spare time to talk, help us fight!"
 msgstr ""
 
 #. [message]: speaker=Dragochan
-#: The_Bees_Journey/scenarios/06_The_Winter.cfg:400
+#: The_Bees_Journey/scenarios/06_The_Winter.cfg:404
 msgid "Ah, my brethren! I’ll help you now along with these bee friends!"
 msgstr ""
 
 #. [message]: speaker=Marie
-#: The_Bees_Journey/scenarios/06_The_Winter.cfg:404
+#: The_Bees_Journey/scenarios/06_The_Winter.cfg:408
 msgid "... Seems we’ve ended up on a troublesome island..."
 msgstr ""
 
 #. [objective]: condition=win
-#: The_Bees_Journey/scenarios/06_The_Winter.cfg:425
+#: The_Bees_Journey/scenarios/06_The_Winter.cfg:429
 msgid "Defeat all orcish leaders"
 msgstr ""
 
 #. [objective]: condition=lose
-#: The_Bees_Journey/scenarios/06_The_Winter.cfg:446
+#: The_Bees_Journey/scenarios/06_The_Winter.cfg:450
 msgid "Death of Dilan"
 msgstr ""
 
 #. [message]: speaker=unit
-#: The_Bees_Journey/scenarios/06_The_Winter.cfg:473
+#: The_Bees_Journey/scenarios/06_The_Winter.cfg:477
 msgid "These bees are surprisingly tough! Be careful..."
 msgstr ""
 
 #. [message]: speaker=unit
-#: The_Bees_Journey/scenarios/06_The_Winter.cfg:486
+#: The_Bees_Journey/scenarios/06_The_Winter.cfg:490
 msgid "Agh! Getting taken down by a mere bee is ridiculous..."
 msgstr ""
 
 #. [message]: speaker=unit
-#: The_Bees_Journey/scenarios/06_The_Winter.cfg:503
+#: The_Bees_Journey/scenarios/06_The_Winter.cfg:507
 msgid "Where did these crazy bees come from?!"
 msgstr ""
 
 #. [message]: speaker=unit
-#: The_Bees_Journey/scenarios/06_The_Winter.cfg:522
+#: The_Bees_Journey/scenarios/06_The_Winter.cfg:526
 msgid "This is a strange lair. Who built it, I wonder..."
 msgstr ""
 
 #. [unit]: type=Little Caterpillar, id=Imorin
-#: The_Bees_Journey/scenarios/06_The_Winter.cfg:528
+#: The_Bees_Journey/scenarios/06_The_Winter.cfg:532
 msgid "Imorin"
 msgstr ""
 
 #. [message]: speaker=unit
-#: The_Bees_Journey/scenarios/06_The_Winter.cfg:548
+#: The_Bees_Journey/scenarios/06_The_Winter.cfg:552
 msgid "OH! A caterpillar came out from the lair!"
 msgstr ""
 
 #. [message]: speaker=Marie
-#: The_Bees_Journey/scenarios/06_The_Winter.cfg:552
+#: The_Bees_Journey/scenarios/06_The_Winter.cfg:556
 msgid "What a cute caterpillar."
 msgstr ""
 
 #. [message]: speaker=Kaldyn
-#: The_Bees_Journey/scenarios/06_The_Winter.cfg:556
+#: The_Bees_Journey/scenarios/06_The_Winter.cfg:560
 msgid "... Do you think it’s cute? Really?"
 msgstr ""
 
 #. [message]: speaker=Marie
-#: The_Bees_Journey/scenarios/06_The_Winter.cfg:560
+#: The_Bees_Journey/scenarios/06_The_Winter.cfg:564
 msgid "We bees were all like these babies once, too. But someday, everyone will surely spread their wings."
 msgstr ""
 
 #. [message]: speaker=Kaldyn
-#: The_Bees_Journey/scenarios/06_The_Winter.cfg:564
+#: The_Bees_Journey/scenarios/06_The_Winter.cfg:568
 msgid "I’m not quite familiar with that kind of feeling..."
 msgstr ""
 
 #. [message]: speaker=Clovis
-#: The_Bees_Journey/scenarios/06_The_Winter.cfg:578
+#: The_Bees_Journey/scenarios/06_The_Winter.cfg:582
 msgid "Hey, looks like she wants to follow us. Also, she seems to have a bit of frostbite."
 msgstr ""
 
 #. [message]: speaker=Marie
-#: The_Bees_Journey/scenarios/06_The_Winter.cfg:583
+#: The_Bees_Journey/scenarios/06_The_Winter.cfg:587
 msgid "Then let’s get her cured quickly! But how did you know it was a female?"
 msgstr ""
 
 #. [message]: speaker=Clovis
-#: The_Bees_Journey/scenarios/06_The_Winter.cfg:588
+#: The_Bees_Journey/scenarios/06_The_Winter.cfg:592
 msgid "There’s no real reason for it, just a feeling."
 msgstr ""
 
 #. [message]: speaker=Marie
-#: The_Bees_Journey/scenarios/06_The_Winter.cfg:595
+#: The_Bees_Journey/scenarios/06_The_Winter.cfg:599
 msgid "Oh no! This baby is getting frostbite! We have to help quickly!"
 msgstr ""
 
 #. [message]: speaker=narrator
-#: The_Bees_Journey/scenarios/06_The_Winter.cfg:603
+#: The_Bees_Journey/scenarios/06_The_Winter.cfg:607
 msgid "Imorin can advance to a powerful unit relatively quickly."
 msgstr ""
 
 #. [message]: speaker=unit
-#: The_Bees_Journey/scenarios/06_The_Winter.cfg:619
+#: The_Bees_Journey/scenarios/06_The_Winter.cfg:623
 msgid "You said you’d help us..."
 msgstr ""
 
 #. [message]: speaker=Dragochan
-#: The_Bees_Journey/scenarios/06_The_Winter.cfg:631
+#: The_Bees_Journey/scenarios/06_The_Winter.cfg:635
 msgid "Oh no! My brethren I had finally met with has died!"
 msgstr ""
 
 #. [message]
-#: The_Bees_Journey/scenarios/06_The_Winter.cfg:636
+#: The_Bees_Journey/scenarios/06_The_Winter.cfg:640
 msgid "Drake’s boss is down! Conquer this island, my grunts!"
 msgstr ""
 
 #. [message]: speaker=Dilan
-#: The_Bees_Journey/scenarios/06_The_Winter.cfg:653
+#: The_Bees_Journey/scenarios/06_The_Winter.cfg:657
 msgid "If you hadn’t come here, victory would have been far more difficult. Perhaps by now, we might have been destroyed by them. It’s thanks to you that this island didn’t become a vacation spot for orcs."
 msgstr ""
 
 #. [message]: speaker=Dilan
-#: The_Bees_Journey/scenarios/06_The_Winter.cfg:657
+#: The_Bees_Journey/scenarios/06_The_Winter.cfg:661
 msgid "Thanks for your help, my kin and... the mysterious bees."
 msgstr ""
 
 #. [message]: speaker=Dragochan
-#: The_Bees_Journey/scenarios/06_The_Winter.cfg:661
+#: The_Bees_Journey/scenarios/06_The_Winter.cfg:665
 msgid "I was just doing what I should. It’s nice to see someone of my own race again after so long. By the way, we’re heading to an island right now. Called Gapas Island, and it’s around here on the map..."
 msgstr ""
 
 #. [message]: speaker=Dilan
-#: The_Bees_Journey/scenarios/06_The_Winter.cfg:665
+#: The_Bees_Journey/scenarios/06_The_Winter.cfg:669
 msgid "... Oh, you are lucky ones. This island is right over there."
 msgstr ""
 
 #. [message]: speaker=Noaille
-#: The_Bees_Journey/scenarios/06_The_Winter.cfg:669
+#: The_Bees_Journey/scenarios/06_The_Winter.cfg:673
 msgid "That’s excellent."
 msgstr ""
 
 #. [message]: speaker=Dilan
-#: The_Bees_Journey/scenarios/06_The_Winter.cfg:673
+#: The_Bees_Journey/scenarios/06_The_Winter.cfg:677
 msgid "Well, we haven’t introduced ourselves yet. I’m Dilan, leader of this island. What about you, drake?"
 msgstr ""
 
 #. [message]: speaker=Dragochan
-#: The_Bees_Journey/scenarios/06_The_Winter.cfg:677
+#: The_Bees_Journey/scenarios/06_The_Winter.cfg:681
 msgid "My name is Dragochan. But I’ve forgotten my real name... My memories before being captured by pirates are quite hazy."
 msgstr ""
 
 #. [message]: speaker=Dilan
-#: The_Bees_Journey/scenarios/06_The_Winter.cfg:681
+#: The_Bees_Journey/scenarios/06_The_Winter.cfg:685
 msgid "... That bracelet resembles one belonging to a clan I know... You bees are welcome to rest here for a while. I wish to have a talk with Dragochan."
 msgstr ""
 
@@ -2755,9 +2755,9 @@ msgstr ""
 #. [message]: speaker=Marie
 #. [message]: speaker=Clovis
 #. [message]: role=Advisor
+#. [message]: speaker=Fersen
 #. [message]: speaker=Diala
 #. [message]: speaker=Jophin
-#. [message]: speaker=Fersen
 #. [message]
 #. [unit_type]: id=Butterfly Faerie, race=insect, gender=female
 #. [unit_type]: id=Cocoon, race=insect, gender=female
@@ -2766,56 +2766,66 @@ msgstr ""
 #. [unit_type]: id=Red Ninja, race=ninja, gender=male,female
 #. [unit_type]: id=Young Ninja, race=ninja, gender=male,female
 #. [race]: id=ninja
-#: The_Bees_Journey/scenarios/08_Encounter_with_Truth.cfg:33
-#: The_Bees_Journey/scenarios/08_Encounter_with_Truth.cfg:36
-#: The_Bees_Journey/scenarios/08_Encounter_with_Truth.cfg:225
-#: The_Bees_Journey/scenarios/08_Encounter_with_Truth.cfg:230
-#: The_Bees_Journey/scenarios/08_Encounter_with_Truth.cfg:234
-#: The_Bees_Journey/scenarios/08_Encounter_with_Truth.cfg:251
-#: The_Bees_Journey/scenarios/08_Encounter_with_Truth.cfg:255
-#: The_Bees_Journey/scenarios/08_Encounter_with_Truth.cfg:280
-#: The_Bees_Journey/scenarios/08_Encounter_with_Truth.cfg:284
-#: The_Bees_Journey/scenarios/08_Encounter_with_Truth.cfg:291
-#: The_Bees_Journey/scenarios/08_Encounter_with_Truth.cfg:295
-#: The_Bees_Journey/scenarios/08_Encounter_with_Truth.cfg:299
-#: The_Bees_Journey/scenarios/08_Encounter_with_Truth.cfg:303
-#: The_Bees_Journey/scenarios/08_Encounter_with_Truth.cfg:307
-#: The_Bees_Journey/scenarios/08_Encounter_with_Truth.cfg:311
-#: The_Bees_Journey/scenarios/08_Encounter_with_Truth.cfg:326
-#: The_Bees_Journey/scenarios/08_Encounter_with_Truth.cfg:332
+#: The_Bees_Journey/scenarios/08_Encounter_with_Truth.cfg:34
+#: The_Bees_Journey/scenarios/08_Encounter_with_Truth.cfg:37
+#: The_Bees_Journey/scenarios/08_Encounter_with_Truth.cfg:274
+#: The_Bees_Journey/scenarios/08_Encounter_with_Truth.cfg:279
+#: The_Bees_Journey/scenarios/08_Encounter_with_Truth.cfg:283
+#: The_Bees_Journey/scenarios/08_Encounter_with_Truth.cfg:300
+#: The_Bees_Journey/scenarios/08_Encounter_with_Truth.cfg:304
+#: The_Bees_Journey/scenarios/08_Encounter_with_Truth.cfg:329
+#: The_Bees_Journey/scenarios/08_Encounter_with_Truth.cfg:333
+#: The_Bees_Journey/scenarios/08_Encounter_with_Truth.cfg:369
+#: The_Bees_Journey/scenarios/08_Encounter_with_Truth.cfg:373
+#: The_Bees_Journey/scenarios/08_Encounter_with_Truth.cfg:377
+#: The_Bees_Journey/scenarios/08_Encounter_with_Truth.cfg:381
+#: The_Bees_Journey/scenarios/08_Encounter_with_Truth.cfg:385
+#: The_Bees_Journey/scenarios/08_Encounter_with_Truth.cfg:389
+#: The_Bees_Journey/scenarios/08_Encounter_with_Truth.cfg:393
+#: The_Bees_Journey/scenarios/08_Encounter_with_Truth.cfg:413
+#: The_Bees_Journey/scenarios/08_Encounter_with_Truth.cfg:419
+#: The_Bees_Journey/scenarios/08_Encounter_with_Truth.cfg:435
+#: The_Bees_Journey/scenarios/08_Encounter_with_Truth.cfg:448
+#: The_Bees_Journey/scenarios/08_Encounter_with_Truth.cfg:452
 #: The_Bees_Journey/units/caterpillars/Butterfly_Faerie.cfg:23
 #: The_Bees_Journey/units/caterpillars/Cocoon.cfg:22
 #: The_Bees_Journey/units/caterpillars/Little_Caterpillar.cfg:18
 #: The_Bees_Journey/units/ninjas/Ninja.cfg:22
 #: The_Bees_Journey/units/ninjas/Red_Ninja.cfg:23
 #: The_Bees_Journey/units/ninjas/Young_Ninja.cfg:22
-#: The_Bees_Journey/units/units.cfg:29
+#: The_Bees_Journey/units/units.cfg:30
 msgid "FIXME"
 msgstr ""
 
 #. [side]: type=Great Hornet, id=Diala
-#: The_Bees_Journey/scenarios/08_Encounter_with_Truth.cfg:72
+#: The_Bees_Journey/scenarios/08_Encounter_with_Truth.cfg:73
 msgid "Diala"
 msgstr ""
 
-#. [side]: type=Warrior Hornet, id=Fersen
-#: The_Bees_Journey/scenarios/08_Encounter_with_Truth.cfg:99
+#. [side]
+#: The_Bees_Journey/scenarios/08_Encounter_with_Truth.cfg:100
+#: The_Bees_Journey/scenarios/08_Encounter_with_Truth.cfg:127
 msgid "team_name^Fersen"
 msgstr ""
 
-#. [side]: type=Warrior Hornet, id=Fersen
-#: The_Bees_Journey/scenarios/08_Encounter_with_Truth.cfg:103
-msgid "Fersen"
-msgstr ""
-
 #. [side]: type=Great Hornet, id=Jophin
-#: The_Bees_Journey/scenarios/08_Encounter_with_Truth.cfg:133
+#: The_Bees_Journey/scenarios/08_Encounter_with_Truth.cfg:145
 msgid "Jophin"
 msgstr ""
 
 #. [objective]: condition=lose
-#: The_Bees_Journey/scenarios/08_Encounter_with_Truth.cfg:177
+#: The_Bees_Journey/scenarios/08_Encounter_with_Truth.cfg:193
 msgid "Death of Fersen"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: The_Bees_Journey/scenarios/08_Encounter_with_Truth.cfg:340
+msgid "<small>FIXME</small>"
+msgstr ""
+
+#. [unit]: type=Warrior Hornet, id=Fersen
+#: The_Bees_Journey/scenarios/08_Encounter_with_Truth.cfg:353
+msgid "Fersen"
 msgstr ""
 
 #. [scenario]: id=10_Daydream_Memories
@@ -4087,7 +4097,7 @@ msgstr ""
 
 #. [female]: gender=female
 #: The_Bees_Journey/units/ninjas/Red_Ninja.cfg:97
-msgid "female^Red Ninja"
+msgid "female^Red Kunoichi"
 msgstr ""
 
 #. [unit_type]: id=Young Ninja, race=ninja, gender=male,female
@@ -4132,17 +4142,17 @@ msgid "Aiko,Akemi,Sachiko,Yukie,Terumi,Kaworu,Masako,Riku,Kicho,Hiroko,Gracia,Se
 msgstr ""
 
 #. [race]: id=ninja
-#: The_Bees_Journey/units/units.cfg:25
+#: The_Bees_Journey/units/units.cfg:26
 msgid "race^Ninja"
 msgstr ""
 
 #. [race]: id=ninja
-#: The_Bees_Journey/units/units.cfg:26
+#: The_Bees_Journey/units/units.cfg:27
 msgid "race+female^Ninja"
 msgstr ""
 
 #. [race]: id=ninja
-#: The_Bees_Journey/units/units.cfg:27
+#: The_Bees_Journey/units/units.cfg:28
 msgid "race^Ninjas"
 msgstr ""
 
@@ -4307,10 +4317,10 @@ msgid ""
 "* S7 - <b>Rescue the Ninjas</b>\n"
 "\n"
 "<span color='yellow'>Work-in-Progress</span>:\n"
+"* S8 - <b>Encounter with Truth</b> (Volume III begins)\n"
 "* S10 - <b>Daydream Memories</b>\n"
 "\n"
 "<span color='deepskyblue'>Pending</span>:\n"
-"* S8 - <b>Encounter with Truth</b> (Volume III begins)\n"
 "* S9 - <b>Reunion</b>\n"
 "* S11 - <b>Mother in the Eyelids</b>\n"
 "* S12 - <b>The Bee’s Journey</b>\n"
