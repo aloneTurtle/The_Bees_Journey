@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: The Bee’s Journey\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2026-01-10 19:06 UTC\n"
-"PO-Revision-Date: 2026-01-11 04:14+0900\n"
+"POT-Creation-Date: 2026-01-11 22:08 UTC\n"
+"PO-Revision-Date: 2026-01-12 07:18+0900\n"
 "Last-Translator: \n"
 "Language-Team: KameRamen\n"
 "Language: ja\n"
@@ -201,6 +201,7 @@ msgstr "Marie"
 #: The_Bees_Journey/scenarios/10_Daydream_Memories.cfg:2020 The_Bees_Journey/scenarios/10_Daydream_Memories.cfg:2022
 #: The_Bees_Journey/scenarios/10_Daydream_Memories.cfg:2023 The_Bees_Journey/scenarios/10_Daydream_Memories.cfg:2025
 #: The_Bees_Journey/scenarios/10_Daydream_Memories.cfg:2027 The_Bees_Journey/scenarios/10_Daydream_Memories.cfg:2035
+#: The_Bees_Journey/utils/credits.cfg:23
 msgid "Marie"
 msgstr "Marie"
 
@@ -540,7 +541,7 @@ msgstr ""
 #: The_Bees_Journey/scenarios/01_Wrathful_Morning.cfg:87 The_Bees_Journey/scenarios/01_Wrathful_Morning.cfg:181
 #: The_Bees_Journey/scenarios/01_Wrathful_Morning.cfg:201 The_Bees_Journey/scenarios/05_Arrival_at_Lagos_Island.cfg:66
 #: The_Bees_Journey/scenarios/05_Arrival_at_Lagos_Island.cfg:135 The_Bees_Journey/scenarios/08_Encounter_with_Truth.cfg:69
-#: The_Bees_Journey/scenarios/08_Encounter_with_Truth.cfg:141 The_Bees_Journey/scenarios/10_Daydream_Memories.cfg:70
+#: The_Bees_Journey/scenarios/08_Encounter_with_Truth.cfg:142 The_Bees_Journey/scenarios/10_Daydream_Memories.cfg:70
 #: The_Bees_Journey/scenarios/10_Daydream_Memories.cfg:90 The_Bees_Journey/scenarios/10_Daydream_Memories.cfg:110
 msgid "team_name^Hornets"
 msgstr "雀蜂"
@@ -571,7 +572,7 @@ msgstr "敵のリーダーを倒す"
 #: The_Bees_Journey/scenarios/03_Honey_Meets_Darkness.cfg:146 The_Bees_Journey/scenarios/04_To_the_Voyage.cfg:120
 #: The_Bees_Journey/scenarios/05_Arrival_at_Lagos_Island.cfg:182 The_Bees_Journey/scenarios/06_The_Winter.cfg:146
 #: The_Bees_Journey/scenarios/06_The_Winter.cfg:434 The_Bees_Journey/scenarios/07_Rescue_the_Ninjas.cfg:187
-#: The_Bees_Journey/scenarios/07_Rescue_the_Ninjas.cfg:629 The_Bees_Journey/scenarios/08_Encounter_with_Truth.cfg:185
+#: The_Bees_Journey/scenarios/07_Rescue_the_Ninjas.cfg:629 The_Bees_Journey/scenarios/08_Encounter_with_Truth.cfg:186
 #: The_Bees_Journey/scenarios/10_Daydream_Memories.cfg:196 The_Bees_Journey/scenarios/10_Daydream_Memories.cfg:547
 msgid "Death of Marie"
 msgstr "Marie の死"
@@ -582,7 +583,7 @@ msgstr "Marie の死"
 #: The_Bees_Journey/scenarios/03_Honey_Meets_Darkness.cfg:150 The_Bees_Journey/scenarios/04_To_the_Voyage.cfg:124
 #: The_Bees_Journey/scenarios/05_Arrival_at_Lagos_Island.cfg:186 The_Bees_Journey/scenarios/06_The_Winter.cfg:150
 #: The_Bees_Journey/scenarios/06_The_Winter.cfg:438 The_Bees_Journey/scenarios/07_Rescue_the_Ninjas.cfg:191
-#: The_Bees_Journey/scenarios/07_Rescue_the_Ninjas.cfg:633 The_Bees_Journey/scenarios/08_Encounter_with_Truth.cfg:189
+#: The_Bees_Journey/scenarios/07_Rescue_the_Ninjas.cfg:633 The_Bees_Journey/scenarios/08_Encounter_with_Truth.cfg:190
 #: The_Bees_Journey/scenarios/10_Daydream_Memories.cfg:200 The_Bees_Journey/scenarios/10_Daydream_Memories.cfg:551
 msgid "Death of Noaille"
 msgstr "Noaille の死"
@@ -807,7 +808,7 @@ msgstr "ターンが尽きるまで耐える"
 #. [objectives]
 #. [objective]: condition=win
 #: The_Bees_Journey/scenarios/02_Skirmish_at_Sea.cfg:127 The_Bees_Journey/scenarios/02_Skirmish_at_Sea.cfg:241
-#: The_Bees_Journey/scenarios/05_Arrival_at_Lagos_Island.cfg:177 The_Bees_Journey/scenarios/08_Encounter_with_Truth.cfg:180
+#: The_Bees_Journey/scenarios/05_Arrival_at_Lagos_Island.cfg:177 The_Bees_Journey/scenarios/08_Encounter_with_Truth.cfg:181
 msgid "Defeat both enemy leaders"
 msgstr "敵のリーダーを両方倒す"
 
@@ -2914,6 +2915,40 @@ msgid "<i>Volume III: <b>Her Last Smile</b></i>"
 msgstr "<i>第三巻：<b>最後の微笑み</b></i>"
 
 #. [part]
+#: The_Bees_Journey/scenarios/08_Encounter_with_Truth.cfg:34
+msgid ""
+"On the eve of landing on Gapas Island, the hornets launched a surprise assault on the party. Caught in the swirling vortex "
+"of the assassin swarm, the battered boat shattered into pieces, and Dragochan and Kaldyn were swept away by the raging "
+"waves. The bees resisted the siege, but could not stop the two from being tossed by the sea and pulled far away."
+msgstr ""
+
+#. [part]
+#: The_Bees_Journey/scenarios/08_Encounter_with_Truth.cfg:37
+msgid ""
+"Marie and the bees escaped with their lives and clung to the wreckage, trembling as the peril passed. As morning faded and "
+"evening approached, they reached the coast of Gapas Island..."
+msgstr ""
+
+#. [side]: type=Great Hornet, id=Diala
+#: The_Bees_Journey/scenarios/08_Encounter_with_Truth.cfg:73
+msgid "Diala"
+msgstr "Diala"
+
+#. [side]
+#: The_Bees_Journey/scenarios/08_Encounter_with_Truth.cfg:100 The_Bees_Journey/scenarios/08_Encounter_with_Truth.cfg:128
+msgid "team_name^Fersen"
+msgstr "Fersen"
+
+#. [side]: type=Great Hornet, id=Jophin
+#: The_Bees_Journey/scenarios/08_Encounter_with_Truth.cfg:146
+msgid "Jophin"
+msgstr "Jophin"
+
+#. [objective]: condition=lose
+#: The_Bees_Journey/scenarios/08_Encounter_with_Truth.cfg:194
+msgid "Death of Fersen"
+msgstr "Fersen の死"
+
 #. [message]: speaker=narrator
 #. [message]: speaker=Noaille
 #. [message]: speaker=Marie
@@ -2926,55 +2961,62 @@ msgstr "<i>第三巻：<b>最後の微笑み</b></i>"
 #. [unit_type]: id=Butterfly Faerie, race=insect, gender=female
 #. [unit_type]: id=Cocoon, race=insect, gender=female
 #. [unit_type]: id=Little Caterpillar, race=insect, gender=female
+#. [unit_type]: id=Cardinal Hornet, race=insect
+#. [unit_type]: id=Reverend Hornet, race=insect
 #. [unit_type]: id=Ninja, race=ninja, gender=male,female
 #. [unit_type]: id=Red Ninja, race=ninja, gender=male,female
 #. [unit_type]: id=Young Ninja, race=ninja, gender=male,female
 #. [race]: id=ninja
-#: The_Bees_Journey/scenarios/08_Encounter_with_Truth.cfg:34 The_Bees_Journey/scenarios/08_Encounter_with_Truth.cfg:37
-#: The_Bees_Journey/scenarios/08_Encounter_with_Truth.cfg:274 The_Bees_Journey/scenarios/08_Encounter_with_Truth.cfg:279
-#: The_Bees_Journey/scenarios/08_Encounter_with_Truth.cfg:283 The_Bees_Journey/scenarios/08_Encounter_with_Truth.cfg:300
-#: The_Bees_Journey/scenarios/08_Encounter_with_Truth.cfg:304 The_Bees_Journey/scenarios/08_Encounter_with_Truth.cfg:329
-#: The_Bees_Journey/scenarios/08_Encounter_with_Truth.cfg:333 The_Bees_Journey/scenarios/08_Encounter_with_Truth.cfg:369
-#: The_Bees_Journey/scenarios/08_Encounter_with_Truth.cfg:373 The_Bees_Journey/scenarios/08_Encounter_with_Truth.cfg:377
-#: The_Bees_Journey/scenarios/08_Encounter_with_Truth.cfg:381 The_Bees_Journey/scenarios/08_Encounter_with_Truth.cfg:385
-#: The_Bees_Journey/scenarios/08_Encounter_with_Truth.cfg:389 The_Bees_Journey/scenarios/08_Encounter_with_Truth.cfg:393
-#: The_Bees_Journey/scenarios/08_Encounter_with_Truth.cfg:413 The_Bees_Journey/scenarios/08_Encounter_with_Truth.cfg:419
-#: The_Bees_Journey/scenarios/08_Encounter_with_Truth.cfg:435 The_Bees_Journey/scenarios/08_Encounter_with_Truth.cfg:448
-#: The_Bees_Journey/scenarios/08_Encounter_with_Truth.cfg:452 The_Bees_Journey/units/caterpillars/Butterfly_Faerie.cfg:23
+#: The_Bees_Journey/scenarios/08_Encounter_with_Truth.cfg:277 The_Bees_Journey/scenarios/08_Encounter_with_Truth.cfg:282
+#: The_Bees_Journey/scenarios/08_Encounter_with_Truth.cfg:286 The_Bees_Journey/scenarios/08_Encounter_with_Truth.cfg:303
+#: The_Bees_Journey/scenarios/08_Encounter_with_Truth.cfg:307 The_Bees_Journey/scenarios/08_Encounter_with_Truth.cfg:332
+#: The_Bees_Journey/scenarios/08_Encounter_with_Truth.cfg:336 The_Bees_Journey/scenarios/08_Encounter_with_Truth.cfg:378
+#: The_Bees_Journey/scenarios/08_Encounter_with_Truth.cfg:382 The_Bees_Journey/scenarios/08_Encounter_with_Truth.cfg:386
+#: The_Bees_Journey/scenarios/08_Encounter_with_Truth.cfg:390 The_Bees_Journey/scenarios/08_Encounter_with_Truth.cfg:394
+#: The_Bees_Journey/scenarios/08_Encounter_with_Truth.cfg:398 The_Bees_Journey/scenarios/08_Encounter_with_Truth.cfg:402
+#: The_Bees_Journey/scenarios/08_Encounter_with_Truth.cfg:422 The_Bees_Journey/scenarios/08_Encounter_with_Truth.cfg:428
+#: The_Bees_Journey/scenarios/08_Encounter_with_Truth.cfg:468 The_Bees_Journey/scenarios/08_Encounter_with_Truth.cfg:481
+#: The_Bees_Journey/scenarios/08_Encounter_with_Truth.cfg:485 The_Bees_Journey/units/caterpillars/Butterfly_Faerie.cfg:23
 #: The_Bees_Journey/units/caterpillars/Cocoon.cfg:22 The_Bees_Journey/units/caterpillars/Little_Caterpillar.cfg:18
+#: The_Bees_Journey/units/hornets/Cardinal_Hornet.cfg:23 The_Bees_Journey/units/hornets/Reverend_Hornet.cfg:22
 #: The_Bees_Journey/units/ninjas/Ninja.cfg:22 The_Bees_Journey/units/ninjas/Red_Ninja.cfg:23
 #: The_Bees_Journey/units/ninjas/Young_Ninja.cfg:22 The_Bees_Journey/units/units.cfg:30
 msgid "FIXME"
 msgstr "修正求ム"
 
-#. [side]: type=Great Hornet, id=Diala
-#: The_Bees_Journey/scenarios/08_Encounter_with_Truth.cfg:73
-msgid "Diala"
-msgstr "Diala"
-
-#. [side]
-#: The_Bees_Journey/scenarios/08_Encounter_with_Truth.cfg:100 The_Bees_Journey/scenarios/08_Encounter_with_Truth.cfg:127
-msgid "team_name^Fersen"
-msgstr "Fersen"
-
-#. [side]: type=Great Hornet, id=Jophin
-#: The_Bees_Journey/scenarios/08_Encounter_with_Truth.cfg:145
-msgid "Jophin"
-msgstr "Jophin"
-
-#. [objective]: condition=lose
-#: The_Bees_Journey/scenarios/08_Encounter_with_Truth.cfg:193
-msgid "Death of Fersen"
-msgstr "Fersen の死"
-
 #. [message]: speaker=narrator
-#: The_Bees_Journey/scenarios/08_Encounter_with_Truth.cfg:340
+#: The_Bees_Journey/scenarios/08_Encounter_with_Truth.cfg:343
 msgid "<small>FIXME</small>"
 msgstr "<small>修正求ム</small>"
 
-#. [unit]: type=Warrior Hornet, id=Fersen
-#: The_Bees_Journey/scenarios/08_Encounter_with_Truth.cfg:353
+#. [unit]: type=Cardinal Hornet, id=Fersen
+#: The_Bees_Journey/scenarios/08_Encounter_with_Truth.cfg:357
 msgid "Fersen"
+msgstr ""
+
+#. [message]: speaker=Marie
+#: The_Bees_Journey/scenarios/08_Encounter_with_Truth.cfg:436
+msgid "They summoned the undead... How did those hornets acquire knowledge of necromancy?"
+msgstr ""
+
+#. [message]: speaker=Noaille
+#: The_Bees_Journey/scenarios/08_Encounter_with_Truth.cfg:440
+msgid "<i>They are... No way...</i>"
+msgstr ""
+
+#. [message]: speaker=Marie
+#: The_Bees_Journey/scenarios/08_Encounter_with_Truth.cfg:444
+msgid "Noaille, are you feeling unwell? You turned pale as a spirit."
+msgstr ""
+
+#. [message]: speaker=Noaille
+#: The_Bees_Journey/scenarios/08_Encounter_with_Truth.cfg:448
+msgid "No, I was just recalling a little about the past! Truly nothing to speak of."
+msgstr ""
+
+#. [message]: speaker=Marie
+#: The_Bees_Journey/scenarios/08_Encounter_with_Truth.cfg:452
+msgid "... Is that REALLY not a big deal for you?"
 msgstr ""
 
 #. [scenario]: id=10_Daydream_Memories
@@ -3865,7 +3907,7 @@ msgstr ""
 #. [unit_type]: id=TBJ Ant, race=insect, gender=female
 #: The_Bees_Journey/units/ants/TBJ_Ant.cfg:8
 msgid "Ant"
-msgstr ""
+msgstr "蟻"
 
 #. [attack]
 #. [attack]: type=blade
@@ -3898,7 +3940,7 @@ msgstr "女王蟻"
 #. [unit_type]: id=TBJ Soldier Ant, race=insect, gender=female
 #: The_Bees_Journey/units/ants/TBJ_Soldier_Ant.cfg:8
 msgid "Soldier Ant"
-msgstr ""
+msgstr "兵隊蟻"
 
 #. [unit_type]: id=Bee, race=insect, gender=female
 #: The_Bees_Journey/units/bees/Bee.cfg:5
@@ -4037,7 +4079,7 @@ msgstr ""
 #. [unit_type]: id=Butterfly Faerie, race=insect, gender=female
 #: The_Bees_Journey/units/caterpillars/Butterfly_Faerie.cfg:5
 msgid "Butterfly Faerie"
-msgstr ""
+msgstr "蝶の妖精"
 
 #. [heals]: id=healing
 #: The_Bees_Journey/units/caterpillars/Butterfly_Faerie.cfg:33
@@ -4066,32 +4108,32 @@ msgstr "妖精の接触"
 #. [attack]: type=impact
 #: The_Bees_Journey/units/caterpillars/Butterfly_Faerie.cfg:61
 msgid "scales"
-msgstr ""
+msgstr "鱗粉"
 
 #. [attack]: type=arcane
 #: The_Bees_Journey/units/caterpillars/Butterfly_Faerie.cfg:73
 msgid "ethereal breeze"
-msgstr ""
+msgstr "神秘のそよ風"
 
 #. [unit_type]: id=Cocoon, race=insect, gender=female
 #: The_Bees_Journey/units/caterpillars/Cocoon.cfg:5
 msgid "Cocoon"
-msgstr ""
+msgstr "繭"
 
 #. [unit_type]: id=Little Caterpillar, race=insect, gender=female
 #: The_Bees_Journey/units/caterpillars/Little_Caterpillar.cfg:5
 msgid "Little Caterpillar"
-msgstr ""
+msgstr "小さな芋虫"
 
 #. [attack]: type=impact
 #: The_Bees_Journey/units/caterpillars/Little_Caterpillar.cfg:35
 msgid "web"
-msgstr ""
+msgstr "糸"
 
 #. [attack]: type=impact
 #: The_Bees_Journey/units/caterpillars/Little_Caterpillar.cfg:47
 msgid "sling"
-msgstr ""
+msgstr "投石"
 
 #. [unit_type]: id=Drone, race=insect
 #: The_Bees_Journey/units/drones/Drone.cfg:5
@@ -4128,6 +4170,7 @@ msgstr ""
 #. [attack]: type=impact
 #: The_Bees_Journey/units/drones/King_Bee.cfg:31 The_Bees_Journey/units/drones/Priest_Bee.cfg:30
 #: The_Bees_Journey/units/drones/Shadow_Bee.cfg:30 The_Bees_Journey/units/drones/Wizard_Bee.cfg:29
+#: The_Bees_Journey/units/hornets/Cardinal_Hornet.cfg:37 The_Bees_Journey/units/hornets/Reverend_Hornet.cfg:35
 msgid "staff"
 msgstr "杖"
 
@@ -4224,6 +4267,16 @@ msgstr "死の剣"
 msgid "chill wave"
 msgstr "冷気の嵐"
 
+#. [unit_type]: id=Cardinal Hornet, race=insect
+#: The_Bees_Journey/units/hornets/Cardinal_Hornet.cfg:5
+msgid "Cardinal Hornet"
+msgstr "雀蜂の枢機卿"
+
+#. [attack]: type=cold
+#: The_Bees_Journey/units/hornets/Cardinal_Hornet.cfg:46 The_Bees_Journey/units/hornets/Reverend_Hornet.cfg:44
+msgid "curse"
+msgstr "呪い"
+
 #. [unit_type]: id=Great Hornet, race=insect, gender=female
 #: The_Bees_Journey/units/hornets/Great_Hornet.cfg:5
 msgid "Great Hornet"
@@ -4252,6 +4305,11 @@ msgstr ""
 "ですが、遠隔攻撃の手段を有しておらず、また炎の熱に対しては脆弱です。蜜蜂たちはこれらの弱点を巧みに突いて攻撃を仕掛けることが"
 "できます。"
 
+#. [unit_type]: id=Reverend Hornet, race=insect
+#: The_Bees_Journey/units/hornets/Reverend_Hornet.cfg:5
+msgid "Reverend Hornet"
+msgstr "雀蜂の牧師"
+
 #. [unit_type]: id=Warrior Hornet, race=insect, gender=female
 #: The_Bees_Journey/units/hornets/Warrior_Hornet.cfg:5
 msgid "Warrior Hornet"
@@ -4272,44 +4330,44 @@ msgstr "精霊"
 #. [unit_type]: id=Ninja, race=ninja, gender=male,female
 #: The_Bees_Journey/units/ninjas/Ninja.cfg:5
 msgid "Ninja"
-msgstr ""
+msgstr "忍者"
 
 #. [attack]: type=blade
 #: The_Bees_Journey/units/ninjas/Ninja.cfg:30 The_Bees_Journey/units/ninjas/Red_Ninja.cfg:45
 #: The_Bees_Journey/units/ninjas/Young_Ninja.cfg:31
 msgid "katana"
-msgstr ""
+msgstr "刀"
 
 #. [attack]: type=pierce
 #: The_Bees_Journey/units/ninjas/Ninja.cfg:42 The_Bees_Journey/units/ninjas/Red_Ninja.cfg:57
 #: The_Bees_Journey/units/ninjas/Young_Ninja.cfg:40
 msgid "shuriken"
-msgstr ""
+msgstr "手裏剣"
 
 #. [female]: gender=female
 #: The_Bees_Journey/units/ninjas/Ninja.cfg:82
 msgid "female^Kunoichi"
-msgstr ""
+msgstr "くノ一"
 
 #. [unit_type]: id=Red Ninja, race=ninja, gender=male,female
 #: The_Bees_Journey/units/ninjas/Red_Ninja.cfg:5
 msgid "Red Ninja"
-msgstr ""
+msgstr "赤忍者"
 
 #. [female]: gender=female
 #: The_Bees_Journey/units/ninjas/Red_Ninja.cfg:97
 msgid "female^Red Kunoichi"
-msgstr ""
+msgstr "赤くノ一"
 
 #. [unit_type]: id=Young Ninja, race=ninja, gender=male,female
 #: The_Bees_Journey/units/ninjas/Young_Ninja.cfg:5
 msgid "Young Ninja"
-msgstr ""
+msgstr "若い忍者"
 
 #. [female]: gender=female
 #: The_Bees_Journey/units/ninjas/Young_Ninja.cfg:85
 msgid "female^Young Kunoichi"
-msgstr ""
+msgstr "若いくノ一"
 
 #. [race]: id=insect
 #: The_Bees_Journey/units/units.cfg:5
@@ -4351,7 +4409,7 @@ msgstr ""
 #. [race]: id=ninja
 #: The_Bees_Journey/units/units.cfg:26
 msgid "race^Ninja"
-msgstr ""
+msgstr "忍者"
 
 #. [race]: id=ninja
 #: The_Bees_Journey/units/units.cfg:27
@@ -4362,6 +4420,74 @@ msgstr "忍者"
 #: The_Bees_Journey/units/units.cfg:28
 msgid "race^Ninjas"
 msgstr "忍者"
+
+#: The_Bees_Journey/utils/credits.cfg:23
+msgid "Based on The Bee’s Journey by"
+msgstr ""
+
+#: The_Bees_Journey/utils/credits.cfg:24
+msgid "Starring"
+msgstr ""
+
+#: The_Bees_Journey/utils/credits.cfg:24
+msgid ""
+"Marie\n"
+"Noaille\n"
+"Dragochan\n"
+"Kaldyn"
+msgstr ""
+
+#: The_Bees_Journey/utils/credits.cfg:30 The_Bees_Journey/utils/credits.cfg:32
+msgid "Graphics by"
+msgstr ""
+
+#: The_Bees_Journey/utils/credits.cfg:30
+msgid ""
+"Tsunami_ ― Portraits and Other Graphics\n"
+"Renlie_Cocoa ― Sprites for Original Units"
+msgstr ""
+
+#: The_Bees_Journey/utils/credits.cfg:32
+msgid "battlestar ― Worm Sprite from Children of Dragons"
+msgstr ""
+
+#: The_Bees_Journey/utils/credits.cfg:33
+msgid "Music by"
+msgstr ""
+
+#: The_Bees_Journey/utils/credits.cfg:33
+msgid ""
+"ancestral ― Battle Cry\n"
+"Mythological ― wesnoth-3.ogg\n"
+"KKSlider60 ― Breeze\n"
+"Tlogmer ― Calm Before the Storm"
+msgstr ""
+
+#: The_Bees_Journey/utils/credits.cfg:39
+msgid "Story Co-Author"
+msgstr ""
+
+#: The_Bees_Journey/utils/credits.cfg:39
+msgid "Dragon-Friend"
+msgstr ""
+
+#: The_Bees_Journey/utils/credits.cfg:40
+msgid "Special Thanks"
+msgstr ""
+
+#: The_Bees_Journey/utils/credits.cfg:40
+msgid ""
+"Atreides ― Some Helpful Advice\n"
+"Dragon-Friend ― Various Contributions and Love for Bees"
+msgstr ""
+
+#: The_Bees_Journey/utils/credits.cfg:44
+msgid "Written and Directed by"
+msgstr ""
+
+#: The_Bees_Journey/utils/credits.cfg:44
+msgid "Hiroki Hatanaka (KameRamen)"
+msgstr ""
 
 #. [message]: speaker=unit
 #: The_Bees_Journey/utils/deaths.cfg:12
@@ -4416,7 +4542,7 @@ msgstr ""
 #. [message]: speaker=unit
 #: The_Bees_Journey/utils/deaths.cfg:150
 msgid "Ouch... It hurts me..."
-msgstr ""
+msgstr "うっ... 痛いなの..."
 
 #. [message]: speaker=unit
 #: The_Bees_Journey/utils/deaths.cfg:163
@@ -4426,7 +4552,7 @@ msgstr "今ここで死ぬわけにはいかないわ。"
 #. [message]: speaker=unit
 #: The_Bees_Journey/utils/deaths.cfg:167
 msgid "<i><b>Ninja art: disappearing!</b></i>"
-msgstr ""
+msgstr "<i><b>忍法、隠れ身の術！</b></i>"
 
 #. [message]: speaker=unit
 #: The_Bees_Journey/utils/deaths.cfg:182
@@ -4461,7 +4587,7 @@ msgstr ""
 #. [message]: speaker=Imorin
 #: The_Bees_Journey/utils/emergence-events.cfg:61
 msgid "Thank you for protecting me all this time! I’ll keep by your side from now on!"
-msgstr ""
+msgstr "今まで守ってくれてありがとうなの！これからもずっと一緒にいるなの！"
 
 #. [message]: speaker=Marie
 #: The_Bees_Journey/utils/emergence-events.cfg:65
@@ -4598,12 +4724,12 @@ msgstr "閉じる"
 #. [note]: description=<span color='deepskyblue'><i><b>
 #: The_Bees_Journey/utils/objective-notes.cfg:7
 msgid "Stage "
-msgstr ""
+msgstr "ステージ"
 
 #. [time]: id=nightmare
 #: The_Bees_Journey/utils/schedules.cfg:6
 msgid "Nightmare"
-msgstr ""
+msgstr "悪夢"
 
 #. [part]
 #: The_Bees_Journey/utils/storytxt.cfg:6
