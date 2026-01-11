@@ -13,16 +13,21 @@ For version 2.0 and later.
 * Create achievements and apply them to all existing scenarios.
 * Create various macros for scenarios.
 
+### Graphics and Music
+
+* Removed music: wesnoth-6.ogg
+* Optimize images and directory structure, and copy required assets.
+
 ### Scenarios
 
 * S5 - Arrival at Lagos Island
   * Balancing related to changes to ant units.
 
 * S6 - The Winter
-  * New scenario.
+  * New playable scenario.
 
 * S7 - Rescue the Ninjas
-  * New scenario.
+  * New playable scenario.
 
 ### Translations
 
@@ -30,7 +35,7 @@ For version 2.0 and later.
 
 ### Units
 
-* New units: TBJ Ant, TBJ Soldier Ant, TBJ Fire Ant, TBJ Queen Ant, Little Caterpillar, Cocoon, Butterfly Faerie, Young Ninja, Ninja, Red Ninja
+* New units: TBJ Ant, TBJ Soldier Ant, TBJ Fire Ant, TBJ Queen Ant, Little Caterpillar, Cocoon, Butterfly Faerie, Young Ninja, Ninja, Red Ninja, Reverend Hornet, Cardinal Hornet
 * Hide the ants from mainline.
 
 ## Version 1.99.0 (Alpha)
