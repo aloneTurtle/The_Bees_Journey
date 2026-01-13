@@ -2,7 +2,17 @@
 
 ![bees.gif](https://github.com/aloneTurtle/The_Bees_Journey/blob/main/images/bees.gif)
 
-For version 2.0 and later.
+For version 2.0 series and later.
+
+## Version 1.99.2 (Beta 2)
+
+### Scenarios
+
+* S6 - The Winter
+  * Balancing a little.
+
+* S7 - Rescue the Ninjas
+  * Balancing a little.
 
 ## Version 1.99.1 (Beta 1)
 
