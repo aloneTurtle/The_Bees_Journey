@@ -6,6 +6,10 @@ For version 2.0 series and later.
 
 ## Version 1.99.2 (Beta 2)
 
+### Graphics and Music
+
+* Updated sprite: King Bee
+
 ### Scenarios
 
 * S6 - The Winter
