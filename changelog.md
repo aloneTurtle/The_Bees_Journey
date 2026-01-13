@@ -14,6 +14,10 @@ For version 2.0 series and later.
 * S7 - Rescue the Ninjas
   * Balancing a little.
 
+### Units
+
+* Fix the image paths for Assault Hornet.
+
 ## Version 1.99.1 (Beta 1)
 
 ### General
