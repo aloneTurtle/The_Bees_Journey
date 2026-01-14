@@ -18,6 +18,9 @@ For version 2.0 series and later.
 * S7 - Rescue the Ninjas
   * Balancing a little.
 
+* S8 - Encounter with Truth
+  * New playable scenario.
+
 ### Units
 
 * Fix the image paths for Assault Hornet.
