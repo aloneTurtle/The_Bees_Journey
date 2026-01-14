@@ -8,7 +8,7 @@
 
 That summer, the Kingdom of Bees was destroyed under the hornet invasion. You, the lone surviving princess, must lead the bees on their journey to rebuild the homeland.
 
-**(Intermediate level, 12 scenarios planned, currently 7 playable.)**
+**(Intermediate level, 12 scenarios planned, currently 8 playable.)**
 
 ## Notice
 
