@@ -4,6 +4,8 @@
 
 For version 2.0 series and later.
 
+---
+
 ## Version 1.99.2 (Beta 2)
 
 ### Graphics and Music
@@ -24,6 +26,8 @@ For version 2.0 series and later.
 ### Units
 
 * Fix the image paths for Assault Hornet.
+
+---
 
 ## Version 1.99.1 (Beta 1)
 
@@ -58,6 +62,8 @@ For version 2.0 series and later.
 
 * New units: TBJ Ant, TBJ Soldier Ant, TBJ Fire Ant, TBJ Queen Ant, Little Caterpillar, Cocoon, Butterfly Faerie, Young Ninja, Ninja, Red Ninja, Reverend Hornet, Cardinal Hornet
 * Hide the ants from mainline.
+
+---
 
 ## Version 1.99.0 (Alpha)
 
