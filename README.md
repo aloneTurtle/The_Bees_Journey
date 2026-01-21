@@ -1,3 +1,6 @@
+[![License: GPL v2](https://img.shields.io/badge/License-GPL_v2-blue.svg)](https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html)
+[![CI](https://github.com/aloneTurtle/The_Bees_Journey/actions/workflows/ci-main.yml/badge.svg)](https://github.com/aloneTurtle/The_Bees_Journey/actions/workflows/ci-main.yml)
+
 # The Bee’s Journey
 
 ![icon.png](https://github.com/aloneTurtle/The_Bees_Journey/blob/main/images/icon.png)
