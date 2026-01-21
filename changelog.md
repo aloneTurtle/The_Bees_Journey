@@ -6,6 +6,14 @@ For version 2.0 series and later.
 
 ## Version 1.99.2 (Beta 2)
 
+### General
+
+* Cleanup scenario code again.
+* Implement character AMLAs; currently only for Marie, Noaille, Dragochan, and Imorin.
+  * Imorin can now acquire a new charm weapon special.
+  * This was created based on advice from Dimetro-Dog (@inuyasha5) on Discord.
+* Switch the campaign help to Lua implementation.
+
 ### Graphics and Music
 
 * Updated sprite: King Bee
