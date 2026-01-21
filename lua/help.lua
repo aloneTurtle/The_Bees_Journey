@@ -184,6 +184,9 @@ function wesnoth.wml_actions.show_campaign_help(cfg)
 		local form_list = function(list, text)
 			return "✦ " .. "<b>" .. list .. "</b>" .. ": " .. text .. "\n"
 		end
+		local form_scls = function(sect, list)
+			return "<b>" .. sect .. "</b>\n" .. "✦ " .. list .. "\n\n"
+		end
 
 		--
 		-- Help pages
@@ -196,9 +199,9 @@ function wesnoth.wml_actions.show_campaign_help(cfg)
 		)
 		add_page( _"Scenario Redesign Status",
 			form_text( _"Intermediate level, 12 scenarios planned, currently 8 playable.") ..
-			form_sect( _"Complete", _"✦ S0, S1, S2, S3, S4, S5, S6, S7, S8") ..
-			form_sect( _"Work-in-Progress", _"✦ S9, S10") ..
-			form_sect( _"Pending", _"✦ S11, S12, S12x") ..
+			form_scls( _"Complete", _"S0, S1, S2, S3, S4, S5, S6, S7, S8") ..
+			form_scls( _"Work-in-Progress", _"S9, S10") ..
+			form_scls( _"Pending", _"S11, S12, S12x") ..
 			form_text( _"S9 and subsequent scenarios are scheduled to undergo fundamental revisions from earlier versions.")
 		)
 		add_page( _"Character AMLAs",
@@ -207,20 +210,19 @@ function wesnoth.wml_actions.show_campaign_help(cfg)
 		)
 		add_page( _"Items and Easter Eggs",
 			form_text( _"List of all items and Easter eggs during the campaign.") ..
-			form_sect( _"S2 ― Skirmish at Sea", _"✦ You can earn gold for each enemy leader you defeat.") ..
-			form_sect( _"S3 ― Honey Meets Darkness", _"✦ There is a bow (12×3) beyond the swamp. It can be used by a unit except a drone.") ..
-			form_sect( _"S4 ― To the Voyage", _"✦ There is an allied elven lord (Clovis) hiding in one of the villages.\n✦ Let Kaldyn head towards the lake.") ..
-			form_sect( _"S5 ― Arrival at Lagos Island", _"✦ There is an enemy soldier guarding the gold.") ..
-			form_sect( _"S6 ― The Winter", _"✦ There is an allied little caterpillar (Imorin) hiding in the lair.") ..
-			form_sect( _"S7 ― Rescue the Ninjas", _"✦ There is a ring that grants the skirmisher ability.\n✦ Defeating Kushark with Dragochan grants a special bonus.") ..
-			form_sect( _"S9 ― Reunion", _"✦ Defeating the enemy leader grants a shield usable from the next scenario on.") ..
+			form_scls( _"S2 ― Skirmish at Sea", _"You can earn gold for each enemy leader you defeat.") ..
+			form_scls( _"S3 ― Honey Meets Darkness", _"There is a bow (12×3) beyond the swamp. It can be used by a unit except a drone.") ..
+			form_scls( _"S4 ― To the Voyage", _"There is an allied elven lord (Clovis) hiding in one of the villages. Also, let Kaldyn head towards the lake.") ..
+			form_scls( _"S5 ― Arrival at Lagos Island", _"There is an enemy soldier guarding the gold.") ..
+			form_scls( _"S6 ― The Winter", _"There is an allied little caterpillar (Imorin) hiding in the lair.") ..
+			form_scls( _"S7 ― Rescue the Ninjas", _"There is a ring that grants the skirmisher ability. Also, defeating Kushark with Dragochan grants a special bonus.") ..
+			form_scls( _"S9 ― Reunion", _"Defeating the enemy leader grants a shield usable from the next scenario on.") ..
 			form_text( _"See also achievements.")
 		)
 		add_page( _"Feedback or Bug Reports",
 			form_text( _"If you encounter any bugs or unnatural behavior, please report them to the author. Feedback (especially on game balance and prose) is also always welcome.") ..
-			form_list( _"Wesnoth.org Forum Topic", _"https://r.wesnoth.org/t60376") ..
-			form_list( _"GitHub Issue Tracker", _"https://github.com/aloneTurtle/The_Bees_Journey/issues") ..
-			"\n" ..
+			form_list( _"Wesnoth.org Forum Topic", "https://r.wesnoth.org/t60376") ..
+			form_list( _"GitHub Issue Tracker", "https://github.com/aloneTurtle/The_Bees_Journey/issues") .. "\n" ..
 			form_text( _"When posting, please indicate the campaign version you are playing.")
 		)
 
