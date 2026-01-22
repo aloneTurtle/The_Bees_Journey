@@ -1,4 +1,4 @@
-# The Bee's Journey - Characters
+# The Bee’s Journey - Characters
 
 This is a list of character profiles and settings for the campaign. Some details may change during future development.
 
