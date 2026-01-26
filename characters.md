@@ -12,7 +12,7 @@ Characters included in the defeat conditions or other important ones.
 
 ### Marie
 
-![princess-bee.png](https://github.com/aloneTurtle/The_Bees_Journey/blob/main/images/units/bees/princess-bee.png)
+![Marie sprite](https://github.com/aloneTurtle/The_Bees_Journey/blob/main/images/units/bees/princess-bee.png)
 
 A princess raised on the island that serves as the starting point of the story, and the heir to the Kingdom of Bees. As mentioned in the introduction, she has been intelligent from an early age and is beloved by the worker bees, but due to her immaturity (especially at first), she sometimes struggles to manage her emotions effectively. She inherited her battlefield command skills from Melissa and can also wield the mystical flame, which symbolizes their royal lineage.
 
@@ -26,43 +26,43 @@ Ultimately, she became the first queen of the new kingdom and authored The Beeâ€
 
 ### Noaille
 
-![elder-bee.png](https://github.com/aloneTurtle/The_Bees_Journey/blob/main/images/units/bees/elder-bee.png)
+![Noaille sprite](https://github.com/aloneTurtle/The_Bees_Journey/blob/main/images/units/bees/elder-bee.png)
 
 FIXME
 
 ### Melissa
 
-![queen-bee.png](https://github.com/aloneTurtle/The_Bees_Journey/blob/main/images/units/bees/queen-bee.png)
+![Melissa sprite](https://github.com/aloneTurtle/The_Bees_Journey/blob/main/images/units/bees/queen-bee.png)
 
 FIXME
 
 ### Dragochan
 
-![flare.png](https://github.com/wesnoth/wesnoth/blob/1.19.18/data/core/images/units/drakes/flare.png)
+![Dragochan sprite](https://github.com/wesnoth/wesnoth/blob/1.19.18/data/core/images/units/drakes/flare.png)
 
 FIXME
 
 ### Kaldyn
 
-![lich.png](https://github.com/wesnoth/wesnoth/blob/1.19.18/data/core/images/units/undead-necromancers/lich.png)
+![Kaldyn sprite](https://github.com/wesnoth/wesnoth/blob/1.19.18/data/core/images/units/undead-necromancers/lich.png)
 
 FIXME
 
 ### Belania
 
-![firebomb-ant.png](https://github.com/wesnoth/wesnoth/blob/1.19.18/data/core/images/units/monsters/ant/firebomb-ant.png)
+![Belania sprite](https://github.com/wesnoth/wesnoth/blob/1.19.18/data/core/images/units/monsters/ant/firebomb-ant.png)
 
 FIXME
 
 ### Valois
 
-![dark-queen-bee.png](https://github.com/aloneTurtle/The_Bees_Journey/blob/main/images/units/undead/dark-queen-bee.png)
+![Valois sprite](https://github.com/aloneTurtle/The_Bees_Journey/blob/main/images/units/undead/dark-queen-bee.png)
 
 FIXME
 
 ### Mal Jeanne
 
-![ancient-lich.png](https://github.com/wesnoth/wesnoth/blob/1.19.18/data/core/images/units/undead-necromancers/ancient-lich.png)
+![Mal Jeanne sprite](https://github.com/wesnoth/wesnoth/blob/1.19.18/data/core/images/units/undead-necromancers/ancient-lich.png)
 
 FIXME
 
@@ -72,37 +72,37 @@ Loyal characters not included in the defeat conditions, etc.
 
 ### Clovis
 
-![lord.png](https://github.com/wesnoth/wesnoth/blob/1.19.18/data/core/images/units/elves-wood/lord.png)
+![Clovis sprite](https://github.com/wesnoth/wesnoth/blob/1.19.18/data/core/images/units/elves-wood/lord.png)
 
 FIXME
 
 ### Dilan
 
-![warrior.png](https://github.com/wesnoth/wesnoth/blob/1.19.18/data/core/images/units/drakes/warrior.png)
+![Dilan sprite](https://github.com/wesnoth/wesnoth/blob/1.19.18/data/core/images/units/drakes/warrior.png)
 
 FIXME
 
 ### Imorin
 
-![shyde.png](https://github.com/wesnoth/wesnoth/blob/1.19.18/data/core/images/units/elves-wood/shyde.png)
+![Imorin sprite](https://github.com/wesnoth/wesnoth/blob/1.19.18/data/core/images/units/elves-wood/shyde.png)
 
 FIXME
 
 ### Yoshie
 
-![nightblade.png](https://github.com/wesnoth/wesnoth/blob/1.19.18/data/core/images/units/orcs/nightblade.png)
+![Yoshie sprite](https://github.com/wesnoth/wesnoth/blob/1.19.18/data/core/images/units/orcs/nightblade.png)
 
 FIXME
 
 ### Fersen
 
-![cardinal-hornet.png](https://github.com/aloneTurtle/The_Bees_Journey/blob/main/images/units/hornets/cardinal-hornet.png)
+![Fersen sprite](https://github.com/aloneTurtle/The_Bees_Journey/blob/main/images/units/hornets/cardinal-hornet.png)
 
 FIXME
 
 ### Flora
 
-![mage%2Bfemale.png](https://github.com/wesnoth/wesnoth/blob/1.19.18/data/core/images/units/human-magi/mage%2Bfemale.png)
+![Flora sprite](https://github.com/wesnoth/wesnoth/blob/1.19.18/data/core/images/units/human-magi/mage%2Bfemale.png)
 
 FIXME
 
