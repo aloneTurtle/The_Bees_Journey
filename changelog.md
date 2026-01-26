@@ -29,9 +29,16 @@ For version 2.0 series and later.
 * S8 - Encounter with Truth
   * New playable scenario.
 
+* S9 - Reunion
+  * New playable scenario.
+
+* S10 - Daydream Memories
+  * New playable scenario.
+
 ### Units
 
 * Fix the image paths for Assault Hornet.
+* Add `[leading_anim]` for Marie.
 
 ## Version 1.99.1 (Beta 1)
 
