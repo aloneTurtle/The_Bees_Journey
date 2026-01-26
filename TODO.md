@@ -8,8 +8,8 @@ A (miscellaneous) list of tasks that should be prioritized.
 
 * Finish the campaign itself.
 * Create and finish each scenario step by step.
-  * Remaining ones: S9, S11, S12, S12x
-* Create new units: ~~Reverend Hornet~~, ~~Cardinal Hornet~~, Dark Queen Bee (more as needed)
+  * Remaining ones: S11, S12, S12x
+* Create new units: ~~Reverend Hornet~~, ~~Cardinal Hornet~~, Dark Queen Bee, Puppeteer (more as needed)
 
 ### Important
 
@@ -18,7 +18,7 @@ A (miscellaneous) list of tasks that should be prioritized.
 
 ### Other To-Dos
 
-* Balancing: S10
+* Balancing: S9, S10
 * Finish Japanese translation.
 * Consider making the music directory a separate package.
 * Update several documents.
