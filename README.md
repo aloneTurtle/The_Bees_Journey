@@ -3,7 +3,7 @@
 
 # The Bee’s Journey
 
-![icon.png](https://github.com/aloneTurtle/The_Bees_Journey/blob/main/images/icon.png)
+![Campaign icon](https://github.com/aloneTurtle/The_Bees_Journey/blob/main/images/icon.png)
 
 **The Bee’s Journey** (**TBJ**) is an add-on campaign for [Battle for Wesnoth](https://www.wesnoth.org).
 
@@ -11,7 +11,7 @@
 
 That summer, the Kingdom of Bees was destroyed under the hornet invasion. You, the lone surviving princess, must lead the bees on their journey to rebuild the homeland.
 
-**(Intermediate level, 12 scenarios planned, currently 8 playable.)**
+**(Intermediate level, 12 scenarios planned, currently 10 playable.)**
 
 ## Notice
 
@@ -23,4 +23,4 @@ You can now get it from the Wesnoth **1.19** add-ons server! Or clone from this 
 
 Keep in mind that this is still in the development stage and remains incomplete.
 
-![queen-younger.png](https://github.com/aloneTurtle/The_Bees_Journey/blob/main/images/portraits/queen-younger.png)
+![Campaign image](https://github.com/aloneTurtle/The_Bees_Journey/blob/main/images/portraits/queen-younger.png)
