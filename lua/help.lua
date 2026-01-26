@@ -1,6 +1,6 @@
 --
 -- I referenced the Drakipedia code for "Wings of Victory: Resolute Edition" by Mechanical/dwarftough
--- I thank them :)
+-- Thanks to them ;)
 --
 
 local T = wml.tag
@@ -198,14 +198,15 @@ function wesnoth.wml_actions.show_campaign_help(cfg)
 			form_list( _"Recommended Wesnoth Version", _"1.19.17 or later")
 		)
 		add_page( _"Scenario Redesign Status",
-			form_text( _"Intermediate level, 12 scenarios planned, currently 8 playable.") ..
-			form_scls( _"Complete", _"S0, S1, S2, S3, S4, S5, S6, S7, S8") ..
-			form_scls( _"Work-in-Progress", _"S9, S10") ..
-			form_scls( _"Pending", _"S11, S12, S12x") ..
+			form_text( _"Intermediate level, 12 scenarios planned, currently 10 playable.") ..
+			form_scls( _"Complete", "S0, S1, S2, S3, S4, S5, S6, S7, S8, S10") ..
+			form_scls( _"Complete (except for map polishing)", "S9") ..
+			form_scls( _"Work-in-Progress", "S11") ..
+			form_scls( _"Pending", "S12, S12x") ..
 			form_text( _"S9 and subsequent scenarios are scheduled to undergo fundamental revisions from earlier versions.")
 		)
 		add_page( _"Character AMLAs",
-			form_text( _"Several characters (and possibly all player units eventually?) in this campaign have their respective AMLA tree.") ..
+			form_text( _"Several characters (and possibly all player units eventually?) in this campaign have their respective AMLAs.") ..
 			form_text( _"Still under construction ― I aim to make the list available here once ready.")
 		)
 		add_page( _"Items and Easter Eggs",
@@ -216,7 +217,7 @@ function wesnoth.wml_actions.show_campaign_help(cfg)
 			form_scls( _"S5 ― Arrival at Lagos Island", _"There is an enemy soldier guarding the gold.") ..
 			form_scls( _"S6 ― The Winter", _"There is an allied little caterpillar (Imorin) hiding in the lair.") ..
 			form_scls( _"S7 ― Rescue the Ninjas", _"There is a ring that grants the skirmisher ability. Also, defeating Kushark with Dragochan grants a special bonus.") ..
-			form_scls( _"S9 ― Reunion", _"Defeating the enemy leader grants a shield usable from the next scenario on.") ..
+			form_scls( _"S9 ― Reunion", _"Defeating the enemy leader grants a buckler usable from the next scenario on.") ..
 			form_text( _"See also achievements.")
 		)
 		add_page( _"Feedback or Bug Reports",
