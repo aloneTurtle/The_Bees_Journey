@@ -8,7 +8,7 @@ A (miscellaneous) list of tasks that should be prioritized.
 
 * Finish the campaign itself.
 * Create and finish each scenario step by step.
-  * Remaining ones: S11, S12, S12x
+  * Remaining ones: S11, S12, S12x, S12y
 * Create new units: ~~Reverend Hornet~~, ~~Cardinal Hornet~~, Dark Queen Bee, Puppeteer (more as needed)
 
 ### Important

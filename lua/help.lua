@@ -202,7 +202,7 @@ function wesnoth.wml_actions.show_campaign_help(cfg)
 			form_scls( _"Complete", "S0, S1, S2, S3, S4, S5, S6, S7, S8, S10") ..
 			form_scls( _"Complete (except for map polishing)", "S9") ..
 			form_scls( _"Work-in-Progress", "S11") ..
-			form_scls( _"Pending", "S12, S12x") ..
+			form_scls( _"Pending", "S12, S12x, S12y") ..
 			form_text( _"S9 and subsequent scenarios are scheduled to undergo fundamental revisions from earlier versions.")
 		)
 		add_page( _"Character AMLAs",
