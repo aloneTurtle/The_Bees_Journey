@@ -194,7 +194,7 @@ function wesnoth.wml_actions.show_campaign_help(cfg)
 
 		add_page( _"Information",
 			form_list( _"Campaign Title", _"The Bee’s Journey") ..
-			form_list( _"Version", _"1.99.2 (Beta 2)") ..
+			form_list( _"Version", _"1.99.3 (Beta 3)") ..
 			form_list( _"Recommended Wesnoth Version", _"1.19.17 or later")
 		)
 		add_page( _"Scenario Redesign Status",
