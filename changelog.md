@@ -4,6 +4,12 @@
 
 For version 2.0 series and later.
 
+## Version 1.99.3 (Beta 3)
+
+### Units
+
+* Balancing Fire Bee and Sunshine Bee.
+
 ## Version 1.99.2 (Beta 2)
 
 ### General
